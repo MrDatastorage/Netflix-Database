@@ -1,1 +1,281 @@
-[]
+[
+{
+    "title": "CAPITALISM: A LOVE STORY", 
+    "description": "Filmmaker Michael Moore takes on capitalism's roots, the floundering U.S. economy, and 2008's global financial meltdown.", 
+    "actors": "Michael Moore", 
+    "director": "Michael Moore", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Captive", 
+    "description": "This documentary series reconstructs history's most complex, high-stakes hostage negotiations as kidnapping victims recount their terrifying ordeals.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1481241600"
+},
+{
+    "title": "Cartel Land", 
+    "description": "This documentary offers an up-close look at two vigilante groups that have formed in Mexico in response to the increasing dominance of drug cartels.", 
+    "actors": "", 
+    "director": "Matthew Heineman", 
+    "imdb_rating": "7.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1453075200"
+},
+{
+    "title": "Casting JonBenet", 
+    "description": "Local actors from JonBenet Ramsey's hometown offer multiple perspectives on her 1996 murder as they vie to play roles in a dramatization of the case.", 
+    "actors": "", 
+    "director": "Kitty Green", 
+    "imdb_rating": "5.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1493337600"
+},
+{
+    "title": "Catching the Sun", 
+    "description": "This documentary explores the worldwide economics of the burgeoning solar energy industry and its impact on hopeful job seekers in the United States.", 
+    "actors": "", 
+    "director": "Shalini Kantayya", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1461283200"
+},
+{
+    "title": "Cave of Forgotten Dreams", 
+    "description": "This fascinating documentary offers an unprecedented look at France's Chauvet Cave, which contains the oldest human-painted images found on Earth.", 
+    "actors": "Werner Herzog, Charles Fathy, Dominique Baffier, Jean Clottes", 
+    "director": "Werner Herzog", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1417219200"
+},
+{
+    "title": "Chasing Coral", 
+    "description": "Divers, scientists and photographers around the world mount an epic underwater campaign to document the disappearance of coral reefs.", 
+    "actors": "", 
+    "director": "Jeff Orlowski", 
+    "imdb_rating": "8.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1499990400"
+},
+{
+    "title": "Chasing Trane", 
+    "description": "Featuring interviews, insights and archival footage, this documentary aims to reveal how historical events shaped the music of John Coltrane.", 
+    "actors": "Denzel Washington, Bill Clinton, Ravi Coltrane, Common", 
+    "director": "John Scheinfeld", 
+    "imdb_rating": "7.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1510531200"
+},
+{
+    "title": "Chef's Table: France", 
+    "description": "Sample the bold new flavors of France with chefs who are pushing the boundaries of fine dining and reinventing a rich culinary tradition.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "Docuseries", 
+    "date_released": "1472774400"
+},
+{
+    "title": "Chicken Soup for the Soul's Being Dad", 
+    "description": "Nine dads around America with different family structures, backgrounds and jobs navigate the joys and challenges of fatherhood.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1535328000"
+},
+{
+    "title": "Children of God", 
+    "description": "A former member examines the lingering effects of being raised in the Family, a cult whose disturbing practices include the sexual abuse of children.", 
+    "actors": "", 
+    "director": "John Smithson", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Chris Brown: Welcome to My Life", 
+    "description": "Featuring interviews, concert footage and behind-the-scenes access, this documentary delivers fans an all-access look at the life of Chris Brown.", 
+    "actors": "Chris Brown", 
+    "director": "Andrew Sandler", 
+    "imdb_rating": "6.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1507334400"
+},
+{
+    "title": "Christiane Amanpour: Sex & Love Around the World", 
+    "description": "A contextual, acculturated dive into how adults in six, big global cities celebrate love and accentuate sex. CNN's Christiane Amanpour reports.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1538265600"
+},
+{
+    "title": "Christmas Cracker", 
+    "description": "It's more than a slight case of holiday madness for these Christmas-obsessed people, who love to celebrate Yuletide -- sometimes all year long.", 
+    "actors": "", 
+    "director": "Mark Henderson", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Churchill's First World War", 
+    "description": "Relying on his intimate letters to his wife, this docudrama examines Winston Churchill's extraordinary experiences during the Great War.", 
+    "actors": "", 
+    "director": "Adam Kemp", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "City 40", 
+    "description": "This documentary uses secret filming to penetrate the limits of a hidden Russian city whose inhabitants are bound to a bizarre nuclear arrangement.", 
+    "actors": "", 
+    "director": "Samira Goetschel", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "City of Joy", 
+    "description": "Women who've been sexually brutalized in war-torn Congo begin to heal at City of Joy, a center that helps them regain a sense of self and empowerment.", 
+    "actors": "", 
+    "director": "Madeleine Gavin", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1536278400"
+},
+{
+    "title": "City of Trees", 
+    "description": "A grassroots nonprofit faces mounting pressure as it aims to create jobs and improve Washington, D.C., parks through a special tree-planting program.", 
+    "actors": "", 
+    "director": "Brandon Kramer", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1494806400"
+},
+{
+    "title": "Code Black", 
+    "description": "Doctor and filmmaker Ryan McGarry takes viewers inside the world of a public hospital -- his own -- for a close-up look at the ailing medical system.", 
+    "actors": "", 
+    "director": "Ryan McGarry", 
+    "imdb_rating": "6.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "CODE: Debugging the Gender Gap", 
+    "description": "Experts and coders alike examine gender and racial inequities in the computer science world and spotlight efforts to correct the imbalance.", 
+    "actors": "", 
+    "director": "Robin Hauser Reynolds", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1486944000"
+},
+{
+    "title": "Command and Control", 
+    "description": "Chronicling a 1980 Titan II missile accident, this sobering documentary weighs the balance of power and safety involving weapons of mass destruction.", 
+    "actors": "", 
+    "director": "Robert Kenner", 
+    "imdb_rating": "6.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1494806400"
+},
+{
+    "title": "Conflict", 
+    "description": "Six conflict photographers reflect on their experiences capturing the atrocities of war and other manifestations of violence on film.", 
+    "actors": "", 
+    "director": "Nick Fitzhugh", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1467331200"
+},
+{
+    "title": "Conspiracy Theory: Did We Land On The Moon?", 
+    "description": "Skeptics and experts discuss photographs and other evidence that suggest the United States government faked NASA's moon landings for political gain.", 
+    "actors": "Mitch Pileggi", 
+    "director": "John Moffet", 
+    "imdb_rating": "3.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Cooked", 
+    "description": "As he tries his hand at baking, brewing and braising, acclaimed food writer Michael Pollan explores how cooking transforms food and shapes our world.", 
+    "actors": "Michael Pollan", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Docuseries", 
+    "date_released": "1455840000"
+},
+{
+    "title": "Cosmodrome", 
+    "description": "Get a look at the sophisticated engines Russia designed for a Cold War-era moon landing and how a changing world led them to a strange fate.", 
+    "actors": "Jaye Griffiths", 
+    "director": "Dan Clifton", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Country: Portraits of an American Sound", 
+    "description": "Iconic photographs and interviews with Roseanne Cash, Merle Haggard, Charley Pride and many other artists chronicle decades of American country music.", 
+    "actors": "Garth Brooks, Tanya Tucker, Kenny Rogers, Lee Ann Womack", 
+    "director": "Steven Kochones", 
+    "imdb_rating": "8.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1492819200"
+},
+{
+    "title": "Covered: Alive in Asia", 
+    "description": "Christian musician Israel Houghton leads his band Israel & New Breed on a tour supporting their newest album of multicultural, hybrid-genre songs.", 
+    "actors": "Israel Houghton", 
+    "director": "Micah Bickham, Galley Molina", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1459382400"
+},
+{
+    "title": "Cowspiracy: The Sustainability Secret", 
+    "description": "Learn how factory farming is decimating the planet's natural resources -- and why this crisis has been largely ignored by major environmental groups.", 
+    "actors": "Kip Andersen", 
+    "director": "Kip Andersen, Keegan Kuhn", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1442275200"
+},
+{
+    "title": "Cuba and the Cameraman", 
+    "description": "Emmy-winning filmmaker Jon Alpert chronicles the fortunes of three Cuban families over the course of four tumultuous decades in the nation's history.", 
+    "actors": "", 
+    "director": "Jon Alpert", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1511481600"
+},
+{
+    "title": "Curse of the Man Who Sees UFOs", 
+    "description": "Filmmaker Justin Gaar probes the odd but intriguing mind of longtime UFO videographer Christo Roppolo and shares footage from his many UFO sightings.", 
+    "actors": "Christo Roppolo", 
+    "director": "Justin Gaar", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1485820800"
+},
+{
+    "title": "Cutie and the Boxer", 
+    "description": "A 2014 Oscar nominee for Best Documentary Feature, this film explores the symbiotic relationship of artists Ushio and Noriko Shinohara.", 
+    "actors": "Noriko Shinohara, Ushio Shinohara", 
+    "director": "Zachary Heinzerling", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1528934400"
+}
+]
