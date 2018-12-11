@@ -1,1 +1,398 @@
-[]
+[
+{
+    "title": "A Faster Horse", 
+    "description": "To celebrate the Ford Mustang's 50th anniversary, an automotive engineer takes the beloved muscle car into the future while preserving its legacy.", 
+    "actors": "", 
+    "director": "David Gelb", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1454284800"
+},
+{
+    "title": "A Grand Night In: The Story of Aardman", 
+    "description": "Aardman Animations icons Wallace & Gromit, Morph and more join fans and collaborators for a retrospective celebrating the studio's 40th anniversary.", 
+    "actors": "Julie Walters", 
+    "director": "Richard Mears", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1477958400"
+},
+{
+    "title": "A Gray State", 
+    "description": "This documentary dissects the case of a filmmaker whose death, along with the deaths of his wife and daughter, sparked alt-right conspiracy theories.", 
+    "actors": "", 
+    "director": "Erik Nelson", 
+    "imdb_rating": "5.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1514160000"
+},
+{
+    "title": "A Leaf of Faith", 
+    "description": "This documentary takes a deep dive into the benefits, dangers and lingering questions around Kratom leaf as an alternative to opioid painkillers.", 
+    "actors": "Shane Mauss, Joe Rogan", 
+    "director": "Chris Bell", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1535328000"
+},
+{
+    "title": "A Life of Its Own: The Truth About Medical Marijuana", 
+    "description": "Award-winning journalist Helen Kapalos explores the subject of medical marijuana, uncovering life-changing treatments and cutting-edge research.", 
+    "actors": "", 
+    "director": "Helen Kapalos", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1525132800"
+},
+{
+    "title": "A Murder in the Park", 
+    "description": "This documentary excoriates a noted anti-death-penalty activist and his team, whose questionable methods got a convicted killer freed in 1999.", 
+    "actors": "", 
+    "director": "Christopher S. Rech, Brandon Kimber", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1493337600"
+},
+{
+    "title": "A New Economy", 
+    "description": "This film spotlights companies and individuals who are building a new economy by employing nontraditional business models that look beyond profit.", 
+    "actors": "", 
+    "director": "Trevor Meier", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1502755200"
+},
+{
+    "title": "A Plastic Ocean", 
+    "description": "When he discovers the world's oceans brimming with plastic waste, a documentary filmmaker investigates the pollution's environmental impacts.", 
+    "actors": "Tanya Streeter", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1492560000"
+},
+{
+    "title": "A Small Good Thing", 
+    "description": "In this documentary shot over the course of a year, six Berkshires residents choose holistic lifestyles that deepen bonds of family and community.", 
+    "actors": "", 
+    "director": "Pamela Tanner Boll", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1485216000"
+},
+{
+    "title": "A Week in Watts", 
+    "description": "Los Angeles police officers embark on an innovative program mentoring promising students from the harsh, gang-infested Watts neighborhood.", 
+    "actors": "", 
+    "director": "Gregory Caruso", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1518998400"
+},
+{
+    "title": "A Year in Champagne", 
+    "description": "Follow grape growers, famed vintners, aficionados and experts through the complex wine-making process unique to France's famous Champagne region.", 
+    "actors": "Martine Saunier", 
+    "director": "David Kennard", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1436918400"
+},
+{
+    "title": "A&E: When Patients Attack", 
+    "description": "The security staff of Queen Elizabeth Hospital in Birmingham, U.K., is constantly kept on its feet by aggressive patients. This is their story.", 
+    "actors": "Paul Loughran", 
+    "director": "Kerry Allison", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1515715200"
+},
+{
+    "title": "Abacus: Small Enough to Jail", 
+    "description": "Scapegoated in the wake of the 2008 financial crisis, an immigrant family indicted for fraud fights to defend the legacy of their small Chinatown bank.", 
+    "actors": "", 
+    "director": "Steve James", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Abstract: The Art of Design", 
+    "description": "Step inside the minds of the most innovative designers in a variety of disciplines and learn how design impacts every aspect of life.", 
+    "actors": "Christoph Niemann, Tinker Hatfield, Es Devlin, Bjarke Ingels", 
+    "director": "", 
+    "imdb_rating": "8.3/10", 
+    "category": "Docuseries", 
+    "date_released": "1486684800"
+},
+{
+    "title": "Accidental Courtesy", 
+    "description": "This documentary follows African American musician Daryl Davis, who's been making it his mission to meet and greet racists to change their minds.", 
+    "actors": "Daryl Davis", 
+    "director": "Matthew Ornstein", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1487721600"
+},
+{
+    "title": "Addicted to Sexting", 
+    "description": "This light-hearted documentary examines the phenomenon of erotic text messaging, talking about it with both pundits and participants.", 
+    "actors": "", 
+    "director": "Joseph Tosconi", 
+    "imdb_rating": "4.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "After Porn Ends 2", 
+    "description": "Retired porn stars reflect on their experiences in the adult film industry, sharing successes and struggles, fond memories and regrets.", 
+    "actors": "", 
+    "director": "Bryce Wagoner", 
+    "imdb_rating": "5.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1495929600"
+},
+{
+    "title": "After the Raves", 
+    "description": "Acclaimed DJ Tommie Sunshine unpacks uniquely inspiring stories from the controversial world of electronic dance music (EDM).", 
+    "actors": "Tommie Sunshine", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1529020800"
+},
+{
+    "title": "Ai Weiwei: Never Sorry", 
+    "description": "Chinese artist and activist Ai Weiwei uses social media and art to inspire protests and suffers government persecution for his actions.", 
+    "actors": "Ai Weiwei, Lao Ai", 
+    "director": "Alison Klayman", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Aileen Wuornos: The Selling of a Serial Killer", 
+    "description": "This mesmerizing documentary explores the troubled life and deadly end of serial killer Aileen Wuornos, a woman who murdered johns.", 
+    "actors": "Aileen Wuornos, Nick Broomfield", 
+    "director": "Nick Broomfield", 
+    "imdb_rating": "7.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1451606400"
+},
+{
+    "title": "Aileen: Life and Death of a Serial Killer", 
+    "description": "Documentarian Nick Broomfield trains his lens on infamous serial killer Aileen Wuornos, who began her murder spree in 1989.", 
+    "actors": "Aileen Wuornos", 
+    "director": "Nick Broomfield, Joan Churchill", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1451606400"
+},
+{
+    "title": "Alien Autopsy: Fact or Fiction?", 
+    "description": "This documentary presents gruesome footage of military doctors conducting an alien autopsy in 1947, which was exposed as a hoax after the show aired.", 
+    "actors": "Jonathan Frakes", 
+    "director": "Tom McGough", 
+    "imdb_rating": "5.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Alien Contact: Outer Space", 
+    "description": "This fact-based account delves into humankind's efforts to gather signals from possible intelligent beings beyond the solar system.", 
+    "actors": "J. Michael Long", 
+    "director": "J. Michael Long", 
+    "imdb_rating": "5.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1515456000"
+},
+{
+    "title": "Alive and Kicking", 
+    "description": "Take an inside look at swing dancing's continued prosperity and the lively and joyous personalities that make the art form so unique.", 
+    "actors": "", 
+    "director": "Susan Glatzer", 
+    "imdb_rating": "8.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1502323200"
+},
+{
+    "title": "AlphaGo", 
+    "description": "Seemingly simple but deceptively complex, the game of \"Go\" serves as the backdrop for this battle between artificial intelligence and man.", 
+    "actors": "", 
+    "director": "Greg Kohs", 
+    "imdb_rating": "8.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Amanda Knox", 
+    "description": "She was twice convicted and acquitted of murder. Amanda Knox and the people closest to her case speak out in this illuminating documentary.", 
+    "actors": "", 
+    "director": "Rod Blackhurst, Brian McGinn", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1475193600"
+},
+{
+    "title": "Amelia: A Tale of Two Sisters", 
+    "description": "Eight decades after her disappearance, Amelia Earhart's incredible accomplishments are still celebrated, thanks in large part to her sister Muriel.", 
+    "actors": "Rachael Stirling", 
+    "director": "Edward Cotterill", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1496275200"
+},
+{
+    "title": "American Anarchist", 
+    "description": "This documentary profiles William Powell, who wrote the \"The Anarchist Cookbook\" in the early 1970s and spent his later life regretting his actions.", 
+    "actors": "William Powell", 
+    "director": "Charlie Siskel", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1498176000"
+},
+{
+    "title": "American Experience: Rachel Carson", 
+    "description": "This life portrait honors nature author Rachel Carson, whose writings led to new laws on pesticides and ushered in an environmental movement.", 
+    "actors": "Oliver Platt", 
+    "director": "Michelle Ferrari", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1525132800"
+},
+{
+    "title": "American Experience: Ruby Ridge", 
+    "description": "A botched attempt to arrest a white supremacist in Idaho results in a gun battle, a standoff and three deaths that galvanize public opinion in 1992.", 
+    "actors": "Dave Hunt, Bo Gritz, Sara Weaver", 
+    "director": "Barak Goodman", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1492560000"
+},
+{
+    "title": "American Experience: Tesla", 
+    "description": "Inventor and genius Nikola Tesla, whose ideas revolutionized the use of electricity, envisioned technology that became indispensable decades later.", 
+    "actors": "Michael Murphy", 
+    "director": "", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1525132800"
+},
+{
+    "title": "American Experience: The Battle of Chosin", 
+    "description": "Months into the Korean War, U.S. troops at North Korea's Chosin Reservoir engaged in a bloody winter battle that would change the conflict's course.", 
+    "actors": "Michael Murphy", 
+    "director": "Randall MacLowry", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1525132800"
+},
+{
+    "title": "American Experience: The Race Underground", 
+    "description": "In late-1800s Boston, a vision for the first subway in the U.S. overcomes opposition and technical setbacks, setting a bold precedent for other cities.", 
+    "actors": "Michael Murphy", 
+    "director": "Michael Rossi", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1525132800"
+},
+{
+    "title": "American Masters: This Is Bob Hope", 
+    "description": "This Emmy-winning PBS series celebrates the life of iconic entertainer Bob Hope, whose eight-decade long career delighted audiences around the world.", 
+    "actors": "", 
+    "director": "John Scheinfeld", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1522540800"
+},
+{
+    "title": "American Revolutionary: The Evolution of Grace Lee Boggs", 
+    "description": "This documentary captures philosopher and social activist Grace Lee Boggs at age 97, still promoting justice and equality at home and abroad.", 
+    "actors": "Grace Lee Boggs", 
+    "director": "Grace Lee", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1498867200"
+},
+{
+    "title": "Animal House", 
+    "description": "Animals across the globe reveal themselves to be natural architects and engineers in this special highlights their unique construction skills.", 
+    "actors": "David Attenborough", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1494806400"
+},
+{
+    "title": "Animism", 
+    "description": "Meet five people who are romantically and physically attracted to inanimate objects, including the Eiffel Tower and a Ferris wheel.", 
+    "actors": "", 
+    "director": "William Spahic", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Anthony Bourdain: Parts Unknown", 
+    "description": "This CNN original series has chef Anthony Bourdain traveling to extraordinary locations around the globe to sample a variety of local cuisines.", 
+    "actors": "Anthony Bourdain", 
+    "director": "", 
+    "imdb_rating": "7.1/10", 
+    "category": "Docuseries", 
+    "date_released": "1431648000"
+},
+{
+    "title": "APEX: The Story of the Hypercar", 
+    "description": "A visionary carmaker introduces his fuel-efficient, high-performance hypercar to a market filled with big-name competitors like Ferrari and Porsche.", 
+    "actors": "Zachary Levi", 
+    "director": "J.F. Musial, Josh Vietze", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Armistice", 
+    "description": "Professor David Reynolds applies fresh thinking to the now-familiar story of the 1918 armistice that effectively brought World War I to an end.", 
+    "actors": "David Reynolds", 
+    "director": "Russell Barnes", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Asperger's Are Us", 
+    "description": "A comedy troupe of four friends on the autism spectrum prepares for a final show before its members go their separate ways.", 
+    "actors": "Noah Britton, Ethan Finlan, Jack Hanke, New Michael Ingemi", 
+    "director": "Alex Lehmann", 
+    "imdb_rating": "6.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1481414400"
+},
+{
+    "title": "Audrie & Daisy", 
+    "description": "In this wrenching documentary, two teens are sexually assaulted by boys they considered friends, humiliated online and harassed by their communities.", 
+    "actors": "", 
+    "director": "Bonni Cohen, Jon Shenk", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1474588800"
+},
+{
+    "title": "Avec Eric", 
+    "description": "Chef Eric Ripert of Manhattan's Le Bernardin takes viewers inside his high-end kitchen and around the world in search of high-quality ingredients.", 
+    "actors": "Eric Ripert", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1479427200"
+},
+{
+    "title": "AWAKE, A Dream from Standing Rock", 
+    "description": "Capturing global attention, the Standing Rock Sioux Tribe leads a peaceful protest against an oil pipeline threatening the drinking water of millions.", 
+    "actors": "", 
+    "director": "Josh Fox, James Spione", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1501545600"
+}
+]

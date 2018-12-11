@@ -1,1 +1,92 @@
-[]
+[
+{
+    "title": "Gaga: Five Foot Two", 
+    "description": "Follow pop provocateur Lady Gaga as she releases a new album, preps for her Super Bowl halftime show, and confronts physical and emotional struggles.", 
+    "actors": "Lady Gaga", 
+    "director": "Chris Moukarbel", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1506038400"
+},
+{
+    "title": "Gene Doctors", 
+    "description": "Doctors, scientists and patients shed light on recent breakthroughs in gene therapy and efforts to tackle the root causes of hereditary diseases.", 
+    "actors": "", 
+    "director": "Rob Whittlesey", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Generation Startup", 
+    "description": "This film tracks six young Detroit entrepreneurs over 17 months as they struggle to make their business dreams into successful startup realities.", 
+    "actors": "", 
+    "director": "Cynthia Wade, Cheryl Miller Houser", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "George Harrison: Living in the Material World", 
+    "description": "Director Martin Scorsese profiles former Beatle George Harrison in this reverent portrait that mixes interviews and archival footage.", 
+    "actors": "George Harrison", 
+    "director": "Martin Scorsese", 
+    "imdb_rating": "7.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1505433600"
+},
+{
+    "title": "Get Me Roger Stone", 
+    "description": "Examine the rise, fall and rebirth of political operative Roger Stone, who's been an influential member of Team Trump for decades.", 
+    "actors": "Roger Stone", 
+    "director": "Dylan Bank, Daniel DiMauro", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1494547200"
+},
+{
+    "title": "Ghost of the Mountains", 
+    "description": "An international group of filmmakers sets out on a mission to get up close and personal with a family of elusive snow leopards.", 
+    "actors": "Antoine Fuqua", 
+    "director": "Ben Wallis", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1505260800"
+},
+{
+    "title": "Ghostheads", 
+    "description": "Superfans of the monster 1984 hit \"Ghostbusters\" indulge their passion by gearing up, congregating at conventions and even doing charity work.", 
+    "actors": "Dan Aykroyd, Ivan Reitman, Sigourney Weaver, Ernie Hudson", 
+    "director": "Brendan Mertens", 
+    "imdb_rating": "6.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1468540800"
+},
+{
+    "title": "God Knows Where I Am", 
+    "description": "Through diary entries, this documentary follows the life and death of homeless woman Linda Bishop and her struggles with starvation, sanity and God.", 
+    "actors": "Lori Singer", 
+    "director": "Jedd Wider, Todd Wider", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1540166400"
+},
+{
+    "title": "Great Wild North", 
+    "description": "The hardy men and women who perform highly dangerous work as winter fur trappers in Alaska and the Yukon are profiled in this documentary series.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1505433600"
+},
+{
+    "title": "Gringo: The Dangerous Life of John McAfee", 
+    "description": "Tech tycoon John McAfee made millions from his anti-virus software. Now, he may be best known for his bizarre and scandalous lifestyle.", 
+    "actors": "", 
+    "director": "Nanette Burstein", 
+    "imdb_rating": "7.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1522540800"
+}
+]

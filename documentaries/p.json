@@ -1,1 +1,119 @@
-[]
+[
+{
+    "title": "Paleo Way", 
+    "description": "Through travel and talks with experts, celebrity chef Pete Evans shares information and recipes that showcase the benefits of a paleo lifestyle.", 
+    "actors": "Pete Evans", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Paranormal Survivor", 
+    "description": "In interviews and reenactments, ordinary people relive their terrifying encounters with unwelcome guests from beyond the world of the living.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "5.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1501804800"
+},
+{
+    "title": "Parrot Heads", 
+    "description": "Dive into the colorful world of Jimmy Buffett's most dedicated fans, who follow the singer from concert to concert and chill out along the way.", 
+    "actors": "Jimmy Buffett", 
+    "director": "Bryce Wagoner", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1488585600"
+},
+{
+    "title": "Patient Seventeen", 
+    "description": "A surgeon claims to remove high tech microchips that aliens used to manipulate the human race. This documentary seeks to separate fact from fiction.", 
+    "actors": "", 
+    "director": "Jeremy Kenyon Lockyer Corbell", 
+    "imdb_rating": "4.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1517184000"
+},
+{
+    "title": "Peculiar Pets", 
+    "description": "This offbeat documentary features people with pets that are as unorthodox as they are dangerous, including a crocodile, a lynx and a Komodo dragon.", 
+    "actors": "Natalie Casey", 
+    "director": "Adrian Cale", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1477958400"
+},
+{
+    "title": "Pentatonix: On My Way Home", 
+    "description": "This concert documentary follows self-proclaimed choir nerds turned Grammy-winning vocal quintet Pentatonix on their sold-out 2015 tour.", 
+    "actors": "Mitch Grassi, Scott Hoying, Avi Kaplan, Kirstie Maldonado", 
+    "director": "Devin Chanda, Matt Mitchener", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1444694400"
+},
+{
+    "title": "Pet Fooled", 
+    "description": "With commentary by two prominent veterinarians, this film looks at the unregulated pet food industry and its negative impact on animals' health.", 
+    "actors": "", 
+    "director": "Kohl Harrington", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Pet Hoarders", 
+    "description": "Experience the lives of pet owners who open up about their obsessive love of animals and how they care for their massive menageries.", 
+    "actors": "Ben Bishop", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1519689600"
+},
+{
+    "title": "Peter and the Farm", 
+    "description": "His hilltop farm in Vermont may be bucolic, but making ends meet is a backbreaking challenge for grizzled, hard-drinking organic farmer Peter Dunning.", 
+    "actors": "Peter Dunning", 
+    "director": "Tony Stone", 
+    "imdb_rating": "7.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1489017600"
+},
+{
+    "title": "Prescription Thugs", 
+    "description": "A documentarian uses his own family's experiences as a springboard to explore the ethical issues surrounding the FDA and pharmaceutical industry.", 
+    "actors": "Chris Bell", 
+    "director": "Chris Bell, Josh Alexander", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1460678400"
+},
+{
+    "title": "Prince Philip: The Plot to Make a King", 
+    "description": "This documentary recounts efforts by England's elite to deny power to royal consort Prince Philip due to his German roots and ambitious family.", 
+    "actors": "Tamsin Greig", 
+    "director": "Richard Sanders", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1488326400"
+},
+{
+    "title": "Print the Legend", 
+    "description": "This award-winning, original documentary chronicles the race for market leadership in 3D printing, the next wave of technological evolution.", 
+    "actors": "", 
+    "director": "Luis Lopez, Clay Tweel", 
+    "imdb_rating": "7.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1411689600"
+},
+{
+    "title": "Prison Women Compilations: Texas Hold 'Em", 
+    "description": "At Dallas County Jail in Texas, women working to guard some of the country's most dangerous inmates are prepared to keep order and command respect.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1521072000"
+}
+]

@@ -1,1 +1,200 @@
-[]
+[
+{
+    "title": "Raiders!: The Story of the Greatest Fan Film Ever Made", 
+    "description": "Three childhood friends attempt to finish the pet project they've worked on for over 30 years: re-creating \"Raiders of the Lost Ark\" shot for shot.", 
+    "actors": "", 
+    "director": "Jeremy Coon, Tim Skousen", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1473984000"
+},
+{
+    "title": "Ram Dass, Going Home", 
+    "description": "From his home on Maui, pioneering researcher, author and spiritual teacher Ram Dass reflects on love, life and death as his own days draw to a close.", 
+    "actors": "Ram Dass", 
+    "director": "Derek Peck", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1522972800"
+},
+{
+    "title": "Rapture", 
+    "description": "Groundbreaking artists share their life stories in this vibrant documentary series that captures hip-hop's impact on global culture.", 
+    "actors": "Logic, Nas, Dave East, T.I.", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1522368000"
+},
+{
+    "title": "Rats", 
+    "description": "Explore the icky world of rats and witness how their talent for surviving in almost any environment has led to catastrophic events throughout history.", 
+    "actors": "", 
+    "director": "Morgan Spurlock", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1481846400"
+},
+{
+    "title": "Real Crime: A Very Special Constable", 
+    "description": "When a special constable is stabbed to death outside her house, a botched robbery is suspected until police uncover shocking clues closer to home.", 
+    "actors": "", 
+    "director": "Tom Whitter", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Real Crime: Diamond Geezers", 
+    "description": "In an attempted heist worthy of a Hollywood film, a cadre of criminals sets out to steal the world's largest perfect diamond from a London landmark.", 
+    "actors": "Forbes KB", 
+    "director": "Tom Whitter", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Real Crime: Hannah's Killer", 
+    "description": "Determined to bring the man responsible for their daughter's murder to justice, a Southampton couple embarks on a grueling five-year crusade.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Real Crime: Supermarket Heist (Tesco Bomber)", 
+    "description": "In 2000, U.K. detectives spent months tracking a criminal known only as Sally, who was targeting a supermarket chain with extortion and letter bombs.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1471219200"
+},
+{
+    "title": "Recovery Boys", 
+    "description": "In a region ravaged by opioid abuse, four young men in a farming-based rehab forge a bond as they try to reinvent their lives after years of addiction.", 
+    "actors": "", 
+    "director": "Elaine McMillion Sheldon", 
+    "imdb_rating": "6.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1530230400"
+},
+{
+    "title": "Refugee", 
+    "description": "Five acclaimed photographers travel the world to provide detailed insight into the difficult conditions faced by refugees who dream of a better life.", 
+    "actors": "Cate Blanchett, Lynsey Addario, Omar Victor Diop, Graciela Iturbide", 
+    "director": "Clementine Malpas, Leslie Knott", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Reincarnated", 
+    "description": "Vice magazine's Andy Capper follows rapper Snoop Dogg on a pilgrimage to Jamaica, where he rechristens himself Snoop Lion, a reggae artist.", 
+    "actors": "Snoop Dogg, Dr. Dre, Bunny Wailer", 
+    "director": "Andy Capper", 
+    "imdb_rating": "6.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1465776000"
+},
+{
+    "title": "ReMastered: Tricky Dick & The Man in Black", 
+    "description": "This documentary chronicles Johnny Cash's 1970 visit to the White House, where Cash's emerging ideals clashed with Richard Nixon's policies.", 
+    "actors": "", 
+    "director": "Sara Dosa, Barbara Kopple", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1541116800"
+},
+{
+    "title": "ReMastered: Who Shot the Sheriff", 
+    "description": "In 1976, reggae icon Bob Marley survived an assassination attempt as rival political groups battled in Jamaica. But who exactly was responsible?", 
+    "actors": "", 
+    "director": "Kief Davidson", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1539302400"
+},
+{
+    "title": "Residente", 
+    "description": "The results of a DNA test spur Puerto Rican rap icon Residente to set out on a global voyage in search of his roots and fresh musical inspiration.", 
+    "actors": "Ren\u00e9 P\u00e9rez Joglar", 
+    "director": "Ren\u00e9 P\u00e9rez Joglar", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Restless Creature: Wendy Whelan", 
+    "description": "After 30 years with the New York City Ballet, celebrated dancer Wendy Whelan redefines herself as an artist in a new stage of life.", 
+    "actors": "Peter Martins, Sean Suozzi, Gretchen Smith, Ashley Laracey", 
+    "director": "Linda Saffire, Adam Schlesinger", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1506384000"
+},
+{
+    "title": "Revenge Porn", 
+    "description": "This eye-opening investigation of so-called \"revenge porn\" shows how easily a sexually charged share can go public if it gets into the wrong hands.", 
+    "actors": "Anna Richardson", 
+    "director": "Amanda Rees", 
+    "imdb_rating": "5.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1483142400"
+},
+{
+    "title": "Reversing Roe", 
+    "description": "Through interviews with abortion rights supporters and opponents, this film lifts the lid on a decades-long political campaign to overturn Roe v. Wade.", 
+    "actors": "Ricki Stern, Annie Sundberg", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1536796800"
+},
+{
+    "title": "Rolling Papers", 
+    "description": "As the newspaper industry takes a hit, The Denver Post breaks new ground with a section dedicated to cannabis culture.", 
+    "actors": "", 
+    "director": "Mitch Dickman", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1504828800"
+},
+{
+    "title": "Roman Empire", 
+    "description": "This stylish mix of documentary and lavish historical epic chronicles the turbulent, violent reigns of Commodus and Julius Caesar.", 
+    "actors": "Sean Bean, Aaron Jakubenko, Edwin Wright, Mike Edward", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1478822400"
+},
+{
+    "title": "Romeo Is Bleeding", 
+    "description": "This documentary follows poet Dont\u00e9 Clark as he tries to address the violence in his hometown of Richmond, California, by staging \"Romeo and Juliet.\"", 
+    "actors": "", 
+    "director": "Jason Zeldes", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1509494400"
+},
+{
+    "title": "Ronnie Coleman: The King", 
+    "description": "Today, legendary bodybuilder Ronnie Coleman's body bears the scars of becoming the best in the world. Here, he shares what it took to reach his goals.", 
+    "actors": "Ronnie Coleman", 
+    "director": "Vlad Yudin", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1540425600"
+},
+{
+    "title": "Rush: Beyond the Lighted Stage", 
+    "description": "Celebrate the remarkable 40-year career of influential Canadian rockers Rush with this documentary, which details the band's formation and evolution.", 
+    "actors": "", 
+    "director": "Sam Dunn, Scot McFadyen", 
+    "imdb_rating": "8.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1487116800"
+}
+]

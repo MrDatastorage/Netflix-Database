@@ -1,1 +1,182 @@
-[]
+[
+{
+    "title": "E-Team", 
+    "description": "The courageous investigators of Human Rights Watch's Emergencies Team risk their lives to document unlawful attacks on civilians by brutal dictators.", 
+    "actors": "", 
+    "director": "Katy Chevigny, Ross Kauffman", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1414108800"
+},
+{
+    "title": "Edward VIII: The Nazi King", 
+    "description": "Using declassified FBI information, this documentary investigates the extent to which British King Edward VIII sympathized with the Nazis.", 
+    "actors": "Jack Davenport", 
+    "director": "Clive Maltby", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1509667200"
+},
+{
+    "title": "Einstein's Biggest Blunder", 
+    "description": "Einstein's Theory of Relativity holds that the speed of light is constant, but some cutting-edge scientists are questioning this fundamental premise.", 
+    "actors": "Matthew Zajac", 
+    "director": "David Sington", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Elaine Stritch: Shoot Me", 
+    "description": "Broadway legend Elaine Stritch looks back on her life and career in this portrait composed of candid reflections, archival footage and interviews.", 
+    "actors": "Elaine Stritch, Alec Baldwin, Tina Fey, James Gandolfini", 
+    "director": "Chiemi Karasawa", 
+    "imdb_rating": "7.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1482537600"
+},
+{
+    "title": "Elephants: Spy in the Herd", 
+    "description": "Spy cams capture rarely seen elephant behavior, including two males battling for territory, a calf's birth, intra-herd jealousy and more.", 
+    "actors": "David Attenborough", 
+    "director": "John Downer", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1429660800"
+},
+{
+    "title": "Elizabeth at 90: A Family Tribute", 
+    "description": "A blend of the royal family's intimate recollections and rarely seen home movies pays tribute to Queen Elizabeth II on the eve of her 90th birthday.", 
+    "actors": "", 
+    "director": "John Bridcut", 
+    "imdb_rating": "6.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1495411200"
+},
+{
+    "title": "Ella Brennan: Commanding the Table", 
+    "description": "Chefs, food critics and historians share stories about pioneering female restaurateur Ella Brennan, who put the New Orleans food scene on the map.", 
+    "actors": "Ella Brennan", 
+    "director": "Leslie Iwerks", 
+    "imdb_rating": "8.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Elstree 1976", 
+    "description": "Then and now footage of bit players who appeared in \"Star Wars\" tells the story of how the film and its legions of fans changed their lives forever.", 
+    "actors": "Paul Blake, Jeremy Bulloch, John Chapman, Anthony Forrest", 
+    "director": "Jon Spira", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1473120000"
+},
+{
+    "title": "Empire Games", 
+    "description": "Interviews with scholars and dramatic reenactments bring to life the origins and history-making achievements of the world's greatest ancient empires.", 
+    "actors": "Jim O'Brien", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1538697600"
+},
+{
+    "title": "End Day", 
+    "description": "A fictional scientist travels from London to New York experiencing a multitude of doomsday scenarios, about which various experts provide commentary.", 
+    "actors": "Glenn Conroy", 
+    "director": "Gareth Edwards", 
+    "imdb_rating": "4.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "End Game", 
+    "description": "Facing an inevitable outcome, terminally ill patients meet extraordinary medical practitioners seeking to change our approach to life and death.", 
+    "actors": "", 
+    "director": "Rob Epstein, Jeffrey Friedman", 
+    "imdb_rating": "8.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1525392000"
+},
+{
+    "title": "Enlighten Us", 
+    "description": "This documentary digs deep to recount the saga of the superstar self-help guru convicted of negligent homicide in the deaths of three followers.", 
+    "actors": "James Arthur Ray", 
+    "director": "Jenny Carchman", 
+    "imdb_rating": "5.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1484697600"
+},
+{
+    "title": "Escorts", 
+    "description": "Get an unflinching look at two high-priced call girls who rely on the internet to find clients, and the effects of their lifestyle on their families.", 
+    "actors": "", 
+    "director": "Dan Reed", 
+    "imdb_rating": "5.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1483142400"
+},
+{
+    "title": "Expedition China", 
+    "description": "Cinematographers visit the remote forests and mountains of China in hopes of capturing footage of pandas, monkeys, red-crowned cranes and more.", 
+    "actors": "Maggie Q", 
+    "director": "Ben Wallis", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1520121600"
+},
+{
+    "title": "Explained", 
+    "description": "This enlightening series from Vox digs into a wide range of topics such as the rise of cryptocurrency, why diets fail, and the wild world of K-pop.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.4/10", 
+    "category": "Docuseries", 
+    "date_released": "1527033600"
+},
+{
+    "title": "Extraordinary: The Stan Romanek Story", 
+    "description": "Explore the life and times of Stan Romanek, who found himself in the middle of one of history's most intriguing stories of extraterrestrial contact.", 
+    "actors": "Stan Romanek", 
+    "director": "Jon Sumple", 
+    "imdb_rating": "4.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1499040000"
+},
+{
+    "title": "Extreme Adventure Emergencies", 
+    "description": "Witness the treacherous obstacles that adventurers have encountered on a trans-Atlantic balloon flight, a solo mission to the North Pole and more.", 
+    "actors": "Richard Branson", 
+    "director": "Dov Freedman", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1485907200"
+},
+{
+    "title": "Extreme Animal Attacks", 
+    "description": "In the wild or in captivity, animals can attack humans with devastating effect. Zoologist Nigel Marven examines some of the most unusual known cases.", 
+    "actors": "Sue McGregor", 
+    "director": "Nigel Marven", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1485907200"
+},
+{
+    "title": "Extreme Animal Obsessions", 
+    "description": "Meet people who are uniquely infatuated with animals -- from pet lovers who emulate their furry friends to chefs who harvest roadkill.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1537315200"
+},
+{
+    "title": "Extremis", 
+    "description": "Witness the wrenching emotions that accompany end-of-life decisions as doctors, patients and families in a hospital ICU face harrowing choices.", 
+    "actors": "", 
+    "director": "Dan Krauss", 
+    "imdb_rating": "7.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1473724800"
+}
+]
