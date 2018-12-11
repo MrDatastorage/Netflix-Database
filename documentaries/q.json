@@ -1,1 +1,29 @@
-[]
+[
+{
+    "title": "QB1: Beyond the Lights", 
+    "description": "This riveting series follows three star high school quarterbacks as they play their final season before moving on to Division I college football.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Queen Mimi", 
+    "description": "This heartwarming documentary profiles Marie Haist, a formerly homeless Los Angeles woman who lives in a laundromat and has befriended celebrities.", 
+    "actors": "Marie 'Mimi' Haist, Zach Galifianakis", 
+    "director": "Yaniv Rokah", 
+    "imdb_rating": "6.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1476230400"
+},
+{
+    "title": "Quincy", 
+    "description": "This documentary profiles music and culture icon Quincy Jones, offering unprecedented access to his private life and stories from his unparalleled career.", 
+    "actors": "Quincy Jones", 
+    "director": "Rashida Jones, Alan Hicks", 
+    "imdb_rating": "8.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1537488000"
+}
+]
