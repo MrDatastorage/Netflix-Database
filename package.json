@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/MrDatastorage/Netflix-Database/issues"
   },
-  "homepage": "https://github.com/MrDatastorage/Netflix-Database#readme"
+  "homepage": "https://github.com/MrDatastorage/Netflix-Database#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
