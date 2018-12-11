@@ -1,1 +1,371 @@
-[]
+[
+{
+    "title": "Nailed It!", 
+    "description": "Home bakers with a terrible track record take a crack at re-creating edible masterpieces for a $10,000 prize. It's part reality contest, part hot mess.", 
+    "actors": "Nicole Byer, Jacques Torres", 
+    "director": "", 
+    "imdb_rating": "6.3/10", 
+    "category": "Reality TV", 
+    "date_released": "1520553600"
+},
+{
+    "title": "Narcos", 
+    "description": "The true story of Colombia's infamously violent and powerful drug cartels fuels this gritty gangster drama series.", 
+    "actors": "Wagner Moura, Pedro Pascal, Boyd Holbrook, Dami\u00e1n Alc\u00e1zar", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1440720000"
+},
+{
+    "title": "Narcos: Mexico", 
+    "description": "Witness the birth of the Mexican drug war in the 1980s as a gritty new \"Narcos\" saga chronicles the true story of the Guadalajara cartel's ascent.", 
+    "actors": "Michael Pe\u00f1a, Diego Luna, Tenoch Huerta, Joaquin Cosio", 
+    "director": "", 
+    "imdb_rating": "8.5/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1542326400"
+},
+{
+    "title": "Naruto", 
+    "description": "Guided by the spirit demon within him, orphaned Naruto learns to harness his powers as a ninja in this anime adventure series.", 
+    "actors": "Junko Takeuchi, Chie Nakamura, Noriaki Sugiyama, Kazuhiko Inoue", 
+    "director": "Hayato Date", 
+    "imdb_rating": "7.6/10", 
+    "category": "Anime Series", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Natural Born Pranksters", 
+    "description": "The biggest pranksters on YouTube -- VitalyzdTV, Dennis Roady and Roman Atwood -- turn Hollywood into \"Prankwood\" with their most over-the-top stunts.", 
+    "actors": "Roman Atwood, Vitaly Zdorovetskiy, Dennis Roady", 
+    "director": "Roman Atwood, Ben Pluimer", 
+    "imdb_rating": "5.2/10", 
+    "category": "Comedies", 
+    "date_released": "1474675200"
+},
+{
+    "title": "Nature's Great Events (2009)", 
+    "description": "This series looks at how seasonal changes cause shifting weather patterns and ocean currents, creating the conditions for spectacular wildlife events.", 
+    "actors": "David Attenborough", 
+    "director": "", 
+    "imdb_rating": "8.5/10", 
+    "category": "British TV Shows", 
+    "date_released": "1444435200"
+},
+{
+    "title": "Nature's Great Events: Diaries", 
+    "description": "Look behind the scenes of this wildlife documentary series that examines how animals around the world adapt to chaotic natural phenomena.", 
+    "actors": "David Attenborough", 
+    "director": "", 
+    "imdb_rating": "8.5/10", 
+    "category": "British TV Shows", 
+    "date_released": "1429660800"
+},
+{
+    "title": "Nature's Great Race", 
+    "description": "Epic footage captures three of the world's most significant land migrations, following elephants, caribou and zebras on their treacherous journeys.", 
+    "actors": "Liz Bonnin", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Nature's Weirdest Events", 
+    "description": "Host Chris Packham examines bizarre natural phenomena from around the globe, from strange creatures to geographical oddities.", 
+    "actors": "Chris Packham", 
+    "director": "", 
+    "imdb_rating": "6.4/10", 
+    "category": "British TV Shows", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Nature: Animals With Cameras", 
+    "description": "With custom-built cameras attached to their bodies, animals from nine species offer a rare and intimate glimpse into their lives.", 
+    "actors": "Gordon Buchanan", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1538352000"
+},
+{
+    "title": "NATURE: Natural Born Hustlers", 
+    "description": "Sometimes being shady is the only way to survive, a fact these sneaky animal \"hustlers\" -- including orcas, owls and otters -- use to their advantage.", 
+    "actors": "Kevin Draine", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1488326400"
+},
+{
+    "title": "Nazi Megastructures", 
+    "description": "The Nazi regime built systems and infrastructure on a scale the world had never seen. From propaganda to death trains, they're now all uncovered.", 
+    "actors": "James Holland, Tony Pollard", 
+    "director": "", 
+    "imdb_rating": "7.6/10", 
+    "category": "Docuseries", 
+    "date_released": "1521072000"
+},
+{
+    "title": "NCIS", 
+    "description": "Follow the quirky agents of the NCIS -- the Naval Criminal Investigative Service \u2013 as they track down terrorists and other high-profile criminals.", 
+    "actors": "Mark Harmon, David McCallum, Pauley Perrette, Sean Murray", 
+    "director": "", 
+    "imdb_rating": "6.7/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1435622400"
+},
+{
+    "title": "Neo Yokio", 
+    "description": "Joined by his faithful mecha-butler, Kaz Kaan pursues love, fashion and supernatural forces amid Neo Yokio's sinister high society.", 
+    "actors": "Jaden Smith, Jude Law, Tavi Gevinson, Susan Sarandon", 
+    "director": "", 
+    "imdb_rating": "5.7/10", 
+    "category": "TV Comedies", 
+    "date_released": "1506038400"
+},
+{
+    "title": "Nerdland", 
+    "description": "Two friends make a pact to become famous within 24 hours. But their demented quest lands them waist-deep in crime, chloroform and witness protection.", 
+    "actors": "Paul Rudd, Patton Oswalt, Hannibal Buress, Eric Bauza", 
+    "director": "Chris Prynoski", 
+    "imdb_rating": "5.3/10", 
+    "category": "Comedies", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Netflix Presents: The Characters", 
+    "description": "We asked eight up-and-coming comedians for their wildest sketch and improv routines -- and got a new comedy series unlike anything else.", 
+    "actors": "Lauren Lapkus, John Early, Henry Zebrowski, Kate Berlant", 
+    "director": "", 
+    "imdb_rating": "5.0/10", 
+    "category": "TV Comedies", 
+    "date_released": "1457654400"
+},
+{
+    "title": "New Girl", 
+    "description": "Still rebounding from a breakup, Jessica Day moves in with three single guys, all of whom are ready to help her understand the ways of the world.", 
+    "actors": "Zooey Deschanel, Jake Johnson, Max Greenfield, Hannah Simone", 
+    "director": "", 
+    "imdb_rating": "6.6/10", 
+    "category": "Romantic TV Shows", 
+    "date_released": "1372636800"
+},
+{
+    "title": "Newsies: The Broadway Musical", 
+    "description": "Newspaper delivery boys in 1899 New York face danger and destitution by striking against their greedy media-mogul employers in this acclaimed musical.", 
+    "actors": "Jeremy Jordan, Ben Fankhauser, Kara Lindsay, Andrew Keenan-Bolger", 
+    "director": "Brett Sullivan", 
+    "imdb_rating": "8.8/10", 
+    "category": "Dramas", 
+    "date_released": "1504569600"
+},
+{
+    "title": "Nexo Knights", 
+    "description": "Aided by digi-mage Merlok 2.0, knights Aaron, Lance, Axl, Macy and Clay bravely defend the kingdom of Knighton against Jestro and other evil foes.", 
+    "actors": "Alessandro Juliani, Giles Panton, Ian Hanlin, Brian Drummond", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "Kids' TV", 
+    "date_released": "1490313600"
+},
+{
+    "title": "Nightmare High", 
+    "description": "After a new teacher arrives, students' dreams begin to come true. Class president Ye-rim must solve the nightmarish mystery before it's too late.", 
+    "actors": "Kim So-hyun, Min-hyuk Lee, Uhm Ki-joon, Da-Ye Kim", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "International TV Shows", 
+    "date_released": "1487116800"
+},
+{
+    "title": "Nightmare Tenants, Slum Landlords", 
+    "description": "The ongoing housing crisis in Britain has led to an increased number of nasty conflicts between fed-up landlords and exasperated tenants.", 
+    "actors": "Wendi Peters", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1519689600"
+},
+{
+    "title": "Nikita", 
+    "description": "Nikita, one of the most highly skilled assassins on earth, targets the mysterious corporation that turned her and other at-risk teens into killers.", 
+    "actors": "Maggie Q, Shane West, Lyndsy Fonseca, Aaron Stanford", 
+    "director": "", 
+    "imdb_rating": "7.1/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1318636800"
+},
+{
+    "title": "Nine: Nine Time Travels", 
+    "description": "With only months to live, a TV anchorman discovers a bundle of incense that can send him back in time, where he has the opportunity to alter the past.", 
+    "actors": "Lee Jin-wook, Jo Yoon-hee, Jeon No-min, Jung Dong-hwan", 
+    "director": "", 
+    "imdb_rating": "7.2/10", 
+    "category": "International TV Shows", 
+    "date_released": "1498780800"
+},
+{
+    "title": "Ninja 2: Shadow of a Tear", 
+    "description": "When his pregnant wife is savagely murdered, martial arts master Casey Bowman seeks retribution against the brutal drug lord behind the killing.", 
+    "actors": "Scott Adkins, Kane Kosugi, Mika Hijii, Shun Sugata", 
+    "director": "Isaac Florentine", 
+    "imdb_rating": "6.1/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1504828800"
+},
+{
+    "title": "Ninja Turtles: The Next Mutation", 
+    "description": "Everyone's favorite teenage mutants are back in live action to fight crime with help from a new ninja turtle -- a female named Venus De Milo.", 
+    "actors": "Jarred Blancard, Mitchell A. Lee Yuen, Dean Choe, Richard Yee", 
+    "director": "", 
+    "imdb_rating": "3.9/10", 
+    "category": "Kids' TV", 
+    "date_released": "1451606400"
+},
+{
+    "title": "No Escape", 
+    "description": "Soon after relocating to Southeast Asia, an American family lands in the midst of a violent coup that could cost them their lives.", 
+    "actors": "Owen Wilson, Lake Bell, Pierce Brosnan, Sterling Jerins", 
+    "director": "John Erick Dowdle", 
+    "imdb_rating": "6.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1498435200"
+},
+{
+    "title": "No Second Chance", 
+    "description": "A doctor searching frantically for her missing baby daughter finds herself tangled in a web of ruthless criminals, suspicious cops and dark secrets.", 
+    "actors": "Alexandra Lamy, Pascal Elb\u00e9, Lionel Abelanski, Charlotte Des Georges", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1481846400"
+},
+{
+    "title": "No Tomorrow", 
+    "description": "Her straitjacketed life turned topsy-turvy by hunky Xavier, Evie discovers a new freedom -- even though her man just might be an end-of-days crackpot.", 
+    "actors": "Joshua Sasse, Tori Anderson, Jonathan Langdon, Sarayu Blue", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "Romantic TV Shows", 
+    "date_released": "1504569600"
+},
+{
+    "title": "Nobel", 
+    "description": "A series of incidents in Afghanistan set complicated political and personal events in motion for a returning Norwegian Special Forces officer.", 
+    "actors": "Aksel Hennie, Tuva Novotny, Anders Danielsen Lie, Mads Sj\u00f8g\u00e5rd Pettersen", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "International TV Shows", 
+    "date_released": "1481587200"
+},
+{
+    "title": "Nocturne", 
+    "description": "No one has seen what happens in The New Ballet School at night, but one can imagine it is a spectacle discorporate from both time and space.", 
+    "actors": "", 
+    "director": "Andy Schuler", 
+    "imdb_rating": "", 
+    "category": "", 
+    "date_released": "1520467200"
+},
+{
+    "title": "Noddy Toyland Detective", 
+    "description": "Toyland\u2019s boy detective, Noddy, solves mysteries and finds missing objects with help from his friends: a panda, a superhero, a dinosaur and a robot.", 
+    "actors": "Valin Shinyei", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Kids' TV", 
+    "date_released": "1497052800"
+},
+{
+    "title": "Nola Circus", 
+    "description": "A rivalry between two New Orleans barbershops escalates dramatically, upending the lives of the owners, their families and the community at large.", 
+    "actors": "Martin Bats Bradford, Jessica Morali, Vas Blackwood, Kamille McCuin", 
+    "director": "Luc Annest", 
+    "imdb_rating": "5.0/10", 
+    "category": "Comedies", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Norsemen", 
+    "description": "In 790 AD, the Vikings of Norheim have a hectic schedule that includes pillaging, plundering, enslaving others and solving problems with violence.", 
+    "actors": "K\u00e5re Conradi, Silje Torp, Nils J\u00f8rgen Kaalstad, Marian Saastad Ottesen", 
+    "director": "", 
+    "imdb_rating": "6.6/10", 
+    "category": "International TV Shows", 
+    "date_released": "1503014400"
+},
+{
+    "title": "North & South", 
+    "description": "When her father moves his family to an industrial mill town, the parson's daughter, Margaret Hale, struggles to adapt to her harsh new surroundings.", 
+    "actors": "Daniela Denby-Ashe, Richard Armitage, Tim Pigott-Smith, Sin\u00e9ad Cusack", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "British TV Shows", 
+    "date_released": "1490918400"
+},
+{
+    "title": "November 13: Attack on Paris", 
+    "description": "Survivors and first responders share personal stories of anguish, kindness and bravery that unfolded amid the Paris terror attacks of Nov. 13, 2015.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Nowhere Boy", 
+    "description": "Raised by his aunt since he was a young boy, charismatic John Lennon is suddenly reunited with his mother, Julia, which ignites a bitter battle.", 
+    "actors": "Aaron Taylor-Johnson, Anne-Marie Duff, Kristin Scott Thomas, David Threlfall", 
+    "director": "Sam Taylor-Johnson", 
+    "imdb_rating": "7.3/10", 
+    "category": "Dramas", 
+    "date_released": "1523664000"
+},
+{
+    "title": "NSU German History X", 
+    "description": "After German reunification, the neo-Nazi National Socialist Underground begins a killing spree while cops fight an uphill battle to catch them.", 
+    "actors": "Anna Maria M\u00fche, Albrecht Schuch, Sebastian Urzendowsky, Almila Bagriacik", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1467849600"
+},
+{
+    "title": "Nuestra Lucha Libre", 
+    "description": "This documentary series lifts the mask on Mexican wrestling, diving into the daily lives of its stars, examining the sport\u2019s cultural impact and more.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1534291200"
+},
+{
+    "title": "Nura: Rise of the Yokai Clan: Demon Capital", 
+    "description": "By night, teenage Rikuo becomes a form of demon called yokai, preparing to fulfill his destiny as the head of his legendary yokai clan.", 
+    "actors": "Jun Fukuyama, Darrel Guilbeau, Eri Kitamura, Grant George", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Anime Series", 
+    "date_released": "1480550400"
+},
+{
+    "title": "Nurse Jackie", 
+    "description": "A flawed but dedicated ER nurse works in a New York City hospital and relies on pain meds to get through exhausting days in this Emmy-winning show.", 
+    "actors": "Edie Falco, Merritt Wever, Paul Schulze, Peter Facinelli", 
+    "director": "", 
+    "imdb_rating": "7.1/10", 
+    "category": "TV Comedies", 
+    "date_released": "1451520000"
+},
+{
+    "title": "Nurses Who Kill", 
+    "description": "Top medical, criminal and psychological experts analyze the motives and methods of nurses who use their positions to kill rather than heal.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1501545600"
+}
+]
