@@ -1,0 +1,23 @@
+{
+  "name": "netflix-database",
+  "version": "1.0.0",
+  "description": "🎥 Netflix Movie Database 🍿",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDatastorage/Netflix-Database.git"
+  },
+  "keywords": [
+    "netflix",
+    "database"
+  ],
+  "author": "Victor Nizeyimana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrDatastorage/Netflix-Database/issues"
+  },
+  "homepage": "https://github.com/MrDatastorage/Netflix-Database#readme"
+}
