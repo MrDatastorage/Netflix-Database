@@ -1,1 +1,533 @@
-[]
+[
+{
+    "title": "East Jerusalem West Jerusalem", 
+    "description": "This musical documentary follows Israeli singer-songwriter David Broza as he records a new album with a mix of Israeli and Palestinian musicians.", 
+    "actors": "David Broza", 
+    "director": "Henrique Cymerman, Erez Miller", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1473897600"
+},
+{
+    "title": "Easy Virtue", 
+    "description": "An American widow impulsively marries a wealthy young Englishman, but when they visit his family's country estate, she receives a chilly reception.", 
+    "actors": "Jessica Biel, Ben Barnes, Kristin Scott Thomas, Colin Firth", 
+    "director": "Stephan Elliott", 
+    "imdb_rating": "6.3/10", 
+    "category": "Comedies", 
+    "date_released": "1504483200"
+},
+{
+    "title": "Echo Park", 
+    "description": "When Sophie leaves her fiance and posh Beverly Hills for the funky L.A. neighborhood of Echo Park, she finds a new and life-altering relationship.", 
+    "actors": "Mamie Gummer, Anthony Okungbowa, Maurice Compte, Ricky Rico", 
+    "director": "Amanda Marsalis", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1460678400"
+},
+{
+    "title": "Eddie - Strongman", 
+    "description": "British strongman Eddie Hall wants to be the strongest man in the world. This documentary reveals the grueling life choices that fuel his obsession.", 
+    "actors": "Eddie Hall", 
+    "director": "Matt Bell", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1481760000"
+},
+{
+    "title": "Eden", 
+    "description": "After their plane crashes, stranding them on a deserted island, the surviving members of a soccer team break into factions and battle for dominance.", 
+    "actors": "Nate Parker, Ethan Peck, Sung Kang, Diego Boneta", 
+    "director": "Shyam Madiraju", 
+    "imdb_rating": "5.4/10", 
+    "category": "Dramas", 
+    "date_released": "1451779200"
+},
+{
+    "title": "Edge of Fear", 
+    "description": "During a wilderness getaway, a gang of sociopathic criminals kidnap a woman and assault her husband, who must summon all his strength to save her.", 
+    "actors": "Shen Lin, Robert Patrick, Zhu Zhu, Jodi Lyn O'Keefe", 
+    "director": "Bobby Roth", 
+    "imdb_rating": "", 
+    "category": "Independent Movies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Eeda", 
+    "description": "Two young adults with families on opposite ends of the political spectrum fall in love in a Kerala city torn by violence.", 
+    "actors": "Shane Nigaam, Nimisha Sajayan, Manikandan R. Achari, Alencier Ley Lopez", 
+    "director": "Ajithkumar", 
+    "imdb_rating": "6.5/10", 
+    "category": "Dramas", 
+    "date_released": "1536969600"
+},
+{
+    "title": "Eh Janam Tumhare Lekhe", 
+    "description": "Driven by the lessons he learned from his mother, and the values of the Sikh religion, a man sets out on a mission to serve humanity.", 
+    "actors": "Pavan Malhotra, Sudhanshu Aggarwal, Arjuna Bhalla, Avrinder Kaur", 
+    "director": "Harjit Singh", 
+    "imdb_rating": "8.5/10", 
+    "category": "Dramas", 
+    "date_released": "1512086400"
+},
+{
+    "title": "Ek Cup Chya", 
+    "description": "A poor bus conductor's efforts at obtaining information about his enormous electricity bill are hindered by a corrupt system.", 
+    "actors": "Kishore Kadam, Ashwini Giri, Devika Daftardar, Sunil Sukthankar", 
+    "director": "Sumitra Bhave, Sunil Sukthankar", 
+    "imdb_rating": "8.0/10", 
+    "category": "Dramas", 
+    "date_released": "1521072000"
+},
+{
+    "title": "Ek Jaan Hain Hum", 
+    "description": "While trying to win over his beloved\u2019s parents, a young man is accused of arson, and his father soon realizes insanity may be his only defense.", 
+    "actors": "Rajiv Kapoor, Divya Rana, Shammi Kapoor, Tanuja", 
+    "director": "Rajiv Mehra", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1504224000"
+},
+{
+    "title": "Ek Main Aur Ekk Tu", 
+    "description": "Bollywood stars Imran Khan and Kareena Kapoor pair up to play exceptionally dissimilar lovers in this lighthearted romantic comedy.", 
+    "actors": "Kareena Kapoor, Imran Khan, Boman Irani, Ratna Pathak Shah", 
+    "director": "Shakun Batra", 
+    "imdb_rating": "5.6/10", 
+    "category": "Comedies", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Ek\u015fi Elmalar", 
+    "description": "In an eastern Turkish town, suitors knock on the door of the mayor and father of three beautiful daughters who choose to follow their own paths.", 
+    "actors": "Y\u0131lmaz Erdo\u011fan, Farah Zeynep Abdullah, Song\u00fcl \u00d6den, \u015e\u00fckran Oval\u0131", 
+    "director": "Y\u0131lmaz Erdo\u011fan", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1522800000"
+},
+{
+    "title": "El Bosque de Karadima", 
+    "description": "This drama based on a true story follows the victims of Fernando Karadima, a powerful Catholic priest convicted by the Vatican of sexual abuse.", 
+    "actors": "Luis Gnecco, Benjam\u00edn Vicu\u00f1a, Ingrid Isensee, Pedro Campos", 
+    "director": "Matias Lira", 
+    "imdb_rating": "7.2/10", 
+    "category": "Dramas", 
+    "date_released": "1465948800"
+},
+{
+    "title": "El Che", 
+    "description": "Spanish-Mexican writer Paco Ignacio Taibo II hits the road to trace the footsteps of Ernesto \"Che\" Guevara and sheds new light on the revolutionary.", 
+    "actors": "Paco Ignacio Taibo II", 
+    "director": "Mat\u00edas Gueilburt", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1508025600"
+},
+{
+    "title": "El club de los buenos infieles", 
+    "description": "Four childhood buddies in passionless marriages try a counterintuitive idea: a secret club for men who want to cheat -- to regain lust for their wives.", 
+    "actors": "Ra\u00fal Fern\u00e1ndez, Fele Mart\u00ednez, Juanma Cifuentes, Hovik Keuchkerian", 
+    "director": "Llu\u00eds Segura", 
+    "imdb_rating": "6.1/10", 
+    "category": "Comedies", 
+    "date_released": "1531958400"
+},
+{
+    "title": "El club de los insomnes", 
+    "description": "An insomniac, an aspiring photographer and a pregnant veterinarian form a unique friendship during late-night meetings at a 24-hour mini-mart.", 
+    "actors": "Cassandra Ciangherotti, Leonardo Ortizgris, Alejandra Ambrosi, Alexandra De La Mora", 
+    "director": "Joseduardo Giordano, Sergio Goyri Jr.", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1543536000"
+},
+{
+    "title": "El Crazy Che", 
+    "description": "Learn the true story of Guillermo \"Bill\" Gaede, an Argentine engineer who spied for Cuba and the FBI while working in Silicon Valley in the 1980s.", 
+    "actors": "Bill Gaede", 
+    "director": "Pablo Chehebar, Nicol\u00e1s Iacouzzi", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1508025600"
+},
+{
+    "title": "El fin de ETA", 
+    "description": "This documentary chronicles the decade-long process that led to the end of the ETA, a Basque terrorist group that operated for more than 50 years.", 
+    "actors": "", 
+    "director": "Justin Webster", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1491609600"
+},
+{
+    "title": "El Viaje: M\u00e1rama y Rombai", 
+    "description": "Popular South American bands M\u00e1rama and Rombai share footage of behind-the-scenes antics and discuss their sudden rise to stardom.", 
+    "actors": "", 
+    "director": "Federico Lemos", 
+    "imdb_rating": "", 
+    "category": "Children & Family Movies", 
+    "date_released": "1508284800"
+},
+{
+    "title": "Elaan", 
+    "description": "Journalist Naresh is hired to probe illegal activities on an island. When he's captured, a fellow prisoner gives him a ring with magic powers.", 
+    "actors": "Vinod Mehra, Rekha, Vinod Khanna, Helen", 
+    "director": "K. Ramanlal", 
+    "imdb_rating": "6.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Electricity", 
+    "description": "In the wake of her mother's death, epileptic Lily goes in search of her errant younger brother and relives memories of her traumatic past.", 
+    "actors": "Agyness Deyn, Paul Anderson, Christian Cooke, Ben Batt", 
+    "director": "Bryn Higgins", 
+    "imdb_rating": "6.2/10", 
+    "category": "Dramas", 
+    "date_released": "1463961600"
+},
+{
+    "title": "Ella Enchanted", 
+    "description": "Burdened with the \"gift\" of obedience by a fairy godmother, Ella searches for a way to lift the curse that prevents her from pursuing her dreams.", 
+    "actors": "Anne Hathaway, Hugh Dancy, Cary Elwes, Aidan McArdle", 
+    "director": "Tommy O'Haver", 
+    "imdb_rating": "6.1/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1517443200"
+},
+{
+    "title": "Embrace", 
+    "description": "Activist-media sensation Taryn Brumfitt leads a crusade to shed negative body images and body shaming to create a new way of perceiving our bodies.", 
+    "actors": "Taryn Brumfitt", 
+    "director": "Taryn Brumfitt", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Emelie", 
+    "description": "A suburban couple hires a new sitter to watch their three kids for the night, unaware that the young woman isn't who she claims to be.", 
+    "actors": "Sarah Bolger, Joshua Rush, Carly Adams, Thomas Bair", 
+    "director": "Michael Thelin", 
+    "imdb_rating": "5.3/10", 
+    "category": "Horror Movies", 
+    "date_released": "1533168000"
+},
+{
+    "title": "Emily & Tim", 
+    "description": "Six chapters in the life of a turbulent 60-year marriage reveal that love and marital strife are not defined by age, race or sexual orientation.", 
+    "actors": "Zosia Mamet, Thomas Mann, Alexis Bledel, Kal Penn", 
+    "director": "Eric Weber", 
+    "imdb_rating": "6.6/10", 
+    "category": "Dramas", 
+    "date_released": "1481760000"
+},
+{
+    "title": "Emma' (Mother)", 
+    "description": "In 1950s Makassar, the life of a devoted mother is upended when another woman enters her husband's life.", 
+    "actors": "Cut Mini Theo, Christoffer Nelwan, Arman Dewarti, Jajang C. Noer", 
+    "director": "Riri Riza", 
+    "imdb_rating": "8.0/10", 
+    "category": "Dramas", 
+    "date_released": "1538697600"
+},
+{
+    "title": "Emmanuel Macron: Behind the Rise", 
+    "description": "Witness the sudden political ascent of Emmanuel Macron, who survived a bruising campaign to become the youngest president in French history.", 
+    "actors": "", 
+    "director": "Yann L'H\u00e9noret", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1495065600"
+},
+{
+    "title": "Emo the Musical", 
+    "description": "Expelled from private school for attempted suicide, emo Ethan enters the world of Seymour High and meets a cute Christian who's ready to convert him.", 
+    "actors": "Benson Jack Anthony, Jordan Hare, Rahart Adams, Jon Prasida", 
+    "director": "Neil Triffett", 
+    "imdb_rating": "6.5/10", 
+    "category": "Dramas", 
+    "date_released": "1517443200"
+},
+{
+    "title": "Empire of Scents", 
+    "description": "This documentary explores the extent to which our sense of smell directs our survival instincts and enriches our sensual experiences.", 
+    "actors": "", 
+    "director": "Kim Nguyen", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Empire Records", 
+    "description": "High Fidelity meets You've Got Mail in this comedy about a music store that may be swallowed by a chain store and its struggle to survive.", 
+    "actors": "Anthony LaPaglia, Debi Mazar, Maxwell Caulfield, Rory Cochrane", 
+    "director": "Allan Moyle", 
+    "imdb_rating": "6.7/10", 
+    "category": "Comedies", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Encounters at the End of the World", 
+    "description": "Take a wild and woolly journey to the South Pole, from the National Science Foundation's headquarters to some of Antarctica's most dangerous terrain.", 
+    "actors": "Werner Herzog", 
+    "director": "Werner Herzog", 
+    "imdb_rating": "7.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1476489600"
+},
+{
+    "title": "Enemy", 
+    "description": "When a humdrum academic spots his double in a movie, he launches a search that leads him to a small-time actor who looks exactly like him.", 
+    "actors": "Jake Gyllenhaal, M\u00e9lanie Laurent, Sarah Gadon, Isabella Rossellini", 
+    "director": "Denis Villeneuve", 
+    "imdb_rating": "6.9/10", 
+    "category": "Independent Movies", 
+    "date_released": "1531353600"
+},
+{
+    "title": "English Babu Desi Mem", 
+    "description": "After his brother dies, wealthy Vikram reluctantly returns to India and forms a surprise bond with his orphaned nephew and the showgirl raising him.", 
+    "actors": "Shah Rukh Khan, Sonali Bendre, Rajeshwari, Saeed Jaffrey", 
+    "director": "Praveen Nischol", 
+    "imdb_rating": "4.4/10", 
+    "category": "Comedies", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Enter the Warriors Gate", 
+    "description": "An avid gamer is magically transported to ancient China, where he must become a warrior in order to save the princess from an evil warlord.", 
+    "actors": "Jeff Daniels, Jack O'Connell, Michelle Dockery, Scoot McNairy", 
+    "director": "Matthias Hoene", 
+    "imdb_rating": "5.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1501891200"
+},
+{
+    "title": "Entertainment", 
+    "description": "A washed-up comic journeys through the Mojave Desert to Los Angeles, where he dreams of making it big and reconciling with his estranged daughter.", 
+    "actors": "Gregg Turkington, John C. Reilly, Tye Sheridan, Amy Seimetz", 
+    "director": "Rick Alverson", 
+    "imdb_rating": "5.4/10", 
+    "category": "Comedies", 
+    "date_released": "1458777600"
+},
+{
+    "title": "Equals", 
+    "description": "Two young lovers depart from the norm simply by having romantic feelings for each other in a society where humans have been relieved of all emotions.", 
+    "actors": "Nicholas Hoult, Kristen Stewart, Jacki Weaver, Guy Pearce", 
+    "director": "Drake Doremus", 
+    "imdb_rating": "6.0/10", 
+    "category": "Romantic Movies", 
+    "date_released": "1540684800"
+},
+{
+    "title": "Erased", 
+    "description": "A security expert and ex-CIA agent living in Belgium must go on the run with his estranged teen daughter when they're both marked for assassination.", 
+    "actors": "Aaron Eckhart, Liana Liberato, Olga Kurylenko, Garrick Hagon", 
+    "director": "Philipp St\u00f6lzl", 
+    "imdb_rating": "5.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1517702400"
+},
+{
+    "title": "Eraser", 
+    "description": "A U.S. Marshal is assigned to protect a woman who has uncovered evidence that a weapons manufacturer has been selling to terrorist groups.", 
+    "actors": "Arnold Schwarzenegger, James Caan, Vanessa Williams, James Coburn", 
+    "director": "Chuck Russell", 
+    "imdb_rating": "5.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Erkekler", 
+    "description": "A therapist and his patient try to understand their complex relationships with women and their not-so-complex relationships with their libidos.", 
+    "actors": "Fikret Ku\u015fkan, Ali Poyrazo\u011flu, Asuman Dabak, G\u00fcne\u015f Emir", 
+    "director": "Faruk Aksoy", 
+    "imdb_rating": "5.0/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Errementari: The Blacksmith and the Devil", 
+    "description": "A brutal blacksmith tortures a demon he blames for his misery, unaware a trespassing orphan is about to change everything. Based on Basque folklore.", 
+    "actors": "Kandido Uranga, Uma Bracaglia, Eneko Sagardoy, Ram\u00f3n Agirre", 
+    "director": "Paul Urkijo Alijo", 
+    "imdb_rating": "6.5/10", 
+    "category": "Horror Movies", 
+    "date_released": "1539302400"
+},
+{
+    "title": "Esperando La Carroza", 
+    "description": "Cora has three sons and a daughter and she\u00b4s almost 80. One day during a family reunion the big question comes up: who will be her heir?", 
+    "actors": "Luis Brandoni, China Zorrilla, Antonio Gasalla, Julio De Grazia", 
+    "director": "Alejandro Doria", 
+    "imdb_rating": "8.3/10", 
+    "category": "Comedies", 
+    "date_released": "1531612800"
+},
+{
+    "title": "Estar o no estar", 
+    "description": "An ill and addled man recalls what seems to be a brief but powerful past romance with a kindred spirit, a young Russian woman who lived a lonely life.", 
+    "actors": "Flavio Medina, Aislinn Derbez, Patricia Reyes Sp\u00edndola, Tiar\u00e9 Scanda", 
+    "director": "Marcelo Gonz\u00e1lez", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1484352000"
+},
+{
+    "title": "Esteros", 
+    "description": "A decade after being separated, childhood friends Mat\u00edas and Jer\u00f3nimo reconnect as adults and find that their mutual attraction hasn't faded.", 
+    "actors": "Ignacio Rogers, Esteban Masturini, Joaqu\u00edn Parada, Blas Finardi Niz", 
+    "director": "Papu Curotto", 
+    "imdb_rating": "6.9/10", 
+    "category": "Dramas", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Eternal Sunshine of the Spotless Mind", 
+    "description": "After learning that his ex-girlfriend had an experimental medical procedure to purge all memories of him, a man decides to do the same with her.", 
+    "actors": "Jim Carrey, Kate Winslet, Kirsten Dunst, Mark Ruffalo", 
+    "director": "Michel Gondry", 
+    "imdb_rating": "8.0/10", 
+    "category": "Comedies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Ethirmarai", 
+    "description": "While investigating a brutal string of deaths, a detective begins to suspect that mind control may have played a part in the murders.", 
+    "actors": "Ajai Kumar, Bhanu Mehra, Rakesh, Shirina", 
+    "director": "G. Arun, Ajai Kumar", 
+    "imdb_rating": "", 
+    "category": "International Movies", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Eva Doesn't Sleep", 
+    "description": "The story of controversial figure Eva Peron continues after her death as her body is transported through a series of eerie and clandestine events.", 
+    "actors": "Gael Garc\u00eda Bernal, Denis Lavant, Daniel Fanego, Imanol Arias", 
+    "director": "Pablo Ag\u00fcero", 
+    "imdb_rating": "4.4/10", 
+    "category": "Dramas", 
+    "date_released": "1475539200"
+},
+{
+    "title": "Eve's Apple", 
+    "description": "Interviews with global policymakers and girls in Gambia and Kenya detail the horrors of female genital mutilation and the growing efforts to end it.", 
+    "actors": "", 
+    "director": "Jose Manuel Col\u00f3n", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Even the Rain", 
+    "description": "While making a film about the incursion of Christopher Columbus in the New World, a director finds the Bolivian locals protesting modern exploitation.", 
+    "actors": "Luis Tosar, Gael Garc\u00eda Bernal, Juan Carlos Aduviri, Karra Elejalde", 
+    "director": "Ic\u00edar Bolla\u00edn", 
+    "imdb_rating": "6.9/10", 
+    "category": "Dramas", 
+    "date_released": "1305590400"
+},
+{
+    "title": "Every Second Counts: The Story of the 2008 CrossFit Games", 
+    "description": "Five athletes prepare for the 2008 CrossFit Games, a grueling two-day trial of extreme events to prove who is the fittest athlete on the planet.", 
+    "actors": "", 
+    "director": "Sevan Matossian, Carey Peterson", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1475798400"
+},
+{
+    "title": "Evolution", 
+    "description": "After spotting a dead body in the ocean, a boy begins to question strange occurrences and mysterious medical procedures conducted in his seaside town.", 
+    "actors": "Max Brebant, Roxane Duran, Julie-Marie Parmentier, Mathieu Goldfeld", 
+    "director": "Lucile Had\u017eihalilovi\u0107", 
+    "imdb_rating": "6.3/10", 
+    "category": "Horror Movies", 
+    "date_released": "1490054400"
+},
+{
+    "title": "Ex Machina", 
+    "description": "A coder at a tech company wins a week-long retreat at the compound of his company's CEO, where he's tasked with testing a new artificial intelligence.", 
+    "actors": "Domhnall Gleeson, Alicia Vikander, Oscar Isaac, Sonoya Mizuno", 
+    "director": "Alex Garland", 
+    "imdb_rating": "7.6/10", 
+    "category": "Dramas", 
+    "date_released": "1532563200"
+},
+{
+    "title": "Exit Afghanistan", 
+    "description": "Featuring interviews with participants on all sides, this documentary questions Norway and the West's protracted military involvement in Afghanistan.", 
+    "actors": "", 
+    "director": "Anders S\u00f8mme Hammer, Marius Arnesen", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1467331200"
+},
+{
+    "title": "Expediente Santiso", 
+    "description": "Years after his daughter eerily vanishes into thin air in Iraq, a fragile reporter forgoes his meds and journeys beyond the limits of the sane mind.", 
+    "actors": "Viviana Saccone, Carlos Belloso, Leonora Balcarce, Lourdes Mansilla", 
+    "director": "Brian Maya", 
+    "imdb_rating": "5.2/10", 
+    "category": "International Movies", 
+    "date_released": "1481500800"
+},
+{
+    "title": "Expedition Happiness", 
+    "description": "A filmmaker and his musician girlfriend attempt an epic road trip with their dog, traveling across North America in a refurbished school bus.", 
+    "actors": "Selima Taibi, Felix Starck", 
+    "director": "Selima Taibi", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1517356800"
+},
+{
+    "title": "Expelled from Paradise", 
+    "description": "In the wake of a global catastrophe, the human survivors are \"uploaded\" into a cyber network, but someone or something is infiltrating the system.", 
+    "actors": "Rie Kugimiya, Wendee Lee, Shinichiro Miki, Steve Blum", 
+    "director": "Seiji Mizushima", 
+    "imdb_rating": "6.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1529884800"
+},
+{
+    "title": "Extraordinary Tales", 
+    "description": "Edgar Allan Poe's dark words come to life in this animated anthology including stories such as \"The Pit and the Pendulum\" and \"The Tell-Tale Heart.\"", 
+    "actors": "Christopher Lee, Bela Lugosi, Julian Sands, Guillermo del Toro", 
+    "director": "Raul Garcia", 
+    "imdb_rating": "6.3/10", 
+    "category": "Horror Movies", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Eyyvah Eyvah", 
+    "description": "A clarinet player who lives with his grandparents in a small village is forced to move to Istanbul, where he meets a singer enjoying sudden fame.", 
+    "actors": "Demet Akba\u011f, Ata Demirer, \u00d6zge Borak, Bican G\u00fcnalan", 
+    "director": "Hakan Alg\u00fcl", 
+    "imdb_rating": "6.3/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Eyyvah Eyyvah 2", 
+    "description": "H\u00fcseyin has found his father, and now has one more mission -- to get together with the girl of his dreams, with a little help from his new friend.", 
+    "actors": "Demet Akba\u011f, Ata Demirer, \u00d6zge Borak, Salih Kalyon", 
+    "director": "Hakan Alg\u00fcl", 
+    "imdb_rating": "5.6/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Eyyvah Eyyvah 3", 
+    "description": "Life is tough for H\u00fcseyin after marrying his true love. He works day and night to support his growing family, while singer Firuzan copes with fame.", 
+    "actors": "Demet Akba\u011f, Ata Demirer, \u00d6zge Borak, Salih Kalyon", 
+    "director": "Hakan Alg\u00fcl", 
+    "imdb_rating": "5.8/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+]

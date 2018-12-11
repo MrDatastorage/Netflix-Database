@@ -1,1 +1,1316 @@
-[]
+[
+{
+    "title": "Cabin Fever", 
+    "description": "As a flesh-eating virus rips its way through a remote woodland cabin, the terrified teens vacationing inside wonder who'll fall victim next.", 
+    "actors": "Gage Golightly, Matthew Daddario, Samuel Davis, Nadine Crocker", 
+    "director": "Travis Zariwny", 
+    "imdb_rating": "4.4/10", 
+    "category": "Horror Movies", 
+    "date_released": "1517529600"
+},
+{
+    "title": "Caida del Cielo", 
+    "description": "When Julia literally falls into Alejandro's backyard from her apartment above, it's just the jolt that's needed to nudge these two loners together.", 
+    "actors": "Muriel Santa Ana, Peto Menahem, H\u00e9ctor D\u00edaz, Sebasti\u00e1n Marcelo Wainraich", 
+    "director": "N\u00e9stor S\u00e1nchez Sotelo", 
+    "imdb_rating": "5.5/10", 
+    "category": "Comedies", 
+    "date_released": "1484870400"
+},
+{
+    "title": "Calendar Girls", 
+    "description": "Five calendar models try to navigate the twists and turns thrown in their path by the seductive and ruthless world of glamour.", 
+    "actors": "Akanksha Puri, Avani Modi, Kyra Dutt, Ruhi Singh", 
+    "director": "Madhur Bhandarkar", 
+    "imdb_rating": "5.6/10", 
+    "category": "Dramas", 
+    "date_released": "1508025600"
+},
+{
+    "title": "Calibre", 
+    "description": "Two lifelong friends on a hunting trip in Scotland find their nerves -- and their morals -- ruthlessly tested after a harrowing turn of events.", 
+    "actors": "Jack Lowden, Martin McCann, Tony Curran, Ian Pirie", 
+    "director": "Matt Palmer", 
+    "imdb_rating": "6.8/10", 
+    "category": "Dramas", 
+    "date_released": "1530230400"
+},
+{
+    "title": "Call of Heroes", 
+    "description": "Aided by a determined lawman and a vagabond warrior, villagers unite to protect their land from a strongman and his thugs during China's Warlord Era.", 
+    "actors": "Lau Ching Wan, Louis Koo, Eddie Peng, Yuan Quan", 
+    "director": "Benny Chan", 
+    "imdb_rating": "6.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1486166400"
+},
+{
+    "title": "Cam", 
+    "description": "After a look-alike takes over her account, a cam girl with a growing fan base sets out to identify the mysterious culprit and reclaim her own identity.", 
+    "actors": "Madeline Brewer, Patch Darragh, Melora Walters, Devin Druid", 
+    "director": "Daniel Goldhaber", 
+    "imdb_rating": "6.1/10", 
+    "category": "Independent Movies", 
+    "date_released": "1542326400"
+},
+{
+    "title": "Camar\u00f3n: The Film", 
+    "description": "This documentary looks back on the life of legendary flamenco singer Camar\u00f3n, who went from humble roots to rock star status to a tragic early death.", 
+    "actors": "Juan Diego", 
+    "director": "Alexis Morante", 
+    "imdb_rating": "8.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1531872000"
+},
+{
+    "title": "Camp Cool Kids", 
+    "description": "A young boy attends summer camp, where he overcomes his fears, stands up to bullies and learns important lessons about faith and life.", 
+    "actors": "Connor Rosen, Logan Shroyer, Michael Gross, Markie Post", 
+    "director": "Lisa Arnold", 
+    "imdb_rating": "6.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Camp X-Ray", 
+    "description": "Fresh Army recruit Amy Cole is assigned to Guantanamo Bay's Camp X-Ray, where she forms a surprising bond with one of the prisoners in her charge.", 
+    "actors": "Kristen Stewart, Peyman Moaadi, John Carroll Lynch, Lane Garrison", 
+    "director": "Peter Sattler", 
+    "imdb_rating": "6.8/10", 
+    "category": "Dramas", 
+    "date_released": "1484352000"
+},
+{
+    "title": "Candy Jar", 
+    "description": "Dueling high school debate champs who are at odds on just about everything forge ahead with ambitious plans to get into the colleges of their dreams.", 
+    "actors": "Christina Hendricks, Helen Hunt, Uzo Aduba, Sami Gayle", 
+    "director": "Ben Shelton", 
+    "imdb_rating": "6.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1524787200"
+},
+{
+    "title": "Cape Fear", 
+    "description": "After serving a hellish 14-year prison sentence for a brutal rape, sadistic Max Cady seeks revenge on the defense attorney from his trial.", 
+    "actors": "Robert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis", 
+    "director": "Martin Scorsese", 
+    "imdb_rating": "7.2/10", 
+    "category": "Thrillers", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Cappuccino", 
+    "description": "Richi is a director of commercials whose computer memory drive is accidentally switched with that of Sneha, a woman he soon falls in love with.", 
+    "actors": "Aneesh Menon, Anita Lukmance, Dharmajan Bolgatty, Natasha Doshi", 
+    "director": "Noushad", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Captain Sabertooth and the Treasure of the Lama Rama", 
+    "description": "A young boy strives to earn respect as a member of a brave pirate crew while he searches for gold, as well as the truth about his long-lost father.", 
+    "actors": "Vinjar Pettersen, Kyrre Haugen Sydness, Odd Magnus Williamson, Pia Tjelta", 
+    "director": "John Andreas Andersen, Lisa Marie Gamlem", 
+    "imdb_rating": "5.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1504828800"
+},
+{
+    "title": "Captain Underpants: The First Epic Movie", 
+    "description": "Fourth-grade pranksters George and Harold hypnotize their humorless principal into thinking he's an undies-adorned superhero.", 
+    "actors": "Ed Helms, Kevin Hart, Thomas Middleditch, Nick Kroll", 
+    "director": "David Soren", 
+    "imdb_rating": "6.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1515542400"
+},
+{
+    "title": "Car Dogs", 
+    "description": "A ruthless car dealership owner tells his sales manager son that he'll get his own lot if he and his staff can sell 300 cars by the end of the day.", 
+    "actors": "Patrick J. Adams, George Lopez, Nia Vardalos, Octavia Spencer", 
+    "director": "Adam Collis", 
+    "imdb_rating": "4.6/10", 
+    "category": "Comedies", 
+    "date_released": "1507075200"
+},
+{
+    "title": "Carbon", 
+    "description": "On the verge of losing his business, an entrepreneur launches a carbon tax scam that thrusts him into a web of criminals, intrigue and murder.", 
+    "actors": "Beno\u00eet Magimel, Gringe, Idir Chender, Laura Smet", 
+    "director": "Olivier Marchal", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1535760000"
+},
+{
+    "title": "Cardboard Boxer", 
+    "description": "Gentle and broken, a homeless man fights others on video for money but soon finds comfort in an unlikely friend and the lost diary of a young girl.", 
+    "actors": "Thomas Haden Church, Terrence Howard, Boyd Holbrook, Rhys Wakefield", 
+    "director": "Knate Lee", 
+    "imdb_rating": "6.6/10", 
+    "category": "Dramas", 
+    "date_released": "1484352000"
+},
+{
+    "title": "Cardboard Gangsters", 
+    "description": "A low-level drug dealer decides to move up the ranks of the illegal narcotics trade in Darndale, Dublin, putting him and his gang on a violent path.", 
+    "actors": "John Connors, Fionn Walton, Kierston Wareing, Paul Alwright", 
+    "director": "Mark O'Connor", 
+    "imdb_rating": "6.7/10", 
+    "category": "Dramas", 
+    "date_released": "1536969600"
+},
+{
+    "title": "Cargo", 
+    "description": "Amid a terrifying pandemic, a father searches the wilds of Australia for someone willing to protect and care for his infant daughter.", 
+    "actors": "Martin Freeman, Anthony Hayes, Susie Porter, Kris McQuade", 
+    "director": "Yolanda Ramke, Ben Howling", 
+    "imdb_rating": "6.3/10", 
+    "category": "Horror Movies", 
+    "date_released": "1526601600"
+},
+{
+    "title": "Carol", 
+    "description": "A wealthy married woman and a female department store clerk begin a forbidden affair in the 1950s that leads to both heartache and liberating joy.", 
+    "actors": "Cate Blanchett, Rooney Mara, Sarah Paulson, Kyle Chandler", 
+    "director": "Todd Haynes", 
+    "imdb_rating": "7.4/10", 
+    "category": "Dramas", 
+    "date_released": "1505865600"
+},
+{
+    "title": "Carpool", 
+    "description": "He needed a getaway car. But when bungling bank robber Franklin Laszlo hijacks a minivan, he finds himself driving a carpool.", 
+    "actors": "Tom Arnold, David Paymer, Rhea Perlman, Kim Coates", 
+    "director": "Arthur Hiller", 
+    "imdb_rating": "4.8/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Cars 3", 
+    "description": "Sleek female race car Cruz Ramirez helps old-time champion Lightning McQueen make a comeback as he faces a new generation of high-tech racers.", 
+    "actors": "Owen Wilson, Cristela Alonzo, Chris Cooper, Nathan Fillion", 
+    "director": "Brian Fee", 
+    "imdb_rating": "6.8/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1517356800"
+},
+{
+    "title": "Cart", 
+    "description": "In response to a sudden dismissal of staff, workers at a big retail store begin a protest against their employer's oppressive labor policies.", 
+    "actors": "Yum Jung-ah, Hwang Jung-min, Moon Jung-hee, Kim Young-ae", 
+    "director": "Boo Ji-Young", 
+    "imdb_rating": "7.1/10", 
+    "category": "Dramas", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Carter High", 
+    "description": "A Texas high school football team has stardom in its sights, but racial tensions and some players' criminal behavior jeopardize everything.", 
+    "actors": "Charles S. Dutton, Vivica A. Fox, David Banner, Pooch Hall", 
+    "director": "Arthur Muhammad", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1479081600"
+},
+{
+    "title": "Casablancas: The Man Who Loved Women", 
+    "description": "The rise and smash success of Elite modeling agency founder John Casablancas is chronicled in this biography of the man who invented the supermodel.", 
+    "actors": "", 
+    "director": "Hubert Woroniecki", 
+    "imdb_rating": "5.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1484265600"
+},
+{
+    "title": "Casino Tycoon", 
+    "description": "When Japanese troops invade Hong Kong, young Benny Ho flees to Macau and rises to the top of the city's casino business with pluck, diligence and wit.", 
+    "actors": "Andy Lau, Joey Wang, Chingmy Yau, Alex Man", 
+    "director": "Wong Jing", 
+    "imdb_rating": "6.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Casino Tycoon 2", 
+    "description": "Casino mogul Benny Ho wields enormous power. But a feud with his former partner and a massive fraud scheme soon threaten his family and his empire.", 
+    "actors": "Andy Lau, Chingmy Yau, Dennis Chan, Joey Wang", 
+    "director": "Wong Jing", 
+    "imdb_rating": "6.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1534377600"
+},
+{
+    "title": "Catching Feelings", 
+    "description": "Amid growing tensions in their marriage, a Johannesburg professor and his journalist wife find their lives upended by a famous, hard-partying author.", 
+    "actors": "Kagiso Lediga, Pearl Thusi, Akin Omotoso, Andrew Buckland", 
+    "director": "Kagiso Lediga", 
+    "imdb_rating": "5.6/10", 
+    "category": "Comedies", 
+    "date_released": "1526601600"
+},
+{
+    "title": "Catfight", 
+    "description": "Two college frenemies whose lives aren't what they hoped meet up decades later and escalate their resentments from verbal jabs to bloody brawls.", 
+    "actors": "Sandra Oh, Anne Heche, Alicia Silverstone, Amy Hill", 
+    "director": "Onur Tukel", 
+    "imdb_rating": "5.7/10", 
+    "category": "Comedies", 
+    "date_released": "1496275200"
+},
+{
+    "title": "Cats & Dogs", 
+    "description": "When a professor develops a vaccine that eliminates human allergies to dogs, he unwittingly upsets the fragile balance of power between cats and dogs.", 
+    "actors": "Jeff Goldblum, Elizabeth Perkins, Miriam Margolyes, Alexander Pollock", 
+    "director": "Lawrence Guterman", 
+    "imdb_rating": "5.2/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Cave", 
+    "description": "Torn between old camaraderie and recent tensions, three ex-soldiers reunite to explore a deadly cave but soon discover terror beyond all expectations.", 
+    "actors": "Heidi Toini, Benjamin Helstad, Mads Sjogard Pettersen, Ingar Helge Gimle", 
+    "director": "Henrik Martin Dahlsbakken", 
+    "imdb_rating": "4.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1497484800"
+},
+{
+    "title": "Celal and Ceren", 
+    "description": "After a night of hard partying costs him Ceren, his long-term girlfriend, Celal sets out to win her heart all over again.", 
+    "actors": "\u015eahan G\u00f6kbakar, Ezgi Mola, G\u00f6k\u00e7en G\u00f6k\u00e7eba\u011f, Dil\u015fah Demir", 
+    "director": "Togan G\u00f6kbakar", 
+    "imdb_rating": "4.4/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Celluloid Man", 
+    "description": "This documentary chronicles the philosophy and life's work of archivist P.K. Nair, who made a mission of preserving Indian cinema\u2019s rich history.", 
+    "actors": "P.K. Nair", 
+    "director": "Shivendra Singh Dungarpur", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Certain Women", 
+    "description": "In a small Montana town, a wife and mother feels alienated, a ranch hand crushes on a teacher and a lawyer juggles a tough client and a married lover.", 
+    "actors": "Laura Dern, James Le Gros, Jared Harris, John Getz", 
+    "director": "Kelly Reichardt", 
+    "imdb_rating": "6.1/10", 
+    "category": "Dramas", 
+    "date_released": "1530403200"
+},
+{
+    "title": "C\u00e9zanne et moi", 
+    "description": "This historical drama explores the long and often volatile friendship of painter Paul C\u00e9zanne and writer \u00c9mile Zola, who first met as schoolboys.", 
+    "actors": "Guillaume Canet, Guillaume Gallienne, Alice Pol, D\u00e9borah Fran\u00e7ois", 
+    "director": "Dani\u00e8le Thompson", 
+    "imdb_rating": "6.2/10", 
+    "category": "Dramas", 
+    "date_released": "1504742400"
+},
+{
+    "title": "Chaahat", 
+    "description": "A vulnerable singer is forced to choose between the girl he loves and another who has developed an unhealthy obsession with him.", 
+    "actors": "Naseeruddin Shah, Shah Rukh Khan, Pooja Bhatt, Anupam Kher", 
+    "director": "Mahesh Bhatt", 
+    "imdb_rating": "7.1/10", 
+    "category": "Dramas", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Chaar\u00a0Sahibzaade", 
+    "description": "With a horde of enemy invaders bearing down, four sons of an illustrious Sikh guru lead a tiny but valiant army into a desperate fight for freedom.", 
+    "actors": "Om Puri", 
+    "director": "Harry Baweja", 
+    "imdb_rating": "5.9/10", 
+    "category": "Dramas", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Chadi Jawani Budhe Nu", 
+    "description": "After reaching his 40th birthday, an egotistical businessman kicks off his midlife crisis by deciding to secure a mistress.", 
+    "actors": "Anand", 
+    "director": "A. Salaam", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1504224000"
+},
+{
+    "title": "Chal Bhaag", 
+    "description": "Three petty criminals find themselves in a pickle when police wrongly charge them with the murder of an important politician.", 
+    "actors": "Deepak Dobriyal, Tarun Bajaj, Keeya Khanna, Varun Mehra", 
+    "director": "Prakash Balwant Saini", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Chal Dhar Pakad", 
+    "description": "After her fat-shaming husband brings home a new lover, a wife in Maharashtra recruits a group of women to challenge him in a kabaddi match.", 
+    "actors": "Nirmiti Sawant, Nagesh Bhonsle, Priya Berde, Bharat Ganeshpure", 
+    "director": "Aatmaram Dharne", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1521072000"
+},
+{
+    "title": "Chalay Thay Saath", 
+    "description": "Beautiful and adventurous doctor Resham meets a handsome Chinese backpacker named Adam while traveling with friends on a journey of self-discovery.", 
+    "actors": "Syra Shehroz, Kent S. Leung, Osama Tahir, Mansha Pasha", 
+    "director": "Umer Adil", 
+    "imdb_rating": "7.0/10", 
+    "category": "Comedies", 
+    "date_released": "1526342400"
+},
+{
+    "title": "Chalte Chalte", 
+    "description": "Raj is brash and earthy, while Priya is sophisticated and something of a perfectionist in all she does. Nonetheless, they dare to fall in love.", 
+    "actors": "Shah Rukh Khan, Rani Mukerji, Jas Arora, Satish Shah", 
+    "director": "Aziz Mirza", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Chamatkar", 
+    "description": "A village schoolteacher and the ghost of a murdered man, who were both betrayed by those closest to them, join forces to help each other.", 
+    "actors": "Shah Rukh Khan, Naseeruddin Shah, Urmila Matondkar, Malvika Tiwari", 
+    "director": "Rajiv Mehra", 
+    "imdb_rating": "6.4/10", 
+    "category": "Comedies", 
+    "date_released": "1494806400"
+},
+{
+    "title": "Chance Pe Dance", 
+    "description": "Having risen from humble beginnings, an ambitious young man sets his sights on winning a major dance competition that could catapult him to fame.", 
+    "actors": "Shahid Kapoor, Genelia D'Souza, Mohnish Bahl, Satish Shah", 
+    "director": "Ken Ghosh", 
+    "imdb_rating": "5.0/10", 
+    "category": "Comedies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Chandani: The Daughter of the Elephant Whisperer", 
+    "description": "A girl who wants to be an elephant driver like her father is given the chance to raise a calf and becomes even more determined when it's taken away.", 
+    "actors": "K.G. Chandani Renuka Ratnayake", 
+    "director": "Arne Birkenstock", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1488326400"
+},
+{
+    "title": "Chandni Bar", 
+    "description": "An orphaned girl is forced to work in one of Bombay's adult bars. But her story lacks the musical numbers and happy endings of most Bollywood fare.", 
+    "actors": "Tabu, Atul Kulkarni, Rajpal Yadav, Vinay Apte", 
+    "director": "Madhur Bhandarkar", 
+    "imdb_rating": "6.2/10", 
+    "category": "Dramas", 
+    "date_released": "1490832000"
+},
+{
+    "title": "Changeling", 
+    "description": "When her kidnapped son is brought home, a mother suspects that the boy isn't her child, so the police captain has her committed to an asylum.", 
+    "actors": "Colm Feore, Gattlin Griffith, John Malkovich, Amy Ryan", 
+    "director": "Clint Eastwood", 
+    "imdb_rating": "7.5/10", 
+    "category": "Dramas", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Charlie St. Cloud", 
+    "description": "Ben Sherwood's intriguing novel is the basis of this ghost story about Charlie, who is devoted to his brother, Sam, even after Sam's death.", 
+    "actors": "Zac Efron, Charlie Tahan, Amanda Crew, Augustus Prew", 
+    "director": "Burr Steers", 
+    "imdb_rating": "6.9/10", 
+    "category": "Dramas", 
+    "date_released": "1458086400"
+},
+{
+    "title": "Chashme Buddoor", 
+    "description": "When pretty new neighbor Seema falls for their shy roommate Sid, jealous womanizers Omi and Jai plot to break up the new lovebirds.", 
+    "actors": "Ali Zafar, Siddharth, Divyendu Sharma, Tapsee Pannu", 
+    "director": "David Dhawan", 
+    "imdb_rating": "5.2/10", 
+    "category": "Comedies", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Chasing the Dragon", 
+    "description": "In corrupt, British-colonized Hong Kong, a mainland Chinese immigrant rises to the top of the city's drug underworld with the help of a notorious cop.", 
+    "actors": "Donnie Yen, Andy Lau, Philip Keung, Kent Cheng", 
+    "director": "Wong Jing, Jason Kwan", 
+    "imdb_rating": "7.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1524096000"
+},
+{
+    "title": "Chat\u00f4: The King of Brazil", 
+    "description": "The romanticized life of media mogul Assis Chateaubriand depicts him as the star of a televised trial, where his passions and achievements are judged.", 
+    "actors": "Marco Ricca, Andrea Beltr\u00e3o, Let\u00edcia Sabatella, Leandra Leal", 
+    "director": "Guilherme Fontes", 
+    "imdb_rating": "4.4/10", 
+    "category": "Dramas", 
+    "date_released": "1475280000"
+},
+{
+    "title": "Chauranga", 
+    "description": "A young boy in a northern Indian village longs for an education while harboring a crush on an upper-caste girl that puts him in mortal danger.", 
+    "actors": "Sanjay Suri, Tannishtha Chatterjee, Riddhi Sen, Soham Maitra", 
+    "director": "Bikas Ranjan Mishra", 
+    "imdb_rating": "6.8/10", 
+    "category": "Dramas", 
+    "date_released": "1467331200"
+},
+{
+    "title": "Chauthi Koot", 
+    "description": "Related tales of a family seeking refuge and two men on a train to Amritsar evoke the dreadful unease surrounding Hindu-Sikh tensions in 1980s Punjab.", 
+    "actors": "Suvinder Vikky, Rajbir Kaur, Gurpreet Kaur Bhangu, Taranjit Singh", 
+    "director": "Gurvinder Singh", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1485907200"
+},
+{
+    "title": "Cheap Thrills", 
+    "description": "Humiliation and pain are the name of the game in this thriller when two friends take on a strange series of dares in exchange for cash.", 
+    "actors": "Pat Healy, Sara Paxton, Ethan Embry, David Koechner", 
+    "director": "Evan Katz", 
+    "imdb_rating": "6.5/10", 
+    "category": "Comedies", 
+    "date_released": "1483228800"
+},
+{
+    "title": "Chef vs Science: The Ultimate Kitchen Challenge", 
+    "description": "An acclaimed chef and a top scientist go head-to-head to see who can create the tastier meal in an effort to determine if cooking is art or science.", 
+    "actors": "Mark Miodownik, Marcus Wareing", 
+    "director": "Jeff Wilkinson", 
+    "imdb_rating": "", 
+    "category": "Movies", 
+    "date_released": "1509667200"
+},
+{
+    "title": "Chennai Express", 
+    "description": "What could have been a sad journey turns joyful for Rahul when he falls in love with a woman en route to submerging his grandfather's ashes.", 
+    "actors": "Shah Rukh Khan, Deepika Padukone, Nikitin Dheer, Satyaraj", 
+    "director": "Rohit Shetty", 
+    "imdb_rating": "6.4/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1535673600"
+},
+{
+    "title": "Chernobyl Diaries", 
+    "description": "A group of kids takes an illegal tour through an abandoned city near Chernobyl, where mysterious humanoid forms begin to haunt their steps...", 
+    "actors": "Ingrid Bols\u00f8 Berdal, Dimitri Diatchenko, Olivia Taylor Dudley, Devin Kelley", 
+    "director": "Bradley Parker", 
+    "imdb_rating": "5.0/10", 
+    "category": "Horror Movies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Cherry Pop", 
+    "description": "When the headliner at a drag bar refuses to perform, a young newcomer makes his debut while backstabbing queens fling insults behind the curtain.", 
+    "actors": "Allusia Alusia, Misty Violet, Tempest DuJour, Caldwell Tidicue", 
+    "director": "Assaad Yacoub", 
+    "imdb_rating": "5.2/10", 
+    "category": "Comedies", 
+    "date_released": "1511308800"
+},
+{
+    "title": "Chhota Bheem and the Curse of Damyaan", 
+    "description": "An evil demon who traded his freedom for immortality lures Chhota Bheem and his friends to the city of Sonapur with tales of hidden treasure.", 
+    "actors": "Kaustav Ghosh, Jigna Bhardwaj, Chutki, Rajesh Kava", 
+    "director": "Rajiv Chilaka", 
+    "imdb_rating": "", 
+    "category": "Children & Family Movies", 
+    "date_released": "1498435200"
+},
+{
+    "title": "Chicken Kokkachi", 
+    "description": "In the wake of his sister's marriage, a young middle-class man leaves his village and learns that supporting one's self is easier said than done.", 
+    "actors": "Anuranjan Premji, Indrans, Dharmajan Bolgatty, Sudhi Koppa", 
+    "director": "Anuranjan Premji", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Chicken Little", 
+    "description": "No one believes Chicken Little when he tries to warn of an alien invasion -- so it's up to him and his misfit friends to save the world!", 
+    "actors": "Zach Braff, Joan Cusack, Patrick Stewart, Steve Zahn", 
+    "director": "Mark Dindal", 
+    "imdb_rating": "5.8/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1458086400"
+},
+{
+    "title": "Chicken Run", 
+    "description": "Rocky the rooster and Ginger the hen lead their fellow chickens in a great escape from the farm where they are being held captive.", 
+    "actors": "Mel Gibson, Phil Daniels, Lynn Ferguson, Tony Haygarth", 
+    "director": "Peter Lord, Nick Park", 
+    "imdb_rating": "6.6/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1412121600"
+},
+{
+    "title": "Children of Men", 
+    "description": "In a grim future in which humans can no longer reproduce, one woman mysteriously becomes pregnant, and a conflicted bureaucrat fights to protect her.", 
+    "actors": "Clive Owen, Julianne Moore, Michael Caine, Chiwetel Ejiofor", 
+    "director": "Alfonso Cuar\u00f3n", 
+    "imdb_rating": "", 
+    "category": "Action & Adventure", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Chillar Party", 
+    "description": "Eight feisty boys befriend young drifter Fatka. When a mean politician threatens Fatka's way of life, the boys band together in honor of their pal.", 
+    "actors": "Irfan Khan, Raju, Sanath Menon, Rohan Grover", 
+    "director": "Vikas Bahl, Nitesh Tiwari", 
+    "imdb_rating": "7.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "China Salesman", 
+    "description": "A Chinese engineer travels to a war-torn African country to rebuild its telecommunications but instead finds massive corruption and explosive danger.", 
+    "actors": "Li Dong Xue, Mike Tyson, Steven Seagal, Janicke Askevold", 
+    "director": "Tan Bing", 
+    "imdb_rating": "5.5/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1537747200"
+},
+{
+    "title": "Chittagong", 
+    "description": "In the turbulent 1930s of British colonial India, a teenager joins a ragtag army of schoolboys determined to overthrow their foreign conquerors.", 
+    "actors": "Manoj Bajpayee, Barry John, Delzad Hiwale, Vega Tamotia", 
+    "director": "Bedabrata Pain", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1451606400"
+},
+{
+    "title": "Chocolat", 
+    "description": "A single mother and her young daughter move into a peaceful French village and open an unusual chocolate shop during the height of Lent.", 
+    "actors": "Juliette Binoche, Johnny Depp, Lena Olin, Judi Dench", 
+    "director": "Lasse Hallstr\u00f6m", 
+    "imdb_rating": "6.9/10", 
+    "category": "Comedies", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Chocolate", 
+    "description": "Cop Rana embarks on a wild chase after con man Raju steals a diamond ring given to Rana by his nagging girlfriend and hides it in a box of condoms.", 
+    "actors": "Parambrata Chatterjee, Rudranil Ghosh, Payel Sarkar, Koneenica Banerjee", 
+    "director": "Sujan Mukherjee", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1502323200"
+},
+{
+    "title": "Christian Mingle", 
+    "description": "A career woman who has everything but romance finds her values challenged when she starts dating a good man she met on a Christian matchmaking site.", 
+    "actors": "Lacey Chabert, Jonathan Patrick Moore, Saidah Arrika Ekulona, Stephen Tobolowsky", 
+    "director": "Corbin Bernsen", 
+    "imdb_rating": "5.2/10", 
+    "category": "Comedies", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Christine", 
+    "description": "A geeky student restores a classic 1958 Plymouth Fury -- but once he gets behind the wheel, his newfound confidence turns to furious arrogance.", 
+    "actors": "Keith Gordon, John Stockwell, Alexandra Paul, Robert Prosky", 
+    "director": "John Carpenter", 
+    "imdb_rating": "6.6/10", 
+    "category": "Cult Movies", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Christine", 
+    "description": "In a film based on true events, an awkward but ambitious TV reporter struggles to adapt when she's ordered to focus on violent and salacious stories.", 
+    "actors": "Rebecca Hall, Michael C. Hall, Tracy Letts, Maria Dizzia", 
+    "director": "Antonio Campos", 
+    "imdb_rating": "6.7/10", 
+    "category": "Dramas", 
+    "date_released": "1494892800"
+},
+{
+    "title": "Christmas Crush", 
+    "description": "Twentysomething Georgia pines for her old boyfriend and is thrilled to have a second chance at love when she attends their high school reunion.", 
+    "actors": "Rachel Boston, Jonathan Bennett, Jon Prescott, Sunny Mabrey", 
+    "director": "Marita Grabiak", 
+    "imdb_rating": "4.6/10", 
+    "category": "Comedies", 
+    "date_released": "1480550400"
+},
+{
+    "title": "Christmas in the Smokies", 
+    "description": "In the Smoky Mountains, an ambitious woman works to save her family's historic berry farm as her ex, a country music star, returns to town.", 
+    "actors": "Sarah Lancaster, Barry Corbin, Alan Powell, Jill Wagner", 
+    "director": "Gary Wheeler", 
+    "imdb_rating": "6.4/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1481760000"
+},
+{
+    "title": "Christmas Inheritance", 
+    "description": "To inherit her father's company, socialite Ellen must first visit his small hometown, where she learns the value of hard work and helping others.", 
+    "actors": "Eliza Taylor, Jake Lacy, Andie MacDowell, Michael Xavier", 
+    "director": "Ernie Barbarash", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1513296000"
+},
+{
+    "title": "Christmas Ranch", 
+    "description": "Sent to her grandmother\u2019s ranch for Christmas, a rebellious teen bonds with her grandmother\u2019s horse and resolves to save the ranch from foreclosure.", 
+    "actors": "Francine Locke, Ken Arnold, Taylor Lyons, Stefannie Smith", 
+    "director": "Douglas B. Maddox", 
+    "imdb_rating": "5.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1477958400"
+},
+{
+    "title": "Christmas Wedding Planner", 
+    "description": "A wedding planner\u2019s world is turned upside down when a handsome private investigator is hired to disrupt one of her biggest jobs.", 
+    "actors": "Jocelyn Hudon, Stephen Huszar, Kelly Rutherford, Rebecca Dalton", 
+    "director": "Justin G. Dyck", 
+    "imdb_rating": "6.2/10", 
+    "category": "Comedies", 
+    "date_released": "1542240000"
+},
+{
+    "title": "Christmas With A View", 
+    "description": "Still reeling from a business failure, the restaurant manager of a ski resort finds her world jolted by a new chef, who has his own hidden past.", 
+    "actors": "Scott Cavalheiro, Kaitlyn Leeb, Vivica A. Fox, Patrick Duffy", 
+    "director": "Justin G. Dyck", 
+    "imdb_rating": "", 
+    "category": "International Movies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Chronic", 
+    "description": "A hospice care nurse whose unfailing devotion to his patients hides his depression and a secret in his own life is forced to confront his past.", 
+    "actors": "Tim Roth, Robin Bartlett, Michael Cristofer, Nailea Norvind", 
+    "director": "Michel Franco", 
+    "imdb_rating": "5.8/10", 
+    "category": "Dramas", 
+    "date_released": "1496275200"
+},
+{
+    "title": "Chronicle of an Escape", 
+    "description": "Soccer goalie Claudio Tamburrini is kidnapped by the Argentine military. Several months later, he joins other prisoners in planning a daring escape.", 
+    "actors": "Rodrigo de la Serna, Pablo Echarri, Nazareno Casero, Lautaro Delgado", 
+    "director": "Israel Adri\u00e1n Caetano", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1529020800"
+},
+{
+    "title": "Chronicles of the Ghostly Tribe", 
+    "description": "After an explosion rocks a shadowy archaeological dig in the mountains, a young soldier faces lethal beasts and a mystery that seems to defy death.", 
+    "actors": "Mark Chao, Chen Yao, Rhydian Vaughan, Li Chen", 
+    "director": "Lu Chuan", 
+    "imdb_rating": "5.5/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1472860800"
+},
+{
+    "title": "Chuck Norris vs. Communism", 
+    "description": "This documentary looks back on Romanian dictator Nicolae Ceau\u0219escu's ban of Western media and how an influx of bootlegged films changed the country.", 
+    "actors": "", 
+    "director": "Ilinca Calugareanu", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "Chup Chup Ke", 
+    "description": "Mistaking a broke, small-time hustler for a millionaire, two bumbling fishermen hatch a scheme to use him to help pay off their debts.", 
+    "actors": "Kareena Kapoor, Shahid Kapoor, Paresh Rawal, Rajpal Yadav", 
+    "director": "Priyadarshan", 
+    "imdb_rating": "5.4/10", 
+    "category": "Comedies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "CIA: Comrade in America", 
+    "description": "A young man in Kerala has two weeks to stop the woman he loves from a fixed marriage in the U.S., but he doesn't have the papers to get there.", 
+    "actors": "Dulquer Salmaan, Karthika Muraleedharan, Siddique, Soubin Shahir", 
+    "director": "Amal Neerad", 
+    "imdb_rating": "6.1/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1525132800"
+},
+{
+    "title": "Cinar Agaci", 
+    "description": "A matriarch and her grandson forge a special bond during family picnics every two months, until her health causes a conflict among the relatives.", 
+    "actors": "Nurg\u00fcl Ye\u015fil\u00e7ay, Celile Toyon Uysal, Deniz Deha Lostar, Settar Tanr\u0131\u00f6\u011fen", 
+    "director": "Handan \u0130pek\u00e7i", 
+    "imdb_rating": "5.4/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Cinema Paradiso", 
+    "description": "When a Sicilian boy is mesmerized by the movies at his local theater, he befriends a projectionist who tells him to leave home and pursue his dreams.", 
+    "actors": "Philippe Noiret, Salvatore Cascio, Marco Leonardi, Jacques Perrin", 
+    "director": "Giuseppe Tornatore", 
+    "imdb_rating": "8.4/10", 
+    "category": "Classic Movies", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Circle", 
+    "description": "When a group of strangers is seized and awaits execution, they face the impossible task of choosing the one person among them worthy of being spared.", 
+    "actors": "Julie Benz, Mercy Malick, Carter Jenkins, Molly Jackson", 
+    "director": "Aaron Hann, Mario Miscione", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1444953600"
+},
+{
+    "title": "Cirque du Freak: The Vampire's Assistant", 
+    "description": "When Darren Shan is taken to a circus that's chock-full of sideshow oddities, he meets a vampire and receives a life-changing bite on the neck.", 
+    "actors": "John C. Reilly, Ken Watanabe, Josh Hutcherson, Chris Massoglia", 
+    "director": "Paul Weitz", 
+    "imdb_rating": "5.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1523836800"
+},
+{
+    "title": "City of God: 10 Years Later", 
+    "description": "A decade after the seminal Brazilian film \"City of God,\" this documentary reunites some of the cast and crew to find out what paths their lives took.", 
+    "actors": "", 
+    "director": "Cavi Borges, Luciano Vidigal", 
+    "imdb_rating": "7.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1525651200"
+},
+{
+    "title": "City of Tiny Lights", 
+    "description": "In moody London, a burned-out sleuth sinks into a world of corruption and murderous romance when he tackles a mysterious case of a missing sex worker.", 
+    "actors": "Riz Ahmed, Billie Piper, James Floyd, Cush Jumbo", 
+    "director": "Pete Travis", 
+    "imdb_rating": "5.4/10", 
+    "category": "Dramas", 
+    "date_released": "1500595200"
+},
+{
+    "title": "Clair Obscur", 
+    "description": "While examining a young woman who has just murdered her husband and mother-in-law, a psychiatrist begins to reflect on her own marriage.", 
+    "actors": "Funda Eryi\u011fit, Ecem Uzun, Mehmet Kurtulu\u015f, Okan Yalab\u0131k", 
+    "director": "Yesim Ustaoglu", 
+    "imdb_rating": "6.6/10", 
+    "category": "Dramas", 
+    "date_released": "1507852800"
+},
+{
+    "title": "Clash", 
+    "description": "Amid the tumult following Egyptian President Morsi's ouster, demonstrators from divergent backgrounds are brought together inside a police truck.", 
+    "actors": "Nelly Karim, Hany Adel, Tarek Abdel Aziz, Ahmed Malek", 
+    "director": "Mohamed Diab", 
+    "imdb_rating": "7.5/10", 
+    "category": "Dramas", 
+    "date_released": "1514246400"
+},
+{
+    "title": "Clerks", 
+    "description": "A glimpse at a day in the life of Dante and Randal, convenience store clerks who are sharp-witted, potty-mouthed, and bored out of their minds.", 
+    "actors": "Brian O'Halloran, Jeff Anderson, Marilyn Ghigliotti, Lisa Spoonauer", 
+    "director": "Kevin Smith", 
+    "imdb_rating": "7.4/10", 
+    "category": "Classic Movies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Clinical", 
+    "description": "A psychiatrist is plagued by flashbacks to a terrifying attack as she treats a new patient who was horribly disfigured in an accident.", 
+    "actors": "Vinessa Shaw, Kevin Rahm, William Atherton, Aaron Stanford", 
+    "director": "Alistair Legrand", 
+    "imdb_rating": "5.2/10", 
+    "category": "Horror Movies", 
+    "date_released": "1484265600"
+},
+{
+    "title": "Close Encounters of the Third Kind", 
+    "description": "As inexplicable events baffle experts worldwide, a UFO-obsessed man is drawn to a mysterious mountain that leads to a life-changing encounter.", 
+    "actors": "Richard Dreyfuss, Fran\u00e7ois Truffaut, Teri Garr, Melinda Dillon", 
+    "director": "Steven Spielberg", 
+    "imdb_rating": "7.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Cloud Atlas", 
+    "description": "In this star-studded drama, six seemingly disparate stories explore the complicated links that humanity shares through the generations.", 
+    "actors": "Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving", 
+    "director": "Tom Tykwer, Lilly Wachowski", 
+    "imdb_rating": "6.8/10", 
+    "category": "Dramas", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Clouds of Sils Maria", 
+    "description": "A middle-aged actress is cast in a film adaptation of the play that made her famous 20 years earlier, but in a much less glamorous role.", 
+    "actors": "Juliette Binoche, Kristen Stewart, Chlo\u00eb Grace Moretz, Lars Eidinger", 
+    "director": "Olivier Assayas", 
+    "imdb_rating": "6.7/10", 
+    "category": "Dramas", 
+    "date_released": "1486857600"
+},
+{
+    "title": "Cloudy with a Chance of Meatballs", 
+    "description": "When inventor Flint Lockwood makes clouds rain food, the citizens of Chewandswallow can feed themselves. But a bowl of disaster is about to overflow.", 
+    "actors": "Bill Hader, Anna Faris, James Caan, Andy Samberg", 
+    "director": "Phil Lord, Christopher Miller", 
+    "imdb_rating": "6.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Cloverfield", 
+    "description": "A going-away party in Manhattan is interrupted when a mysterious monster of epic proportions launches an attack on New York City.", 
+    "actors": "Lizzy Caplan, Jessica Lucas, T.J. Miller, Michael Stahl-David", 
+    "director": "Matt Reeves", 
+    "imdb_rating": "6.5/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Club de Cuervos Presents: I, Potro", 
+    "description": "Former Club de Cuervos player Potro returns home to Argentina to crash the wedding of his famous soccer-star brother and confront his estranged family.", 
+    "actors": "Joaqu\u00edn Ferreira, Marcela \u00c1lvarez, Benjam\u00edn Alfonso, Emilia Claudeville", 
+    "director": "Marcos Bucay", 
+    "imdb_rating": "", 
+    "category": "Movies", 
+    "date_released": "1539907200"
+},
+{
+    "title": "Coco", 
+    "description": "On D\u00eda de los Muertos, young would-be musician Miguel crosses into the afterlife on a quest to meet his ancestor and understand his family legacy.", 
+    "actors": "Anthony Gonzalez, Gael Garc\u00eda Bernal, Benjamin Bratt, Alanna Ubach", 
+    "director": "Lee Unkrich, Adrian Molina", 
+    "imdb_rating": "8.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1527552000"
+},
+{
+    "title": "Coco (Spanish Version)", 
+    "description": "On D\u00eda de los Muertos, young would-be musician Miguel crosses into the afterlife on a quest to meet his ancestor and understand his family legacy.", 
+    "actors": "Anthony Gonzalez, Gael Garc\u00eda Bernal, Benjamin Bratt, Alanna Ubach", 
+    "director": "Lee Unkrich, Adrian Molina", 
+    "imdb_rating": "8.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1527552000"
+},
+{
+    "title": "Coffee Ani Barach Kahi", 
+    "description": "The anatomy and evolution of a young couple's relationship, along with the struggles they face, are explored in two separate timelines.", 
+    "actors": "Neha Mahajan, Prarthana Behere, Vaibhav Tatwawdi, Bhushan Pradhan", 
+    "director": "Prakash Kunte", 
+    "imdb_rating": "7.3/10", 
+    "category": "Comedies", 
+    "date_released": "1513296000"
+},
+{
+    "title": "Coffee for All", 
+    "description": "In Naples, Buenos Aires and New York, people reflect on the Neapolitan tradition of \"suspended coffee\" and how it changed their lives.", 
+    "actors": "", 
+    "director": "Fulvio Iannucci, Roly Santos", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1525132800"
+},
+{
+    "title": "Coffee Shop", 
+    "description": "A small-town coffee shop owner with romantic and financial woes can't get a grip on her problems -- until realizing she can't go it alone.", 
+    "actors": "Laura Vandervoort, Cory M. Grant, Rachel Hendrix, Jon Lovitz", 
+    "director": "Dave Alan Johnson", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1500854400"
+},
+{
+    "title": "Coffee with D", 
+    "description": "Low TV ratings drive a well-known journalist to concoct a plan to interview a notorious underworld figure who is also a suspected terrorist.", 
+    "actors": "Sunil Grover, Zakir Hussain, Anjana Sukhani, Dipannita Sharma", 
+    "director": "Vishal Mishra", 
+    "imdb_rating": "6.3/10", 
+    "category": "Comedies", 
+    "date_released": "1509494400"
+},
+{
+    "title": "Coin Heist", 
+    "description": "When a crisis threatens to destroy their high school, four teens hatch a daring plan to raise $10 million. Step one? Breaking into the U.S. Mint.", 
+    "actors": "Sasha Pieterse, Alexis G. Zall, Alex Saxon, Jay Walker", 
+    "director": "Emily Hagins", 
+    "imdb_rating": "5.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1483660800"
+},
+{
+    "title": "Cold in July", 
+    "description": "When a man kills a home invader in self-defense, the burglar's father continues the terror by threatening the victim's young son.", 
+    "actors": "Michael C. Hall, Sam Shepard, Vinessa Shaw, Nick Damici", 
+    "director": "Jim Mickle", 
+    "imdb_rating": "6.5/10", 
+    "category": "Dramas", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Cold Mountain", 
+    "description": "This drama follows a wounded Civil War soldier making the long journey home, while his faraway love fights for survival on her deceased father's farm.", 
+    "actors": "Jude Law, Nicole Kidman, Ren\u00e9e Zellweger, Eileen Atkins", 
+    "director": "Anthony Minghella", 
+    "imdb_rating": "6.8/10", 
+    "category": "Dramas", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Cold War 2", 
+    "description": "A police commissioner is caught in a trap when told to release the jailed son of a former rival or never see his kidnapped wife and daughter again.", 
+    "actors": "Aaron Kwok, Tony Leung Ka Fai, Charlie Yeung, Janice Man", 
+    "director": "Leung Lok Man, Luk Kim-ching", 
+    "imdb_rating": "6.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1494028800"
+},
+{
+    "title": "Colkatay Columbus", 
+    "description": "When Christopher Columbus mysteriously appears in modern-day Kolkata, India, two struggling young men look to him for advice on achieving success.", 
+    "actors": "Mir Afsar Ali, Gaurav Chakrabarty, Tanusree Chakraborty, Anirban Bhattacharya", 
+    "director": "Saurav Palodhi", 
+    "imdb_rating": "5.0/10", 
+    "category": "Comedies", 
+    "date_released": "1490832000"
+},
+{
+    "title": "Colombia: Wild Magic", 
+    "description": "Showcasing the country's biodiversity, this documentary reveals the stunning vistas and native wildlife of Colombia's gorgeous but fragile ecosystem.", 
+    "actors": "Julio Sanch\u00e9z Cristo", 
+    "director": "Mike Slee", 
+    "imdb_rating": "8.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1495411200"
+},
+{
+    "title": "Colonia", 
+    "description": "When her boyfriend is caught up in a Chilean coup, a young woman tries to free him from a prison camp posing as a commune by joining it voluntarily.", 
+    "actors": "Emma Watson, Daniel Br\u00fchl, Michael Nyqvist, Richenda Carey", 
+    "director": "Florian Gallenberger", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1531526400"
+},
+{
+    "title": "Color Me Barbra", 
+    "description": "In her first color special, Barbra, in stunning choreographed segments at the Philadelphia Museum of Art and on a circus set, also performs in concert.", 
+    "actors": "Barbra Streisand", 
+    "director": "Dwight Hemion", 
+    "imdb_rating": "8.0/10", 
+    "category": "International Movies", 
+    "date_released": "1529020800"
+},
+{
+    "title": "Colors of Heaven", 
+    "description": "In South Africa, years of violent Apartheid complicate the close-knit bonds between two film actors of different races and an afflicted Zulu woman.", 
+    "actors": "Wandile Molebatsi, Jason Hartman, Masello Motana, Stelio Savante", 
+    "director": "Peter Bishai", 
+    "imdb_rating": "7.3/10", 
+    "category": "Dramas", 
+    "date_released": "1487116800"
+},
+{
+    "title": "Come Sunday", 
+    "description": "A crisis of faith sets renowned fundamentalist preacher Carlton Pearson on a new spiritual path that jeopardizes everything he holds dear.", 
+    "actors": "Chiwetel Ejiofor, Martin Sheen, Danny Glover, Jason Segel", 
+    "director": "Joshua Marston", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1523577600"
+},
+{
+    "title": "Come What May", 
+    "description": "Fleeing advancing Nazi forces in May 1940, a group of French villagers are trailed by a Scottish soldier and a German dissenter searching for his son.", 
+    "actors": "August Diehl, Olivier Gourmet, Mathilde Seigner, Matthew Rhys", 
+    "director": "Christian Carion", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1491609600"
+},
+{
+    "title": "Coming to My Senses", 
+    "description": "Paralyzed from the neck down after a motocross accident, Aaron Baker defies all odds to get back on his feet again and embrace new challenges.", 
+    "actors": "Aaron Baker", 
+    "director": "Dominic Gill", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1534723200"
+},
+{
+    "title": "Company", 
+    "description": "Following a misunderstanding, a gangster and his boss part ways and become bitter enemies -- with devastating consequences.", 
+    "actors": "Ajay Devgn, Vivek Oberoi, Mohanlal, Manisha Koirala", 
+    "director": "Ram Gopal Varma", 
+    "imdb_rating": "6.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Concrete Football", 
+    "description": "The development of professional soccer worldwide owes a great debt to the soccer -- or \"football\" -- that is played on the streets of France.", 
+    "actors": "", 
+    "director": "Jesse Adang, Syrine Boulanouar", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1504224000"
+},
+{
+    "title": "Concussion", 
+    "description": "A lesbian housewife, feeling trapped in a stale marriage, begins visiting female prostitutes and soon seeks excitement by becoming a sex worker.", 
+    "actors": "Robin Weigert, Maggie Siff, Johnathan Tchaikovsky, Julie Fain Lawrence", 
+    "director": "Stacie Passon", 
+    "imdb_rating": "5.5/10", 
+    "category": "Dramas", 
+    "date_released": "1533168000"
+},
+{
+    "title": "Conjuring Spirit", 
+    "description": "In the wake of her husband's betrayal, a novelist and mother moves to an old building, where she receives a music box and encounters a strange spirit.", 
+    "actors": "Phuong Mai, Quang Su, Hoang Phuc Nguyen, Chi Pu", 
+    "director": "Van M. Pham", 
+    "imdb_rating": "6.0/10", 
+    "category": "Horror Movies", 
+    "date_released": "1535414400"
+},
+{
+    "title": "Conor McGregor: Notorious", 
+    "description": "From making ends meet to lavish rides and fur coats, the Irish MMA champion grants an all-access pass to the highs -- and lows -- of his ascent.", 
+    "actors": "Conor McGregor, John Kavanagh", 
+    "director": "Gavin Fitzgerald", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1521590400"
+},
+{
+    "title": "Constantine", 
+    "description": "A private detective with a taste for the supernatural investigates an apparent suicide in this thriller based on the comic book \"Hellblazer.\"", 
+    "actors": "Keanu Reeves, Rachel Weisz, Shia LaBeouf, Djimon Hounsou", 
+    "director": "Francis Lawrence", 
+    "imdb_rating": "6.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Cop and a Half: New Recruit", 
+    "description": "A world-weary detective is forced to team up with a 12-year-old who thinks she's a cop in order to solve a case that's baffled police.", 
+    "actors": "Lou Diamond Phillips, Lulu Wilson, Giles Panton, Janet Kidder", 
+    "director": "Jon Rosenbaum", 
+    "imdb_rating": "6.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1502928000"
+},
+{
+    "title": "Cop Watchers", 
+    "description": "Explore the stories of the citizens who seek to deter police brutality by observing and videotaping arrests made by the New York Police Department.", 
+    "actors": "", 
+    "director": "Ben Steele", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Copenhagen", 
+    "description": "Philandering his way across Europe to find the grandfather he's never met, William unexpectedly befriends a 14-year-old who changes how he sees women.", 
+    "actors": "Gethin Anthony, Frederikke Dahl Hansen, Sebastian Armesto, Olivia Grant", 
+    "director": "Mark Raso", 
+    "imdb_rating": "6.8/10", 
+    "category": "Dramas", 
+    "date_released": "1485907200"
+},
+{
+    "title": "Copycat", 
+    "description": "The hunt for a San Francisco psycho makes unlikely comrades of two women: a detective and a criminal psychologist who survived a serial killer attack.", 
+    "actors": "Sigourney Weaver, Holly Hunter, Dermot Mulroney, William McNamara", 
+    "director": "Jon Amiel", 
+    "imdb_rating": "6.5/10", 
+    "category": "Thrillers", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Coraline", 
+    "description": "Curious young Coraline unlocks a door in her family's home and is transported to a universe that strangely resembles her own -- only better.", 
+    "actors": "Dakota Fanning, Keith David, Jennifer Saunders, John Hodgman", 
+    "director": "Henry Selick", 
+    "imdb_rating": "7.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1489622400"
+},
+{
+    "title": "Corbin Nash", 
+    "description": "After discovering that he hails from a long line of demon hunters, Corbin Nash heads to Los Angeles and battles two brutal, bloodthirsty vampires.", 
+    "actors": "Dean S. Jagger, Corey Feldman, Malcolm McDowell, Rutger Hauer", 
+    "director": "Ben Jagger", 
+    "imdb_rating": "5.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1534550400"
+},
+{
+    "title": "Corporate", 
+    "description": "A food company executive opens the door to a flurry of intrigue and manipulation whens she steals secrets from a corporate rival.", 
+    "actors": "Bipasha Basu, Kay Kay Menon, Raj Babbar, Rajat Kapoor", 
+    "director": "Madhur Bhandarkar", 
+    "imdb_rating": "6.9/10", 
+    "category": "Dramas", 
+    "date_released": "1509494400"
+},
+{
+    "title": "Countdown to Death: Pablo Escobar", 
+    "description": "Through rare interviews, images and wiretap audio, this documentary reconstructs the last nine years of Colombian drug lord Pablo Escobar's life.", 
+    "actors": "", 
+    "director": "Santiago Diaz, Pablo Martin Farina", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1516579200"
+},
+{
+    "title": "Counterpunch", 
+    "description": "As boxing's popularity wanes, three fighters at different stages of their career make sacrifices to pursue their dreams of becoming champions.", 
+    "actors": "", 
+    "director": "Jay Bulger", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1497571200"
+},
+{
+    "title": "Country Crush", 
+    "description": "A city girl falls for a country boy who follows her to New York, but their romance may be over when she must choose between love and a music career.", 
+    "actors": "Jana Kramer, Munro Chambers, Madeline Merlo, Sophie Simmons", 
+    "director": "Andrew Cymek", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1498608000"
+},
+{
+    "title": "Couple of Days", 
+    "description": "Three couples, each in different phases of romance, head to Ibadan for a fun and frisky holiday. But secrets soon spill, causing trouble in paradise.", 
+    "actors": "Lilian Esoro, Ademola Adedoyin, Enyima Nwigwe, Kiki Omeili", 
+    "director": "Tolu Awobiyi", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1505433600"
+},
+{
+    "title": "Couples Counseling", 
+    "description": "A seasoned couples therapist comes to realize she might need help with her own marriage after meeting a new pair of young clients.", 
+    "actors": "Zez\u00e9 Polessa, Daniel Dantas, Paulo Vilhena, Fernanda Paes Leme", 
+    "director": "Alexandre Reinecke", 
+    "imdb_rating": "5.6/10", 
+    "category": "Comedies", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Cowboy", 
+    "description": "Frustrated by his meager career, an Argentinian actor goes all out to land a plum role in an American Western that's being filmed in his country.", 
+    "actors": "Leonardo Sbaraglia, Pilar Gamboa, Daniel Fanego, Guillermo Arengo", 
+    "director": "Juan Minuj\u00edn", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1498867200"
+},
+{
+    "title": "Cowboys", 
+    "description": "When a teenager from eastern France runs away with her Muslim boyfriend, her father and brother go on a years-long, obsessive quest to find her.", 
+    "actors": "Fran\u00e7ois Damiens, Finnegan Oldfield, John C. Reilly, Agathe Dronne", 
+    "director": "Thomas Bidegain", 
+    "imdb_rating": "6.6/10", 
+    "category": "Dramas", 
+    "date_released": "1481328000"
+},
+{
+    "title": "Creep", 
+    "description": "When a cash-strapped videographer takes a job in a remote mountain town, he finds that the client has some unsettling ideas in mind.", 
+    "actors": "Mark Duplass, Patrick Brice", 
+    "director": "Patrick Brice", 
+    "imdb_rating": "6.2/10", 
+    "category": "Horror Movies", 
+    "date_released": "1436832000"
+},
+{
+    "title": "Creep 2", 
+    "description": "A video artist finds the perfect character for a sensational piece, but the subject of her dreams soon reveals his insidious side.", 
+    "actors": "Mark Duplass, Desiree Akhavan, Karan Soni", 
+    "director": "Patrick Brice", 
+    "imdb_rating": "6.4/10", 
+    "category": "Horror Movies", 
+    "date_released": "1513987200"
+},
+{
+    "title": "Crossroads: One Two Jaga", 
+    "description": "In Kuala Lumpur, an abused domestic worker tries to escape to Indonesia, while an idealistic cop insists on fighting corruption  -- at a heavy price.", 
+    "actors": "Zahiril Adzim, Ario Bayu, Asmara Abigail, Rosdeen Suboh", 
+    "director": "Nam Ron", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Crouching Tiger, Hidden Dragon: Sword of Destiny", 
+    "description": "Renowned warrior Yu Shu-Lien comes out of retirement to keep the legendary Green Destiny sword away from villainous warlord Hades Dai.", 
+    "actors": "Michelle Yeoh, Donnie Yen, Harry Shum Jr., Natasha Liu Bordizzo", 
+    "director": "Yuen Wo-Ping", 
+    "imdb_rating": "5.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1456444800"
+},
+{
+    "title": "Cult of Chucky", 
+    "description": "Following a string of murders in the asylum where she's confined, Nica Pierce begins to wonder whether Chucky is real after all.", 
+    "actors": "Fiona Dourif, Michael Therriault, Adam Hurtig, Alex Vincent", 
+    "director": "Don Mancini", 
+    "imdb_rating": "5.1/10", 
+    "category": "Horror Movies", 
+    "date_released": "1506988800"
+},
+{
+    "title": "Curious George: A Very Monkey Christmas", 
+    "description": "George and the Man in the Yellow Hat are having a merry time counting down to Christmas, but neither can decide what present to give each other.", 
+    "actors": "Frank Welker, Jeff Bennett, Rolonda Watts, Jim Cummings", 
+    "director": "Scott Heming, Cathy Malkasian", 
+    "imdb_rating": "5.8/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1385856000"
+},
+{
+    "title": "Curve", 
+    "description": "A young bride-to-be trying to shake a sadistic hitchhiker drives her truck off the road and ends up in a harrowing fight for survival.", 
+    "actors": "Julianne Hough, Teddy Sears, Penelope Mitchell, Madalyn Horcher", 
+    "director": "Iain Softley", 
+    "imdb_rating": "5.4/10", 
+    "category": "Horror Movies", 
+    "date_released": "1453161600"
+},
+{
+    "title": "Cut from a Different Cloth", 
+    "description": "This firsthand look at a unique collaboration follows fashion empire Superdry's founders as they work with actor Idris Elba to launch a clothing line.", 
+    "actors": "Idris Elba", 
+    "director": "Richard Terry", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1485907200"
+},
+{
+    "title": "Cute to Killer", 
+    "description": "In this wildlife documentary, cameras capture two years in the lives of four lion cubs as they develop from newborns into savvy jungle predators.", 
+    "actors": "Dave Birch", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1477958400"
+},
+]

@@ -1,1 +1,20 @@
-[]
+[
+{
+    "title": "X: Past Is Present", 
+    "description": "When a middle-aged filmmaker meets an alluring stranger at a party, he's haunted by troubling memories of his past relationships.", 
+    "actors": "Rajat Kapoor, Anshuman Jha, Radhika Apte, Huma Qureshi", 
+    "director": "Hemant Gaba, Pratim D. Gupta", 
+    "imdb_rating": "6.7/10", 
+    "category": "Dramas", 
+    "date_released": "1467331200"
+},
+{
+    "title": "XX", 
+    "description": "This four-part anthology of short horror films features stories that include some traditional themes but all are shown from a female point of view.", 
+    "actors": "Natalie Brown, Jonathan Watton, Melanie Lynskey, Lindsay Burdge", 
+    "director": "Jovanka Vuckovic, Annie Clark", 
+    "imdb_rating": "4.9/10", 
+    "category": "Horror Movies", 
+    "date_released": "1498089600"
+},
+]

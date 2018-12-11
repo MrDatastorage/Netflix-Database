@@ -1,1 +1,56 @@
-[]
+[
+{
+    "title": "Q", 
+    "description": "A man buys a young girl, code-names her \"Doll\" and sends her to live with a mother of two who has a mysterious mission to be fulfilled.", 
+    "actors": "Heeba Shah, Ashwin Shukla, Muskaan, Aldan Shaikh", 
+    "director": "Sanjeev Gupta", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1487289600"
+},
+{
+    "title": "Qarib Qarib Singlle", 
+    "description": "After reluctantly joining a dating app, a 35-year-old widow accompanies an easygoing poet on a trip to visit three of his exes.", 
+    "actors": "Irrfan Khan, Parvathy, Neha Dhupia, Pushtii Shakti", 
+    "director": "Tanuja Chandra", 
+    "imdb_rating": "7.0/10", 
+    "category": "Comedies", 
+    "date_released": "1535414400"
+},
+{
+    "title": "Qila", 
+    "description": "When an abusive landowner is murdered, his twin brother sets out to find the killer but quickly discovers that everyone, it seems, wanted him dead.", 
+    "actors": "Dilip Kumar, Mukul Dev, Rekha, Mamta Kulkarni", 
+    "director": "Umesh Mehra", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1496275200"
+},
+{
+    "title": "Queen", 
+    "description": "A jilted bride decides to go on her European honeymoon anyway -- by herself -- and ends up embarking on a journey of self-discovery.", 
+    "actors": "Kangana Ranaut, Rajkummar Rao, Lisa Haydon, Mish Boyko", 
+    "director": "Vikas Bahl", 
+    "imdb_rating": "7.2/10", 
+    "category": "Comedies", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Quiet Victory: The Charlie Wedemeyer Story", 
+    "description": "When high school football coach Charlie Wedemeyer is diagnosed with Lou Gehrig's disease, he perseveres in leading his team despite becoming disabled.", 
+    "actors": "Pam Dawber, Michael Nouri, Bess Meyer, Peter Berg", 
+    "director": "Roy Campanella II", 
+    "imdb_rating": "8.0/10", 
+    "category": "Dramas", 
+    "date_released": "1317427200"
+},
+{
+    "title": "Quiz Show", 
+    "description": "Robert Redford directs this true story of Charles Van Doren, who rocketed to national fame as a repeat winner on the TV quiz show \"Twenty-One.\"", 
+    "actors": "John Turturro, Rob Morrow, Ralph Fiennes, David Paymer", 
+    "director": "Robert Redford", 
+    "imdb_rating": "7.3/10", 
+    "category": "Classic Movies", 
+    "date_released": "1475280000"
+},
+]
