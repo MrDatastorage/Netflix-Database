@@ -1,1 +1,551 @@
-[]
+[
+{
+    "title": "F is for Family", 
+    "description": "Follow the Murphy family back to the 1970s, when kids roamed wild, beer flowed freely and nothing came between a man and his TV.", 
+    "actors": "Bill Burr, Laura Dern, Justin Long, Debi Derryberry", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "TV Comedies", 
+    "date_released": "1450396800"
+},
+{
+    "title": "Face/Off", 
+    "description": "An antiterrorism agent goes under the knife to acquire the likeness of a terrorist and gather details about a bombing plot.", 
+    "actors": "John Travolta, Nicolas Cage, Joan Allen, Alessandro Nivola", 
+    "director": "John Woo", 
+    "imdb_rating": "6.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Fair Game (2010) - Director's Cut", 
+    "description": "Director Doug Liman re-cuts his true-life spy thriller about the politically motivated unmasking of undercover CIA operative Valerie Plame.", 
+    "actors": "Naomi Watts, Sean Penn, Sam Shepard, Noah Emmerich", 
+    "director": "Doug Liman", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Fairground Attractions", 
+    "description": "Families of showmen who run traveling fairs peel back the curtain as they set up, dismantle and move on, confronting obstacles along the way.", 
+    "actors": "Ben Crowe", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Fairy Tail", 
+    "description": "When four young wizards team up to take jobs across the kingdom, they forge a bond more powerful than any magic and grow stronger with every mission.", 
+    "actors": "Tetsuya Kakihara, Aya Hirano, Rie Kugimiya, Yuichi Nakamura", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "Anime Series", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Fake or Fortune?", 
+    "description": "Fiona Bruce and Philip Mould use investigative skills and scientific techniques to determine if paintings are real or just impressive forgeries.", 
+    "actors": "Fiona Bruce, Philip Mould, Bendor Grosvenor", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "British TV Shows", 
+    "date_released": "1542931200"
+},
+{
+    "title": "Fall in Love with Me", 
+    "description": "The head of a struggling ad agency finds herself torn between a hotshot executive and a kind stranger -- not realizing they're the same person.", 
+    "actors": "Aaron Yan, Tia Lee, Jack Lee, Katherine Wang", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1475280000"
+},
+{
+    "title": "Fallet", 
+    "description": "A Swedish detective and her timid British colleague's attempt to solve a gruesome murder case nets mixed results and miscommunication.", 
+    "actors": "Lisa Henni, Adam Godley, Tomas von Br\u00f6mssen, Lia Boysen", 
+    "director": "", 
+    "imdb_rating": "6.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Fangbone", 
+    "description": "Magically transported from far-off Skullbania, a young barbarian teams up with an odd third-grader to protect his homeland from an evil sorcerer.", 
+    "actors": "Taylor Abrahamse, Colin Doyle, Juan Chioran, Kathleen Laskey", 
+    "director": "", 
+    "imdb_rating": "6.7/10", 
+    "category": "Kids' TV", 
+    "date_released": "1492819200"
+},
+{
+    "title": "Fantastic", 
+    "description": "Diagnosed with terminal cancer, a thriving scriptwriter decides to live her life as never before, even enjoying the attention of two different men.", 
+    "actors": "Kim Hyun-joo, Joo Sang-uk, Park Si-yeon, Ji Su", 
+    "director": "", 
+    "imdb_rating": "4.9/10", 
+    "category": "International TV Shows", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Fartsa", 
+    "description": "As four Russian friends grow up in the early '60s, life, love and the curse of success threaten to derail their dreams.", 
+    "actors": "Alexander Petrov, Fillip Gorenshtein, Maksim Emelyanov, Aleksey Vesyolkin", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Fastest Car", 
+    "description": "The drivers of exotic supercars put their street cred on the line against deceptively fast sleeper cars built and modified by true gearheads.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "Reality TV", 
+    "date_released": "1522972800"
+},
+{
+    "title": "Fatal Destiny", 
+    "description": "A young man from a humble family is drawn into a life of crime -- and soon confronts a determined cop in hot pursuit.", 
+    "actors": "Arucha Tosawat, Nappon Gomarachun, Phakin Khamwilaisak, Ratchawin Wongviriya", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1531440000"
+},
+{
+    "title": "Fatal Fashion", 
+    "description": "After a New York fashion photographer's psychotic break, she moves to L.A. to teach high school, where she soon begins to obsess over a nerdish teen.", 
+    "actors": "Linsey Godfrey, Joshua Hoffman, Ellen Michelle Monohan, Maria Pallas", 
+    "director": "Doug Campbell", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Fate/Apocrypha", 
+    "description": "The theft of the Greater Grail from Fuyuki City leads to a splintered timeline in which the Great Holy Grail War is waged on an unprecedented scale.", 
+    "actors": "Natsuki Hanae, Maaya Sakamoto, Koki Uchiyama, Miyuki Sawashiro", 
+    "director": "", 
+    "imdb_rating": "5.9/10", 
+    "category": "Anime Series", 
+    "date_released": "1510012800"
+},
+{
+    "title": "Fate/EXTRA Last Encore", 
+    "description": "Hakuno Kishinami finds himself in the midst of a Holy Grail war with no memories of how he got there. Through his confusion, he must fight to survive.", 
+    "actors": "Atsushi Abe, Sakura Tange, Kana Ueda, Hiroshi Kamiya", 
+    "director": "", 
+    "imdb_rating": "5.3/10", 
+    "category": "Anime Series", 
+    "date_released": "1530316800"
+},
+{
+    "title": "Fate/Zero", 
+    "description": "After three unsettled battles for the mystical Holy Grail, an artifact that grants a miracle to those who hold it, a fourth war begins.", 
+    "actors": "Rikiya Koyama, Ayako Kawasumi, Sayaka Ohara, Sho Hayami", 
+    "director": "Ei Aoki", 
+    "imdb_rating": "8.0/10", 
+    "category": "Anime Series", 
+    "date_released": "1397520000"
+},
+{
+    "title": "Father Brown", 
+    "description": "A modest, compassionate priest doubles as an effective crime solver in this series based on the short stories by G.K. Chesterton.", 
+    "actors": "Mark Williams, Sorcha Cusack, Nancy Carroll, Alex Price", 
+    "director": "Ian Barber", 
+    "imdb_rating": "7.1/10", 
+    "category": "British TV Shows", 
+    "date_released": "1490918400"
+},
+{
+    "title": "Father of the Year", 
+    "description": "A drunken debate between two recent college grads about whose father would win in a fight leads to mayhem when their dads take the challenge seriously.", 
+    "actors": "David Spade, Nat Faxon, Joey Bragg, Matt Shively", 
+    "director": "Tyler Spindel", 
+    "imdb_rating": "5.3/10", 
+    "category": "Comedies", 
+    "date_released": "1532044800"
+},
+{
+    "title": "Fauda", 
+    "description": "A top Israeli agent comes out of retirement to hunt for a Palestinian fighter he thought he'd killed, setting a chaotic chain of events into motion.", 
+    "actors": "Lior Raz, Hisham Suliman, Shadi Mar'i, La\u00ebtitia E\u00efdo", 
+    "director": "", 
+    "imdb_rating": "6.5/10", 
+    "category": "International TV Shows", 
+    "date_released": "1480636800"
+},
+{
+    "title": "Fawlty Towers", 
+    "description": "Haughty Basil Fawlty and his bossy wife try to raise the profile of their Fawlty Towers Hotel, but endless mix-ups arise, leading to farcical lunacy.", 
+    "actors": "John Cleese, Prunella Scales, Andrew Sachs, Connie Booth", 
+    "director": "Bob Spiers", 
+    "imdb_rating": "8.2/10", 
+    "category": "British TV Shows", 
+    "date_released": "1490918400"
+},
+{
+    "title": "Fear Files... Har Mod Pe Darr", 
+    "description": "Possessed lovers, witches, haunted houses and more bring tales of horror to the screen in this anthology series.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1496275200"
+},
+{
+    "title": "Filinta", 
+    "description": "In 19th-century Istanbul, a young police officer investigates crimes and falls in love with the daughter of a wealthy merchant conspiring against him.", 
+    "actors": "Onur Tuna, Serhat Tutumluer, Mehmet \u00d6zg\u00fcr, Naz Elmas", 
+    "director": "", 
+    "imdb_rating": "6.7/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1492214400"
+},
+{
+    "title": "Filthy Riches", 
+    "description": "Across America, independent entrepreneurs who aren't afraid to get their hands dirty make a living by harvesting eels, worms, wild mushrooms and more.", 
+    "actors": "Ray Turner, Billy Taylor", 
+    "director": "", 
+    "imdb_rating": "6.7/10", 
+    "category": "Reality TV", 
+    "date_released": "1423526400"
+},
+{
+    "title": "FINAL FANTASY XIV Dad of Light", 
+    "description": "A father and son rekindle their bond through the online role-playing game Final Fantasy XIV in this live-action series based on a true story.", 
+    "actors": "Yudai Chiba, Ren Osugi, Fumika Baba, Yoshihiko Hakamada", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1504224000"
+},
+{
+    "title": "Find It, Fix It, Flog It", 
+    "description": "Hosts Henry Cole and Simon O'Brien restore and transform retro relics and overlooked objects in British homes to help homeowners turn a profit.", 
+    "actors": "Henry Cole, Simon O'Brien, Gemma Longworth, Guy Wilson", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1517184000"
+},
+{
+    "title": "Finding Neverland", 
+    "description": "This Oscar-winning film reveals how imaginative author J.M. Barrie envisioned a world that was at once so wondrous and perilous.", 
+    "actors": "Johnny Depp, Kate Winslet, Julie Christie, Radha Mitchell", 
+    "director": "Marc Forster", 
+    "imdb_rating": "7.3/10", 
+    "category": "Dramas", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Fire Chasers", 
+    "description": "As California's 2016 fire season rages, brave backcountry firefighters race to put out the flames, protect homes and save lives in this docuseries.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "6.5/10", 
+    "category": "Docuseries", 
+    "date_released": "1504828800"
+},
+{
+    "title": "Fireplace for Your Home", 
+    "description": "Replicate the peacefulness of an old-fashioned, wood-burning fireplace, as well as a crackling yule log fireplace, all set to holiday tunes.", 
+    "actors": "", 
+    "director": "George Ford", 
+    "imdb_rating": "", 
+    "category": "", 
+    "date_released": "1386201600"
+},
+{
+    "title": "First Team: Juventus", 
+    "description": "Follow renowned soccer club Juventus on and off the pitch as they attempt to win a seventh straight Italian title and achieve Champions League glory.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "Docuseries", 
+    "date_released": "1518739200"
+},
+{
+    "title": "Fishtronaut", 
+    "description": "Fishtronaut, a water-suit-wearing fish, travels on land to solve mysteries, and helps viewers learn how to protect the environment.", 
+    "actors": "F\u00e1bio Lucindo, Fernanda Bullara, Celso Alves, Renato M\u00e1rcio", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Kids' TV", 
+    "date_released": "1512086400"
+},
+{
+    "title": "Fit for Fashion", 
+    "description": "In this reality series, physique meets fashion as contestants compete in challenges to transform both body and image for the grand prize of $100,000.", 
+    "actors": "Louise Roe", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Fix It and Finish It", 
+    "description": "A team of skilled contractors and designers hosted by Antonio Sabato Jr. renovates houses, cabins and even RVs, transforming properties in one day.", 
+    "actors": "Antonio Sabato Jr.", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Reality TV", 
+    "date_released": "1522368000"
+},
+{
+    "title": "Flaked", 
+    "description": "In his funky California beach enclave, Chip's the go-to guy for personal insights. But he isn't quite as enlightened when it comes to his own baggage.", 
+    "actors": "Will Arnett, David Sullivan, Ruth Kearney, George Basil", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "TV Comedies", 
+    "date_released": "1457654400"
+},
+{
+    "title": "Flint Town", 
+    "description": "Over a two-year period, filmmakers embedded with cops in Flint, Michigan, reveal a department grappling with volatile issues in untenable conditions.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1519948800"
+},
+{
+    "title": "Food, Booze & Tattoos", 
+    "description": "Writer Brett Rogers travels to South Africa to explore the most sumptous artisanal food and beers, and the edgiest tattoo parlors, in the country.", 
+    "actors": "Brett Rogers", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1509753600"
+},
+{
+    "title": "Food: Delicious Science", 
+    "description": "In this series, TV presenter Michael Mosley and botanist James Wong explore the physics, chemistry and biology inside every bite of food we eat.", 
+    "actors": "Michael Mosley, James Wong", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Footprints in the Sand", 
+    "description": "Familial bonds strain as dramas concerning love, greed, business and generosity simmer across generations.", 
+    "actors": "Yenn Teoh, Leslie Chai, Elvis Chin, Candy Ice", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1506902400"
+},
+{
+    "title": "Force of Execution", 
+    "description": "An epic showdown ensues when a gangland crime boss pits his hit-man prot\u00e9g\u00e9 against a ruthless new player who's plotting his ascent to power.", 
+    "actors": "Steven Seagal, Ving Rhames, Danny Trejo, Bren Foster", 
+    "director": "Keoni Waxman", 
+    "imdb_rating": "5.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1392422400"
+},
+{
+    "title": "Forces of Nature", 
+    "description": "This dynamic series spans the globe to explain the complex natural forces that govern the planet, from shape and color to motion and the elements.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "5.7/10", 
+    "category": "British TV Shows", 
+    "date_released": "1488326400"
+},
+{
+    "title": "Forensic Files", 
+    "description": "Detectives and crime lab technicians use the latest and most fascinating procedures to solve crimes in this documentary-style show.", 
+    "actors": "Peter Thomas", 
+    "director": "", 
+    "imdb_rating": "7.6/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1405382400"
+},
+{
+    "title": "Forest of Piano", 
+    "description": "Kai grows up playing an old piano discarded in the woods; Shuhei's father is a famous pianist. Their chance meeting transforms their lives and music.", 
+    "actors": "Soma Saito, Junichi Suwabe, Natsuki Hanae, Yuichi Nakamura", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "Anime Series", 
+    "date_released": "1538092800"
+},
+{
+    "title": "Forget Me Not", 
+    "description": "Teenage Xue Ming was forced to marry the man who raped her. Years after abandoning her young sons to find a better life, can she escape the guilt?", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "5.8/10", 
+    "category": "International TV Shows", 
+    "date_released": "1505692800"
+},
+{
+    "title": "Four Seasons in Havana", 
+    "description": "As Havana slowly revolves through the year, wistful detective Mario Conde probes the sultry heart of the city to investigate dark and deadly crimes.", 
+    "actors": "Jorge Perugorr\u00eda, Carlos Enrique Almirante, Mario Guerra, Luis Alberto Garc\u00eda", 
+    "director": "", 
+    "imdb_rating": "7.6/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1481241600"
+},
+{
+    "title": "Frasier", 
+    "description": "Frasier Crane is a snooty but lovable Seattle psychiatrist who dispenses advice on his call-in radio show while ignoring it in his own relationships.", 
+    "actors": "Kelsey Grammer, Jane Leeves, David Hyde Pierce, Peri Gilpin", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1451606400"
+},
+{
+    "title": "Frat Star", 
+    "description": "A freshman uninterested in joining a fraternity is convinced to pledge by a rich roommate who introduces him to a world darker than he ever dreamed.", 
+    "actors": "Connor Lawrence, Justin Mark, Cathryn Dylan, Chris Elliott", 
+    "director": "Grant S. Johnson, Ippsie Jones", 
+    "imdb_rating": "4.6/10", 
+    "category": "Comedies", 
+    "date_released": "1491782400"
+},
+{
+    "title": "Freddy Heineken", 
+    "description": "Dutch beer-brewing scion and businessman Freddy Heineken secures his family's legacy through years of ambitious dealings and one infamous kidnapping.", 
+    "actors": "Thom Hoffman, Xander van Vledder, Anna Drijver, Liz Snoyink", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1477958400"
+},
+{
+    "title": "Free Rein", 
+    "description": "A 15-year-old from LA spends the summer at her mom's childhood home on an island off the coast of England, where she bonds with a mysterious horse.", 
+    "actors": "Jaylen Barron, Manpreet Bambra, Celine Buckens, Freddy Carter", 
+    "director": "", 
+    "imdb_rating": "5.7/10", 
+    "category": "British TV Shows", 
+    "date_released": "1498089600"
+},
+{
+    "title": "Free State of Jones", 
+    "description": "In this fact-based drama, a rebellious farmer leads a group of Civil War deserters in a fight to establish a mixed-race free state in the deep South.", 
+    "actors": "Matthew McConaughey, Gugu Mbatha-Raw, Mahershala Ali, Keri Russell", 
+    "director": "Gary Ross", 
+    "imdb_rating": "", 
+    "category": "Action & Adventure", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Frequency", 
+    "description": "A detective seizes a precious opportunity to change the past when she finds she can communicate with her deceased, estranged father via a time warp.", 
+    "actors": "Peyton List, Riley Smith, Mekhi Phifer, Devin Kelley", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1485993600"
+},
+{
+    "title": "Fresh Meat", 
+    "description": "This comedy series follows six young individuals embarking on the most exciting journey of their lives so far: university.", 
+    "actors": "Zawe Ashton, Greg McHugh, Kimberley Nixon, Charlotte Ritchie", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "British TV Shows", 
+    "date_released": "1451606400"
+},
+{
+    "title": "Friday Night Tykes", 
+    "description": "This docuseries dives into the cutthroat world of Texas youth football, where kids face grueling demands and pressure from coaches and parents to win.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "Docuseries", 
+    "date_released": "1451606400"
+},
+{
+    "title": "Friends", 
+    "description": "This hit sitcom follows the merry misadventures of six 20-something pals as they navigate the pitfalls of work, life and love in 1990s Manhattan.", 
+    "actors": "Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc", 
+    "director": "", 
+    "imdb_rating": "7.9/10", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1420070400"
+},
+{
+    "title": "Friends from College", 
+    "description": "Twenty years after graduation, a tight-knit group of college friends reconnects and discovers that love hasn't gotten easier with age.", 
+    "actors": "Keegan-Michael Key, Cobie Smulders, Billy Eichner, Fred Savage", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "Romantic TV Shows", 
+    "date_released": "1499990400"
+},
+{
+    "title": "From Dusk Till Dawn", 
+    "description": "Bank-robbing brothers encounter vengeful lawmen and demons south of the border in this original series based on Robert Rodriguez' cult horror film.", 
+    "actors": "D.J. Cotrona, Zane Holtz, Eiza Gonzalez, Jesse Garcia", 
+    "director": "", 
+    "imdb_rating": "6.1/10", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1408406400"
+},
+{
+    "title": "Frontier", 
+    "description": "In 18th-century North America, ruthless trappers and entrepreneurs fight to wrest control of the fur trade from the mighty Hudson's Bay Company.", 
+    "actors": "Jason Momoa, Landon Liboiron, Alun Armstrong, Jessica Matten", 
+    "director": "", 
+    "imdb_rating": "5.9/10", 
+    "category": "International TV Shows", 
+    "date_released": "1484870400"
+},
+{
+    "title": "Frozen Planet", 
+    "description": "Go on a journey through the Arctic and Antarctic with this visually stunning program that explores these wildernesses and their inhabitants.", 
+    "actors": "David Attenborough", 
+    "director": "Alastair Fothergill", 
+    "imdb_rating": "8.3/10", 
+    "category": "British TV Shows", 
+    "date_released": "1453939200"
+},
+{
+    "title": "Fugitiva", 
+    "description": "A domestic abuse survivor orchestrates an elaborate deception to protect her family from her powerfully wealthy husband and his vindictive enemies.", 
+    "actors": "Paz Vega, Julio Bracho, Arantza Ruiz, Luisa Rubino", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1542931200"
+},
+{
+    "title": "Fuller House", 
+    "description": "The Tanner family\u2019s adventures continue as DJ Tanner-Fuller shares a home with her sister Stephanie and friend Kimmy who help raise her three boys.", 
+    "actors": "Candace Cameron Bure, Jodie Sweetin, Andrea Barber, Michael Campion", 
+    "director": "", 
+    "imdb_rating": "5.7/10", 
+    "category": "TV Comedies", 
+    "date_released": "1456444800"
+},
+{
+    "title": "Fullmetal Alchemist", 
+    "description": "Brothers Edward and Alphonse use alchemy to resurrect their mother, but they unleash a chemical reaction that tears apart their bodies.", 
+    "actors": "Romi Park, Rie Kugimiya, Megumi Toyoguchi, Miyoko Aso", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Anime Series", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Fullmetal Alchemist: Brotherhood", 
+    "description": "After both suffer physical damage -- brothers Edward and Alphonse battle nefarious forces to try to reclaim their bodies in this supernatural anime.", 
+    "actors": "Romi Park, Rie Kugimiya, Megumi Takamoto, Shinichiro Miki", 
+    "director": "Yasuhiro Irie", 
+    "imdb_rating": "8.4/10", 
+    "category": "Anime Series", 
+    "date_released": "1514764800"
+}
+]
