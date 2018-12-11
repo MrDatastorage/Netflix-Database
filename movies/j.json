@@ -1,1 +1,416 @@
-[]
+[
+{
+    "title": "Jaal", 
+    "description": "When a mysterious woman hires Shankar to spy on a family, he must determine how his own father's abandonment figures into the situation.", 
+    "actors": "Jeetendra, Mithun Chakraborty, Rekha, Mandakini", 
+    "director": "Umesh Mehra", 
+    "imdb_rating": "", 
+    "category": "Action & Adventure", 
+    "date_released": "1512691200"
+},
+{
+    "title": "Jaane Tu... Ya Jaane Na", 
+    "description": "Soft-spoken Jai and spitfire beauty Aditi couldn't be more different -- but their family and friends know that they're a perfect match.", 
+    "actors": "Imran Khan, Genelia D'Souza, Manjari Fadnis, Ayaz Khan", 
+    "director": "Abbas Tyrewala", 
+    "imdb_rating": "7.0/10", 
+    "category": "Comedies", 
+    "date_released": "1512691200"
+},
+{
+    "title": "Jab Harry Met Sejal", 
+    "description": "A philandering tour guide in Europe begins to develop feelings for one of his clients while helping her search for her lost engagement ring.", 
+    "actors": "Shah Rukh Khan, Anushka Sharma, Aru Krishansh Verma, Chandan Roy Sanyal", 
+    "director": "Imtiaz Ali", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1512172800"
+},
+{
+    "title": "Jab We Met", 
+    "description": "Changing fortunes await a wealthy but dejected industrialist when he meets a spirited chatterbox on a train in this breezy Bollywood romantic comedy.", 
+    "actors": "Shahid Kapoor, Kareena Kapoor, Tarun Arora, Dara Singh", 
+    "director": "Imtiaz Ali", 
+    "imdb_rating": "7.4/10", 
+    "category": "Comedies", 
+    "date_released": "1501632000"
+},
+{
+    "title": "Jack and the Cuckoo-Clock Heart", 
+    "description": "Equipped with a mechanical heart and determined to stay out of death's shadow, young Jack understands that love could prove fatal.", 
+    "actors": "Orlando Seale, Samantha Barks, Harry Sadeghi, Stephane Cornicard", 
+    "director": "Mathias Malzieu, St\u00e9phane Berla", 
+    "imdb_rating": "6.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1486512000"
+},
+{
+    "title": "Jackass 2.5", 
+    "description": "Johnny Knoxville, Steve-O and the entire Jackass crew are back with even more inappropriate and reckless stunts, pranks and mischief.", 
+    "actors": "Johnny Knoxville, Steve-O, Bam Margera, Preston Lacy", 
+    "director": "Jeff Tremaine", 
+    "imdb_rating": "5.8/10", 
+    "category": "Comedies", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Jackass: Number Two", 
+    "description": "Johnny Knoxville and his crew continue to shun dignity and embrace danger in this no-holds-barred sequel that keeps the gross-out factor high.", 
+    "actors": "Johnny Knoxville, Chris Pontius, Steve-O, Bam Margera", 
+    "director": "Jeff Tremaine", 
+    "imdb_rating": "6.3/10", 
+    "category": "Comedies", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Jackpot", 
+    "description": "A lottery ticket salesperson faces an ethical dilemma after setting aside a soon-to-be winning ticket for a customer to pick up and pay for later.", 
+    "actors": "Chi Tai, Lan Ngoc, Dustin Nguyen, Thu Trang", 
+    "director": "Dustin Nguyen", 
+    "imdb_rating": "7.0/10", 
+    "category": "Comedies", 
+    "date_released": "1538092800"
+},
+{
+    "title": "Jafar Panahi's Taxi", 
+    "description": "Director Jafar Panahi poses as a taxi driver in Tehran and uses a dashboard-mounted camera to record interviews with a variety of passengers.", 
+    "actors": "Jafar Panahi", 
+    "director": "Jafar Panahi", 
+    "imdb_rating": "6.9/10", 
+    "category": "Dramas", 
+    "date_released": "1456790400"
+},
+{
+    "title": "Jagga Jasoos", 
+    "description": "An eccentric, self-proclaimed detective goes on an action-packed hunt for his missing father, with an awkward but adventurous journalist by his side.", 
+    "actors": "Ranbir Kapoor, Katrina Kaif, Saurabh Shukla, Saswata Chatterjee", 
+    "director": "Anurag Basu", 
+    "imdb_rating": "5.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Jailbait", 
+    "description": "Relentlessly abused by her stepfather, Anna is ultimately driven to kill him and lands at a dangerously sadistic juvenile detention center.", 
+    "actors": "Sara Malakul Lane, Erin O'Brien, Steve Hanks, Andray Johnson", 
+    "director": "Jared Cohn", 
+    "imdb_rating": "4.1/10", 
+    "category": "Dramas", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Jailbreak", 
+    "description": "Four cops escorting a mobster to a high-security prison fight for survival when a gang boss orchestrates a riot from outside to silence their charge.", 
+    "actors": "Jean-Paul Ly, Dara Our, Tharoth Sam, Dara Phang", 
+    "director": "Jimmy Henderson", 
+    "imdb_rating": "6.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1525219200"
+},
+{
+    "title": "Jake's Buccaneer Blast", 
+    "description": "Jake, Izzy, Cubby and Skully face off against the scheming Captain Hook in a race to find special treasures hidden all around Never Land.", 
+    "actors": "Megan Richie, Riley Thomas Stewart, Jadon Sand, David Arquette", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Movies", 
+    "date_released": "1501977600"
+},
+{
+    "title": "Jal", 
+    "description": "A gifted young man from a drought-stricken village helps a group of ecologists find water for migrating flamingoes.", 
+    "actors": "Purab Kohli, Tannishtha Chatterjee, Kirti Kulhari, Yashpal Sharma", 
+    "director": "Girish Malik", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1508025600"
+},
+{
+    "title": "Jalpari: The Desert Mermaid", 
+    "description": "When they travel to their father's ancestral village, city kids expecting a natural paradise instead find a poor, dusty town that harbors secrets.", 
+    "actors": "Lehar Khan, Krishang Trivedi, Parvin Dabas, Suhasini Mulay", 
+    "director": "Nila Madhab Panda", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1525651200"
+},
+{
+    "title": "James", 
+    "description": "By saving a woman from being molested at the bar where he works, a bouncer runs afoul of a local mobster, who retaliates with swift and brutal action.", 
+    "actors": "Mohit Ahlawat, Priyanka Kothari, Zakir Hussain, Sherveer Vakil", 
+    "director": "Rohit Jugraj", 
+    "imdb_rating": "4.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1509494400"
+},
+{
+    "title": "James White", 
+    "description": "A self-destructive New Yorker attempts to transform himself when his reckless behavior prevents him from caring for his terminally ill mother.", 
+    "actors": "Christopher Abbott, Cynthia Nixon, Scott Mescudi, Ron Livingston", 
+    "director": "Josh Mond", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1504828800"
+},
+{
+    "title": "Janaan", 
+    "description": "After 11 years in Canada, young Meena returns to her native Pakistan for a family wedding and becomes romantically entangled with an adopted cousin.", 
+    "actors": "Armeena Rana Khan, Bilal Ashraf, Ali Rehman Khan, Hania Aamir", 
+    "director": "Azfar Jafri", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1505433600"
+},
+{
+    "title": "Jane & Payne", 
+    "description": "Capturing the long-planned meeting of primatologist Jane Goodall and whale conservationist Roger Payne, this film celebrates both scientists' careers.", 
+    "actors": "Jane Goodall, Roger Payne", 
+    "director": "Boy Olmi", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Jarhead 3: The Siege", 
+    "description": "When insurgents assault a U.S. embassy, unsuspecting Marines guarding the compound are swept into a ferocious battle to protect civilian lives.", 
+    "actors": "Scott Adkins, Charlie Weber, Dante Basco, Romeo Miller", 
+    "director": "William Kaufman", 
+    "imdb_rating": "5.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1465257600"
+},
+{
+    "title": "Jatt James Bond", 
+    "description": "Shinda loves Laali but can't have her, so he and his friends come up with an elaborate plan to solve all their problems and win her.", 
+    "actors": "Gippy Grewal, Gurpreet Guggi, Zarine Khan", 
+    "director": "Rohit Jugraj", 
+    "imdb_rating": "5.5/10", 
+    "category": "Comedies", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Jatts in Golmaal", 
+    "description": "Without fully realizing the consequences, a boy who wants to relocate from India to Canada sells his heart to a gangster in need of a transplant.", 
+    "actors": "Arya Babbar, Samiksha Singh, Gurpreet Guggi, Binnu Dhillon", 
+    "director": "Ksshitij Chaudhary", 
+    "imdb_rating": "7.3/10", 
+    "category": "Comedies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Je suis Charlie", 
+    "description": "This documentary takes a hard look at what led to the 2015 terrorist assault on French publication Charlie Hebdo, in which 12 were killed.", 
+    "actors": "", 
+    "director": "Daniel Leconte, Emmanuel Leconte", 
+    "imdb_rating": "5.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1452038400"
+},
+{
+    "title": "Jefe", 
+    "description": "A rude, self-centered businessman seems to be on the brink of losing everything until a night janitor at his office helps him find redemption.", 
+    "actors": "Luis Callejo, Juana Acosta, Carlo D'Ursi, Josean Bengoetxea", 
+    "director": "Sergio Barrej\u00f3n", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1540512000"
+},
+{
+    "title": "Jellies", 
+    "description": "Twelve different species of jellyfish swim across your screen for the ideal relaxation or ambient entertainment backdrop.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Movies", 
+    "date_released": "1468540800"
+},
+{
+    "title": "Jessica Darling's It List", 
+    "description": "Armed with popularity tips from her beautiful older sister, precocious Jessica Darling prepares to navigate the treacherous world of seventh grade.", 
+    "actors": "Chloe East, Emma Rayne Lyle, Jane Widdop, Jane Sibbett", 
+    "director": "Ali Scher", 
+    "imdb_rating": "5.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Jet Li's Fearless", 
+    "description": "Jet Li stars as martial arts legend Huo Yuanjia, a Chinese fighter who dreams of continuing his father's legacy and restoring pride in his nation.", 
+    "actors": "Jet Li, Sun Li, Dong Yong, Shido Nakamura", 
+    "director": "Ronny Yu", 
+    "imdb_rating": "", 
+    "category": "Action & Adventure", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Jewel's Catch One", 
+    "description": "The story of famed L.A. nightclub Catch One and owner Jewel Thais-Williams, who defied all odds and provided a safe space for black LGBT communities.", 
+    "actors": "Jewel Thais-Williams", 
+    "director": "C. Fitz", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1525132800"
+},
+{
+    "title": "Jihad: A Story of the Others", 
+    "description": "Seeking to understand what motivates jihadists in the West, Deeyah Khan speaks to Muslims who embraced -- and later renounced -- violent extremism.", 
+    "actors": "", 
+    "director": "Deeyah Khan", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1528329600"
+},
+{
+    "title": "Jodhaa Akbar", 
+    "description": "In 16th-century India, what begins as a strategic alliance between a Mughal emperor and a Hindu princess becomes a genuine opportunity for true love.", 
+    "actors": "Hrithik Roshan, Aishwarya Rai Bachchan, Sonu Sood, Suhasini Mulay", 
+    "director": "Ashutosh Gowariker", 
+    "imdb_rating": "7.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Joe Cocker: Mad Dog with Soul", 
+    "description": "From his star turn at Woodstock to his battles with addiction, this film chronicles the stormy life and unique talent of soulful singer Joe Cocker.", 
+    "actors": "", 
+    "director": "John Edginton", 
+    "imdb_rating": "8.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "John & Jane", 
+    "description": "Truth and fiction blend in this quasi-documentary about six exhausted workers at a Mumbai call center servicing U.S. customers.", 
+    "actors": "", 
+    "director": "Ashim Ahluwalia", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1471219200"
+},
+{
+    "title": "Joker", 
+    "description": "A remote village situated neither in India or Pakistan becomes its own republic after inmates at the local mental asylum bust loose and take over.", 
+    "actors": "Akshay Kumar, Sonakshi Sinha, Shreyas Talpade, Minissha Lamba", 
+    "director": "Shirish Kunder", 
+    "imdb_rating": "3.2/10", 
+    "category": "Comedies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Jomonte Suviseshangal", 
+    "description": "A businessman's carefree, irresponsible son must change his ways to help his father recover from a crippling financial disaster.", 
+    "actors": "Dulquer Salmaan, Mukesh, Aishwarya Rajesh, Anupama Parameswaran", 
+    "director": "Sathyan Anthikad", 
+    "imdb_rating": "6.5/10", 
+    "category": "Dramas", 
+    "date_released": "1521072000"
+},
+{
+    "title": "Jonas", 
+    "description": "During Carnival, two teens from different classes meet years after being kept apart. Bad decisions lead the boy to hide with the girl inside a float.", 
+    "actors": "Jesu\u00edta Barbosa, Laura Neiva, Criolo, Ana Cec\u00edlia Costa", 
+    "director": "L\u00f4 Politi", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1488067200"
+},
+{
+    "title": "Jora 10 Numbaria", 
+    "description": "The wounds of a traumatic childhood and a corrupt, unjust system push a young man into becoming a cold-blooded, ruthless gangster.", 
+    "actors": "Deep Sidhu, Dharmendra, Mukul Dev, Sardar Sohi", 
+    "director": "Amardeep Singh Gill", 
+    "imdb_rating": "8.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Joseph: King of Dreams", 
+    "description": "With his gift of dream interpretation and his brilliantly colored coat, Joseph inspires jealousy in his brothers in this animated Bible story.", 
+    "actors": "Ben Affleck, Mark Hamill, Richard Herd, Maureen McGovern", 
+    "director": "Rob LaDuca, Robert C. Ramirez", 
+    "imdb_rating": "6.4/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1317081600"
+},
+{
+    "title": "Journey to Greenland", 
+    "description": "When they flee Paris for a remote village in Greenland, two part-time actors become immersed in the archaic Inuit culture and forge unexpected bonds.", 
+    "actors": "Thomas Blanchard, Thomas Scimeca, Fran\u00e7ois Chattot, Ole Eliassen", 
+    "director": "S\u00e9bastien Betbeder", 
+    "imdb_rating": "6.1/10", 
+    "category": "Comedies", 
+    "date_released": "1485648000"
+},
+{
+    "title": "Journey to Le Mans", 
+    "description": "A British privateer team pushes itself to the limits of human endurance and engineering mastery to compete in the world's most challenging motor race.", 
+    "actors": "Patrick Stewart, Tiff Needell", 
+    "director": "Charlotte Fantelli", 
+    "imdb_rating": "5.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1451606400"
+},
+{
+    "title": "Journey to the Center of the Earth", 
+    "description": "A hunch and the defunding of his laboratory prompt a geology professor to set off for Iceland in search of a portal to Earth's core.", 
+    "actors": "Brendan Fraser, Josh Hutcherson, Anita Briem, Seth Meyers", 
+    "director": "Eric Brevig", 
+    "imdb_rating": "5.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Judge Singh LLB", 
+    "description": "Framed by a politician for committing murder, a lower-class boy hires the only counsel he can afford: a lawyer with no courtroom experience.", 
+    "actors": "Ravinder Grewal, B.N. Sharma, Sardar Sohi, Chandan Prabhakar", 
+    "director": "Atharv Baluja", 
+    "imdb_rating": "8.0/10", 
+    "category": "Comedies", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Judwaa 2", 
+    "description": "Separated at birth, twins Raja and Prem couldn't be more different. But when fate puts them both in London, they start being mistaken for each other.", 
+    "actors": "Varun Dhawan, Jacqueline Fernandez, Tapsee Pannu, Rajpal Yadav", 
+    "director": "David Dhawan", 
+    "imdb_rating": "6.1/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Julie & Julia", 
+    "description": "In this heartwarming tale, Julie Powell decides to spice up her uneventful life by cooking all 524 recipes outlined in Julia Child's classic cookbook.", 
+    "actors": "Meryl Streep, Amy Adams, Stanley Tucci, Chris Messina", 
+    "director": "Nora Ephron", 
+    "imdb_rating": "6.6/10", 
+    "category": "Comedies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Jurassic School", 
+    "description": "When his science fair project -- a cloned dinosaur egg -- hatches, Tommy becomes pals with the baby reptile ... until it escapes and he must find it!", 
+    "actors": "Gabriel Bennett, Amber Patino, Ashton Pulis, Jon Briddell", 
+    "director": "Mark Atkins", 
+    "imdb_rating": "5.6/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1496620800"
+},
+{
+    "title": "Just Another Love Story", 
+    "description": "When he causes a car accident that leaves a young woman with amnesia, a man finds himself telling incredible lies to make her and her family happy.", 
+    "actors": "Anders W. Berthelsen, Rebecka Hemse, Nikolaj Lie Kaas, Charlotte Fich", 
+    "director": "Ole Bornedal", 
+    "imdb_rating": "6.5/10", 
+    "category": "Dramas", 
+    "date_released": "1241481600"
+},
+{
+    "title": "Justice, My Foot!", 
+    "description": "Slick lawyer Sung fears he's been cursed with bad karma and considers giving up his practice -- until he's approached by a widow accused of murder.", 
+    "actors": "Stephen Chow, Anita Mui, Carrie Ng, Wai Ai", 
+    "director": "Johnnie To", 
+    "imdb_rating": "6.8/10", 
+    "category": "Comedies", 
+    "date_released": "1533081600"
+}
+]

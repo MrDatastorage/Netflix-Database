@@ -1,1 +1,2207 @@
-[]
+[
+{
+    "title": "B.A. Pass", 
+    "description": "Orphaned and at loose ends, young Mukesh falls into the seductive orbit of married Sarika, who leads him ever deeper into a world of sex and betrayal.", 
+    "actors": "Shadab Kamal, Shilpa Shukla, Rajesh Sharma, Dibyendu Bhattacharya", 
+    "director": "Ajay Bahl", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1527811200"
+},
+{
+    "title": "B.A. Pass 2", 
+    "description": "A young woman eager to avoid an arranged marriage moves to Mumbai, where she learns hard truths about show business, life and love.", 
+    "actors": "Kritika Sachdeva, Sasho, Sanghmitra Hitaishi, Indraneil Sengupta", 
+    "director": "Shadab Khan", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Baabul", 
+    "description": "When his only son dies in an accident, Balraaj urges his depressed daughter-in-law to marry a man who has long loved her in silence.", 
+    "actors": "Amitabh Bachchan, Hema Malini, Salman Khan, Rani Mukerji", 
+    "director": "Ravi Chopra", 
+    "imdb_rating": "5.2/10", 
+    "category": "Dramas", 
+    "date_released": "1490832000"
+},
+{
+    "title": "Baadshaho", 
+    "description": "In 1975, during the government-declared Emergency, thief Bhawani and his crew plan a daring robbery to reclaim his royal lover's seized treasures.", 
+    "actors": "Ajay Devgn, Emraan Hashmi, Vidyut Jammwal, Ileana D'Cruz", 
+    "director": "Milan Luthria", 
+    "imdb_rating": "5.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1508112000"
+},
+{
+    "title": "Baaghi", 
+    "description": "A martial artist faces his biggest test when he has to travel to Bangkok to rescue the woman he loves from the clutches of his romantic rival.", 
+    "actors": "Tiger Shroff, Shraddha Kapoor, Sudheer Babu, Paras Arora", 
+    "director": "Sabir Khan", 
+    "imdb_rating": "6.1/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Baahubali 2: The Conclusion (Hindi Version)", 
+    "description": "To avenge his father's death, a young man leads an army into battle against a cruel tyrant in this Hindi conclusion to the historic saga.", 
+    "actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia", 
+    "director": "S.S. Rajamouli", 
+    "imdb_rating": "6.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1502064000"
+},
+{
+    "title": "Baahubali 2: The Conclusion (Malayalam Version)", 
+    "description": "To avenge his father's death, a young man leads an army into battle against a cruel tyrant in this Malayalam conclusion to the historic saga.", 
+    "actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia", 
+    "director": "S.S. Rajamouli", 
+    "imdb_rating": "6.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1502064000"
+},
+{
+    "title": "Baahubali 2: The Conclusion (Tamil Version)", 
+    "description": "To avenge his father's death, a young man leads an army into battle against a cruel tyrant in this Tamil conclusion to the historic saga.", 
+    "actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia", 
+    "director": "S.S. Rajamouli", 
+    "imdb_rating": "6.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1502064000"
+},
+{
+    "title": "Baahubali: The Beginning (English Version)", 
+    "description": "Villagers in the kingdom of Mahismati rescue a baby who is destined to embark on a heroic quest in this English version of S.S. Rajamouli's epic.", 
+    "actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia", 
+    "director": "S.S. Rajamouli", 
+    "imdb_rating": "", 
+    "category": "Action & Adventure", 
+    "date_released": "1502064000"
+},
+{
+    "title": "Baahubali: The Beginning (Hindi Version)", 
+    "description": "Villagers in the kingdom of Mahismati rescue a baby who is destined to embark on a heroic quest in this Hindi version of S.S. Rajamouli's epic.", 
+    "actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia", 
+    "director": "S.S. Rajamouli", 
+    "imdb_rating": "7.4/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1502064000"
+},
+{
+    "title": "Baahubali: The Beginning (Malayalam Version)", 
+    "description": "Villagers in the kingdom of Mahismati rescue a baby who is destined to embark on a heroic quest in this Malayalam version of S.S. Rajamouli's epic.", 
+    "actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia", 
+    "director": "S.S. Rajamouli", 
+    "imdb_rating": "7.4/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1502064000"
+},
+{
+    "title": "Baahubali: The Beginning (Tamil Version)", 
+    "description": "Villagers in the kingdom of Mahismati rescue a baby who is destined to embark on a heroic quest in this Tamil version of S.S. Rajamouli's epic.", 
+    "actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia", 
+    "director": "S.S. Rajamouli", 
+    "imdb_rating": "7.4/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1502064000"
+},
+{
+    "title": "Baba", 
+    "description": "In this visually arresting drama, a musician recalls his life and the painful choice his mother made when she could feed only one of her twin sons.", 
+    "actors": "George Inci, Beatrice von Moreau", 
+    "director": "George Inci", 
+    "imdb_rating": "7.3/10", 
+    "category": "Dramas", 
+    "date_released": "1467331200"
+},
+{
+    "title": "Babam ve O\u011flum", 
+    "description": "Following Turkey's bloody coup of 1980, a widowed reporter returns to his Aegean hometown, bringing his son and a last wish for his estranged father.", 
+    "actors": "\u00c7etin Tekindor, Fikret Ku\u015fkan, H\u00fcmeyra, Ege Tanman", 
+    "director": "\u00c7a\u011fan Irmak", 
+    "imdb_rating": "7.6/10", 
+    "category": "Dramas", 
+    "date_released": "1525046400"
+},
+{
+    "title": "Bachelor Girls", 
+    "description": "Through intimate interviews, this documentary explores the stigma facing independent women who seek housing in modern Mumbai.", 
+    "actors": "", 
+    "director": "Shikha Makan", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Bachelorette", 
+    "description": "When a single overachiever learns a girl she teased in high school is getting married before her, she swallows her pride to serve as maid of honor.", 
+    "actors": "Kirsten Dunst, Rebel Wilson, Isla Fisher, Lizzy Caplan", 
+    "director": "Leslye Headland", 
+    "imdb_rating": "5.4/10", 
+    "category": "Comedies", 
+    "date_released": "1506384000"
+},
+{
+    "title": "Back and Forth", 
+    "description": "When their car breaks down en route to S\u00e3o Paulo, a father and son accept a ride from four beautiful telemarketers who are headed there on holiday.", 
+    "actors": "Ingrid Guimar\u00e3es, F\u00e1bio Assun\u00e7\u00e3o, Alice Braga, Rosanne Mulholland", 
+    "director": "Jos\u00e9 Eduardo Belmonte", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1483574400"
+},
+{
+    "title": "Back in the Day", 
+    "description": "Starting in 1980s Brooklyn, a good-hearted young boxer fights against the odds to become a middleweight champion with the help of the local mob.", 
+    "actors": "William DeMeo, Michael Madsen, Alec Baldwin, Annabella Sciorra", 
+    "director": "Paul Borghese", 
+    "imdb_rating": "2.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1482278400"
+},
+{
+    "title": "Backcountry", 
+    "description": "A weekend hike for urbanites Alex and Jenn takes a dangerous turn when they become lost deep in the remote territory of a menacing bear.", 
+    "actors": "Missy Peregrym, Jeff Roop, Eric Balfour, Nicholas Campbell", 
+    "director": "Adam MacDonald", 
+    "imdb_rating": "5.8/10", 
+    "category": "Horror Movies", 
+    "date_released": "1490832000"
+},
+{
+    "title": "Bad Ass", 
+    "description": "Loosely based on a true incident, this tale follows a lonely Vietnam vet who bravely takes on two menacing hoods on a bus.", 
+    "actors": "Danny Trejo, Charles S. Dutton, Patrick Fabian, Joyful Drake", 
+    "director": "Craig Moss", 
+    "imdb_rating": "5.4/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1344643200"
+},
+{
+    "title": "Bad Day for the Cut", 
+    "description": "A mild-mannered, middle-aged Irish farmer devoted to his mother embarks on a violent quest for revenge when she's murdered in a home invasion.", 
+    "actors": "Nigel O'Neill, Susan Lynch, J\u00f3zef Pawlowski, Stuart Graham", 
+    "director": "Chris Baugh", 
+    "imdb_rating": "6.5/10", 
+    "category": "Independent Movies", 
+    "date_released": "1516233600"
+},
+{
+    "title": "Bad Genius", 
+    "description": "A top student gets pulled into a cheating racket with increasingly higher risks and even higher rewards. But she may lose much more than she gains.", 
+    "actors": "Chutimon Chuengcharoensukying, Chanon Santinatornkul, Teeradon Supapunpinyo, Eisaya Hosuwan", 
+    "director": "Nattawut Poonpiriya", 
+    "imdb_rating": "7.4/10", 
+    "category": "International Movies", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Bad Santa", 
+    "description": "Criminals Willie and Marcus disguise themselves as Santa Claus and an elf and find work at major department stores with plans of robbing them blind.", 
+    "actors": "Billy Bob Thornton, Tony Cox, Lauren Graham, Brett Kelly", 
+    "director": "Terry Zwigoff", 
+    "imdb_rating": "6.5/10", 
+    "category": "Comedies", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Badha", 
+    "description": "A young woman who is suspected of practicing black magic and witchcraft is demonized and forced to live apart from her family.", 
+    "actors": "Amruta Subhash, Rajesh More, Devika Daftardar, Renuka Daftardar", 
+    "director": "Sumitra Bhave, Sunil Sukthankar", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1514764800"
+},
+{
+    "title": "Baghban", 
+    "description": "Raj and Pooja raised their sons to be good citizens. But when Raj retires, the children forsake responsibility and leave their parents behind.", 
+    "actors": "Amitabh Bachchan, Hema Malini, Aman Verma, Samir Soni", 
+    "director": "Ravi Chopra", 
+    "imdb_rating": "6.5/10", 
+    "category": "Dramas", 
+    "date_released": "1490832000"
+},
+{
+    "title": "Bald Mountain", 
+    "description": "Best friends Juliano and Joaquim head for Serra Pelada with dreams of riches during the Brazilian Gold Rush in 1980, but greed scuttles their plans.", 
+    "actors": "Juliano Cazarr\u00e9, J\u00falio Andrade, Wagner Moura, Matheus Nachtergaele", 
+    "director": "Heitor Dhalia", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1494374400"
+},
+{
+    "title": "Ballerina", 
+    "description": "F\u00e9licie and Victor, two young friends in 1880s France, escape from an orphanage to pursue their dreams in Paris, the glittering City of Lights.", 
+    "actors": "Elle Fanning, Dane DeHaan, Carly Rae Jepsen, Maddie Ziegler", 
+    "director": "Eric Summer, \u00c9ric Warin", 
+    "imdb_rating": "7.2/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1520380800"
+},
+{
+    "title": "Balto", 
+    "description": "Balto, who is half wolf and half dog, endures the taunts of disapproving humans as he guides a precious cargo of medicine through the Alaskan winter.", 
+    "actors": "Kevin Bacon, Bob Hoskins, Bridget Fonda, Jim Cummings", 
+    "director": "Simon Wells", 
+    "imdb_rating": "7.2/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1485907200"
+},
+{
+    "title": "Balto 2: Wolf Quest", 
+    "description": "Half-dog, half-wolf Balto (voiced by Maurice LaMarche) and his wife proudly put their pups up for adoption to humans, but when nobody takes daughter Aleu because she looks too much like a wolf, she runs away to search for her place in the world.", 
+    "actors": "Maurice LaMarche, Jodi Benson, Lacey Chabert, David Carradine", 
+    "director": "Phil Weinstein", 
+    "imdb_rating": "6.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1485907200"
+},
+{
+    "title": "Balto 3: Wings of Change", 
+    "description": "A pilot challenges Balto's son Kodi and his sled team to see who can deliver the mail faster, but the dogs race to the rescue when the plane vanishes.", 
+    "actors": "Maurice LaMarche, Sean Astin, Keith Carradine, Charles Fleischer", 
+    "director": "Phil Weinstein", 
+    "imdb_rating": "6.6/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1485907200"
+},
+{
+    "title": "Balu Mahi", 
+    "description": "Determined to stop his ex-girlfriend from marrying, a young man crashes the wrong wedding and meets a bride looking to run away.", 
+    "actors": "Osman Khalid Butt, Ainy Jaffri, Sadaf Kanwal, Khurram Patras", 
+    "director": "Haissam Hussain", 
+    "imdb_rating": "6.7/10", 
+    "category": "International Movies", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Bana Masal Anlatma", 
+    "description": "Minibus driver Riza is a steady presence in his close-knit neighborhood, until he brings home a dreamy beauty and throws everything into chaos.", 
+    "actors": "Hande Do\u011fandemir, Fatih Artman, Devrim Yakut, Cengiz Bozkurt", 
+    "director": "Burak Aksak", 
+    "imdb_rating": "6.9/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Band of Robbers", 
+    "description": "Recast as modern-day men, Tom Sawyer and Huck Finn draft their misfit cronies to help find the buried treasure the two have sought since boyhood.", 
+    "actors": "Kyle Gallner, Adam Nee, Matthew Gray Gubler, Melissa Benoist", 
+    "director": "Aaron Nee, Adam Nee", 
+    "imdb_rating": "6.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1460678400"
+},
+{
+    "title": "Bandie", 
+    "description": "Heirless Maharaj Brajbhan leaves his throne to his cousin Vikram, but when Brajbhan's wife, Badi Rani, finally conceives, Vikram plots to destroy her.", 
+    "actors": "Uttam Kumar, Sulakshana Pandit, Utpal Dutt, Bindu", 
+    "director": "Alo Sarkar", 
+    "imdb_rating": "6.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1509494400"
+},
+{
+    "title": "Bang Rajan 2", 
+    "description": "A small but fierce group of resistance fighters engages in a brutal battle to protect their village from an army of Burmese invaders.", 
+    "actors": "Puri Hiranyapluek, Paradorn Srichaphan, Chatchai Plengpanich", 
+    "director": "Tanit Jitnukul", 
+    "imdb_rating": "4.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1532304000"
+},
+{
+    "title": "Bangkok Dangerous", 
+    "description": "When coldblooded assassin Joe begins to question his violent ways, he refuses to carry out his assignment and sparks a war with his former client.", 
+    "actors": "Nicolas Cage, Shahkrit Yamnarm, Charlie Yeung, Panward Hemmanee", 
+    "director": "Oxide Pang Chun, Danny Pang", 
+    "imdb_rating": "", 
+    "category": "Action & Adventure", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Bangkok Hell", 
+    "description": "When offered a deal to snitch on fellow prisoners, an inmate faces a tough dilemma: act in his own interest, or help those who may need him.", 
+    "actors": "Chalad Na Songkhla, Sahatchai 'Stop' Chumrum, Pornchai Hongrattanaporn, Kongsak Kaenmeepol", 
+    "director": "Manop Janjarasskul", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1536883200"
+},
+{
+    "title": "Bangkok Traffic (Love) Story", 
+    "description": "After an encounter with an engineer working the night shift for the city train, a 30-year-old woman struggles against all odds to pursue true love.", 
+    "actors": "Theeradej Wongpuapan, Sirin Horwang, Ungsumalynn Sirapatsakmetha, Panissara Phimpru", 
+    "director": "Adisorn Tresirikasem", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1535760000"
+},
+{
+    "title": "Bank Attack", 
+    "description": "Desperate for money to save his sick daughter\u2019s life, a father decides to rob a bank, unluckily, on the same day as a real burglar and a safecracker.", 
+    "actors": "Baek Yoon-sik, Lee Moon-sik, Kim You-jung, Park Hyo-jun", 
+    "director": "Park Sang-jun", 
+    "imdb_rating": "7.0/10", 
+    "category": "Comedies", 
+    "date_released": "1506729600"
+},
+{
+    "title": "Barakah Meets Barakah", 
+    "description": "A laid-back civil servant and wealthy video blogger struggle to make it as a modern couple amid strict Saudi social conventions.", 
+    "actors": "Hisham Fageeh, Fatima Al-Banawi, Sami Hifny, Khairia Nazmi", 
+    "director": "Mahmoud Sabbagh", 
+    "imdb_rating": "6.5/10", 
+    "category": "Comedies", 
+    "date_released": "1507766400"
+},
+{
+    "title": "Barbecue", 
+    "description": "A blend of cultural nuance and mesmerizing techniques adds flavor to this globe-hopping celebration of cooking, tradition and community.", 
+    "actors": "", 
+    "director": "Matthew Salleh", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1502755200"
+},
+{
+    "title": "Barbie & Her Sisters in a Pony Tale", 
+    "description": "Barbie and her sisters set off on a Swiss adventure to the majestic Alps, where they're excited to spend the summer at a fun-filled riding academy!", 
+    "actors": "Kelly Sheridan, Kazumi Evans, Claire Corlett, Ashlyn Drummond", 
+    "director": "Kyran Kelly", 
+    "imdb_rating": "6.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie Dolphin Magic", 
+    "description": "While visiting Ken and exploring a coral reef, Barbie and her sisters make an amazing discovery and meet a mysterious new friend.", 
+    "actors": "Erica Lindbeck, Shannon Chan-Kent, Kazumi Evans, Claire Corlett", 
+    "director": "Conrad Helten", 
+    "imdb_rating": "6.8/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1505692800"
+},
+{
+    "title": "Barbie in A Mermaid Tale", 
+    "description": "Surf champ Merliah discovers she's actually a mermaid in a girl's body. With the help of a dolphin, Merliah must rescue her mom, the Queen of Oceana.", 
+    "actors": "Kelly Sheridan, Kathleen Barr, Tabitha St. Germain, Peter Mel", 
+    "director": "Adam Wood", 
+    "imdb_rating": "6.6/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie in Princess Power", 
+    "description": "A princess with a predictable life finds herself transformed by a magical butterfly's kiss into Super Sparkle, a crime-fighting superhero.", 
+    "actors": "Kelly Sheridan, Britt Irvin, Michael Kopsa, Rebecca Husain", 
+    "director": "Zeke Norton", 
+    "imdb_rating": "5.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie in Rock 'N Royals", 
+    "description": "When royal Princess Courtney trades places with famous rock star Erika, two worlds collide while both learn to appreciate new friends and experiences.", 
+    "actors": "Kelly Sheridan, Chiara Zanni, Bethany Brown, Devyn Dalton", 
+    "director": "Karen J. Lloyd", 
+    "imdb_rating": "6.1/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie Star Light Adventure", 
+    "description": "A hoverboard-riding princess of the cosmos, Barbie must band together with a team of talented new friends to save the stars from winking out.", 
+    "actors": "Erica Lindbeck, Robbie Daymond, Kimberly Woods, Sarah Anne Williams", 
+    "director": "Andrew Tan, Michael Goguen", 
+    "imdb_rating": "6.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie: A Fairy Secret", 
+    "description": "When devilish fairies capture Ken and fly away with him, Barbie and Raquelle travel to the glittering fairy world of Gloss Angeles to save him.", 
+    "actors": "Diana Kaarina, Adrian Petriw, Britt Irvin, Cassandra Morris", 
+    "director": "William Lau", 
+    "imdb_rating": "5.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie: Princess Charm School", 
+    "description": "Blair Willows is excited when she gets to go to Princess Charm School, where she meets princesses Delancy and Hadley, and searches for a magic crown.", 
+    "actors": "Diana Kaarina, Morwenna Banks, Nicole Oliver, Brittney Wilson", 
+    "director": "Ezekiel Norton", 
+    "imdb_rating": "6.7/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie: Spy Squad", 
+    "description": "A high-tech spy agency transforms Barbie and her best friends into secret agents, using their gymnastics skills to bring down a cunning cat burglar.", 
+    "actors": "Erica Lindbeck, Stephanie Sheh, Jenny Pellicer, Alyssya Swales", 
+    "director": "Conrad Helten", 
+    "imdb_rating": "6.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie: The Princess & the Popstar", 
+    "description": "Barbie stars as a princess who would rather sing and dance than be a royal. When a famous pop star visits the kingdom, they decide to switch places.", 
+    "actors": "Kelly Sheridan, Jennifer Waris, Ashleigh Ball, Tiffany Kathryn", 
+    "director": "Ezekiel Norton", 
+    "imdb_rating": "6.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbie: Video Game Hero", 
+    "description": "Pulled into her favorite video game, Barbie becomes a fun, roller-skating heroine who's battling a sinister emoji that's trying to take over.", 
+    "actors": "Erica Lindbeck, Sienna Bohn, Shannon Chan-Kent, Michael Dobson", 
+    "director": "Conrad Helten, Ezekiel Norton", 
+    "imdb_rating": "6.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Barbra Streisand... and Other Musical Instruments", 
+    "description": "With eclectic instruments from around the world, Barbra puts a fresh spin on her catalog in this concert special featuring a duet with Ray Charles.", 
+    "actors": "Barbra Streisand, Ray Charles", 
+    "director": "Dwight Hemion", 
+    "imdb_rating": "7.7/10", 
+    "category": "International Movies", 
+    "date_released": "1529020800"
+},
+{
+    "title": "Barbra Streisand: A Happening in Central Park", 
+    "description": "In this live concert special broadcast in 1968, Barbra performs her signature songs for a crowd of 150,000 in New York's Central Park.", 
+    "actors": "Barbra Streisand", 
+    "director": "Robert Scheerer", 
+    "imdb_rating": "8.0/10", 
+    "category": "International Movies", 
+    "date_released": "1529020800"
+},
+{
+    "title": "Bar\u00e7a Dreams", 
+    "description": "Explore the history and philosophies behind one of the world's most beloved -- and successful -- soccer franchises: FC Barcelona.", 
+    "actors": "Johan Cruyff, Andr\u00e9s Iniesta, Gary Lineker, Xavi Hern\u00e1ndez", 
+    "director": "Jordi Llompart", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1535760000"
+},
+{
+    "title": "Bareilly Ki Barfi", 
+    "description": "When she falls in love with the author of a novel she adores, bohemian Bitti enlists the help of a local printer to find her new object of affection.", 
+    "actors": "Ayushmann Khurrana, Kriti Sanon, Rajkummar Rao, Pankaj Tripathi", 
+    "director": "Ashwiny Iyer Tiwari", 
+    "imdb_rating": "6.7/10", 
+    "category": "Comedies", 
+    "date_released": "1534809600"
+},
+{
+    "title": "Barfi!", 
+    "description": "Years after rejecting Barfii, a hearing and speech impaired young man, for a more \"appropriate\" suitor, Shruti finds herself falling for him.", 
+    "actors": "Ranbir Kapoor, Priyanka Chopra, Ileana D'Cruz, Saurabh Shukla", 
+    "director": "Anurag Basu", 
+    "imdb_rating": "7.4/10", 
+    "category": "Comedies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Barking Dogs Never Bite", 
+    "description": "Driven to distraction by a dog yapping endlessly in a nearby apartment, a college lecturer takes drastic action to silence the animal.", 
+    "actors": "Bae Doona, Lee Sung-jae, Go Su-hee, Kim Ho-jung", 
+    "director": "Bong Joon Ho", 
+    "imdb_rating": "6.8/10", 
+    "category": "Comedies", 
+    "date_released": "1497398400"
+},
+{
+    "title": "Barrio Universitario", 
+    "description": "Four friends from a humble technical school compete against the elite students of a prestigious university in a robot-building contest.", 
+    "actors": "Fabrizio Copano, Rodrigo Salinas, Pedro Ruminot, Sergio Freire", 
+    "director": "Esteban Vidal", 
+    "imdb_rating": "2.5/10", 
+    "category": "Comedies", 
+    "date_released": "1534636800"
+},
+{
+    "title": "Barsaat", 
+    "description": "A na\u00efve young man and a rich city girl fall in love. Her stepfather, however, doesn't approve of the match and will stop at nothing to split the pair.", 
+    "actors": "Twinkle Khanna, Bobby Deol, Danny Denzongpa, Raj Babbar", 
+    "director": "Rajkumar Santoshi", 
+    "imdb_rating": "4.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1522540800"
+},
+{
+    "title": "BASEketball", 
+    "description": "When two slackers' made-up sport, BASEketball, becomes a national craze, they hope to cash in on the basketball/baseball hybrid's popularity.", 
+    "actors": "Trey Parker, Matt Stone, Dian Bachar, Yasmine Bleeth", 
+    "director": "David Zucker", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Basic Sanitation: The Movie", 
+    "description": "When they discover their town lacks funding for a sewage system, Brazilian villagers decide to make a short sci-fi monster movie about the problem.", 
+    "actors": "Fernanda Torres, Wagner Moura, Camila Pitanga, Bruno Garcia", 
+    "director": "Jorge Furtado", 
+    "imdb_rating": "6.9/10", 
+    "category": "Comedies", 
+    "date_released": "1473465600"
+},
+{
+    "title": "Bathinda Express", 
+    "description": "An ambitious young athlete endeavors to revive his floundering running career after falling prey to negative influences.", 
+    "actors": "Deep Joshi, Jasmine Kaur, Mohit Bhaskar, Vijay S. Kumar", 
+    "director": "Deep Joshi", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Batkid Begins: The Wish Heard Around the World", 
+    "description": "For just one day, young leukemia patient Miles Scott lives out his dream as a tiny superhero, fighting crime and battling bad guys in Gotham City.", 
+    "actors": "", 
+    "director": "Dana Nachman", 
+    "imdb_rating": "6.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1458432000"
+},
+{
+    "title": "Batman Unlimited: Animal Instincts", 
+    "description": "Batman joins forces with the Flash, Red Robin, Nightwing and Green Arrow in an epic battle against the Penguin in this animated action adventure.", 
+    "actors": "Roger Craig Smith, Chris Diamantopoulos, Will Friedle, Charlie Schlatter", 
+    "director": "Butch Lukic", 
+    "imdb_rating": "5.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Batman Unlimited: Mechs vs Mutants", 
+    "description": "After Mr. Freeze turns Bane and Killer Croc into mutants the size of skyscrapers, Batman thinks big and dons a giant battle suit made in his image.", 
+    "actors": "Roger Craig Smith, Oded Fehr, Lucien Dodge, Dana Snyder", 
+    "director": "Curt Ceda", 
+    "imdb_rating": "5.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Batman Unlimited: Monster Mayhem", 
+    "description": "On Halloween, the Joker and a band of fiendish villains unleash chaos and a diabolical computer virus. Will the forces of good be enough to stop them?", 
+    "actors": "Roger Craig Smith, Troy Baker, Khary Payton, Chris Diamantopoulos", 
+    "director": "Butch Lukic", 
+    "imdb_rating": "5.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Batteries Not Included", 
+    "description": "After their apartment building is bought by an unscrupulous developer, an older couple faces eviction until tiny robotic aliens arrive to help.", 
+    "actors": "Hume Cronyn, Jessica Tandy, Frank McRae, Elizabeth Pe\u00f1a", 
+    "director": "Matthew Robbins", 
+    "imdb_rating": "6.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1459468800"
+},
+{
+    "title": "Battle", 
+    "description": "After Amalie's dad goes bankrupt, the young dancer's affluent life collapses. But she finds a new beat to follow after meeting hip-hop dancer Mikael.", 
+    "actors": "Lisa Teige, Fabian Svegaard Tapia, Vebj\u00f8rn Enger, Charlott Madeleine Utzig", 
+    "director": "Katarina Launing", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Battle Drone", 
+    "description": "A team of mercenaries working with the CIA accepts an off-the-books mission in Chernobyl, where deadly human-controlled droids prepare an ambush.", 
+    "actors": "Louis Mandylor, Daniel Southworth, Richard Reid, Oleg Taktarov", 
+    "director": "Mitch Gould", 
+    "imdb_rating": "5.4/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Battle of Britain: The Real Story", 
+    "description": "Historian James Holland analyzes intelligence records and eyewitness accounts from both sides of the Battle of Britain.", 
+    "actors": "", 
+    "director": "Aaron Young", 
+    "imdb_rating": "", 
+    "category": "Movies", 
+    "date_released": "1535760000"
+},
+{
+    "title": "Battle Royale", 
+    "description": "The Japanese government introduces a system whereby randomly chosen schoolchildren are taken to an island and forced to fight each other to the death.", 
+    "actors": "Tatsuya Fujiwara, Aki Maeda, Taro Yamamoto, Takeshi Kitano", 
+    "director": "Kinji Fukasaku", 
+    "imdb_rating": "7.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1507593600"
+},
+{
+    "title": "Battle Royale 2", 
+    "description": "Led by Shuya Nanahara, a terrorist group determined to destroy the Japanese regime that tried to kill them launches a crushing attack on Tokyo.", 
+    "actors": "Tatsuya Fujiwara, Ai Maeda, Shugo Oshinari, Ayana Sakai", 
+    "director": "Kinji Fukasaku, Kenta Fukasaku", 
+    "imdb_rating": "4.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1507593600"
+},
+{
+    "title": "Battlefield Earth", 
+    "description": "In the year 3000, an alien race known as the Psychlos devastate planet Earth and force the surviving human population into slavery.", 
+    "actors": "John Travolta, Barry Pepper, Forest Whitaker, Kim Coates", 
+    "director": "Roger Christian", 
+    "imdb_rating": "2.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Bbuddah Hoga Terra Baap", 
+    "description": "A cooly confident aging hit man returns from exile in Paris to his old city, Mumbai, to revisit his past and perform one last job.", 
+    "actors": "Amitabh Bachchan, Hema Malini, Raveena Tandon, Sonu Sood", 
+    "director": "Puri Jagannadh", 
+    "imdb_rating": "5.1/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1494374400"
+},
+{
+    "title": "Be Afraid", 
+    "description": "After moving to a small town with his family, a man is afflicted by a mysterious sleep paralysis linked to dark beings threatening his young son.", 
+    "actors": "Brian Krause, Jaimi Paige, Louis Herthum, Jared Abrahamson", 
+    "director": "Drew Gabreski", 
+    "imdb_rating": "4.7/10", 
+    "category": "Horror Movies", 
+    "date_released": "1504137600"
+},
+{
+    "title": "Beak & Brain: Genius Birds From Down Under", 
+    "description": "Whoever came up with the term \"bird brain\" never met these feathered thinkers, who use their claws and beaks to solve puzzles, make tools and more.", 
+    "actors": "", 
+    "director": "Volker Arzt, Angelika Sigl", 
+    "imdb_rating": "8.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1488326400"
+},
+{
+    "title": "Bean: The Ultimate Disaster Movie", 
+    "description": "Disaster-prone Mr. Bean is sent to Los Angeles to guard a famous painting, but as he's unfit for any physical task, everything goes hilariously wrong.", 
+    "actors": "Rowan Atkinson, Peter MacNicol, John Mills, Pamela Reed", 
+    "director": "Mel Smith", 
+    "imdb_rating": "6.4/10", 
+    "category": "Comedies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Bears: Spy in the Woods", 
+    "description": "Attenborough's team travels the globe for up-close looks at polar bears, grizzlies, pandas and other fascinating bear species.", 
+    "actors": "David Attenborough", 
+    "director": "John Downer", 
+    "imdb_rating": "", 
+    "category": "Children & Family Movies", 
+    "date_released": "1429660800"
+},
+{
+    "title": "Beary Tales", 
+    "description": "A well-known wildlife photographer living alone in the Bohemian Forest finds himself playing mama bear to a pair of abandoned cubs.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Children & Family Movies", 
+    "date_released": "1488326400"
+},
+{
+    "title": "Beasts of No Nation", 
+    "description": "When civil war tears his family apart, a young West African boy is forced to join a unit of mercenary fighters and transform into a child soldier.", 
+    "actors": "Idris Elba, Abraham Attah, Kurt Egyiawan, Jude Akuwudike", 
+    "director": "Cary Joji Fukunaga", 
+    "imdb_rating": "7.6/10", 
+    "category": "Dramas", 
+    "date_released": "1444953600"
+},
+{
+    "title": "Beat Bugs: All Together Now", 
+    "description": "After winning a local talent show, the Beat Bugs journey to compete on \"The Bug Factor,\" a televised singing contest held in faraway Rocket Ship Park.", 
+    "actors": "Ashleigh Ball, Lili Beaudoin, Charles Demers, Rebecca Husain", 
+    "director": "Josh Wakely", 
+    "imdb_rating": "7.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1511222400"
+},
+{
+    "title": "Beauties of the Night", 
+    "description": "Back in the days of disco, Mexico had its own stars of the night. This documentary casts new light on former queens of the Mexican burlesque scene.", 
+    "actors": "Olga Breeskin, Lyn May, Rossy Mendoza, Wanda Seux", 
+    "director": "Mar\u00eda Jose Cuevas", 
+    "imdb_rating": "7.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1480032000"
+},
+{
+    "title": "Beautiful Creatures", 
+    "description": "Based on the best-selling novel, this supernatural drama focuses on the romance between Ethan and Lena, the enigmatic new girl in his Southern town.", 
+    "actors": "Alden Ehrenreich, Alice Englert, Jeremy Irons, Viola Davis", 
+    "director": "Richard LaGravenese, Richard Lagravenese", 
+    "imdb_rating": "5.7/10", 
+    "category": "Dramas", 
+    "date_released": "1503273600"
+},
+{
+    "title": "Beautiful Girls", 
+    "description": "A piano player returns to the small town he left behind as erstwhile friends, lovers and the scary thought of settling down swirl around him.", 
+    "actors": "Matt Dillon, Noah Emmerich, Annabeth Gish, Lauren Holly", 
+    "director": "Ted Demme", 
+    "imdb_rating": "6.8/10", 
+    "category": "Comedies", 
+    "date_released": "1525132800"
+},
+{
+    "title": "Beautiful Sunday", 
+    "description": "A police detective who colludes with a drug gang to pay off his wife's hospital bills gets a visit from a man who confesses to murdering his own wife.", 
+    "actors": "Park Yong-woo, Namkoong Min, Wang Ji-hye, Lee Ki-young", 
+    "director": "Jin Kwang-kyo", 
+    "imdb_rating": "5.7/10", 
+    "category": "Dramas", 
+    "date_released": "1506729600"
+},
+{
+    "title": "Beauty and the Beast (2017)", 
+    "description": "Held captive in an enchanted castle where clocks and candlesticks come to life, a brave young woman clashes with a beastly but good-hearted prince.", 
+    "actors": "Emma Watson, Dan Stevens, Luke Evans, Kevin Kline", 
+    "director": "Bill Condon", 
+    "imdb_rating": "6.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1505779200"
+},
+{
+    "title": "Becoming Zlatan", 
+    "description": "Using rare footage, this sports documentary follows iconic soccer star Zlatan Ibrahimovi\u0107 through his rocky early years and his 2005 breakthrough.", 
+    "actors": "Zlatan Ibrahimovi\u0107", 
+    "director": "Fredrik Gertten, Magnus Gertten", 
+    "imdb_rating": "6.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1483228800"
+},
+{
+    "title": "Bee Movie", 
+    "description": "Barry, a worker bee stuck in a dead-end job making honey, sues humans when he learns they've been stealing bees' nectar all along.", 
+    "actors": "Jerry Seinfeld, Ren\u00e9e Zellweger, Matthew Broderick, Patrick Warburton", 
+    "director": "Steve Hickner, Simon J. Smith", 
+    "imdb_rating": "5.8/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1483228800"
+},
+{
+    "title": "Been So Long", 
+    "description": "A single mother in London's Camden Town hears music when she meets a handsome stranger with a past. But she's not sure she's ready to open her heart.", 
+    "actors": "Michaela Coel, Arinz\u00e9 Kene, George MacKay, Ashley Thomas", 
+    "director": "Tinge Krishnan", 
+    "imdb_rating": "7.2/10", 
+    "category": "Dramas", 
+    "date_released": "1540512000"
+},
+{
+    "title": "Beethoven's Christmas Adventure", 
+    "description": "Lovable, oversized Saint Bernard Beethoven tries to save the holidays when a wayward elf crashes Santa's sleigh and loses his bag of toys to thieves.", 
+    "actors": "Kyle Massey, Munro Chambers, Robert Picardo, Kim Rhodes", 
+    "director": "John Putch", 
+    "imdb_rating": "5.7/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Before I Wake", 
+    "description": "Still mourning the death of their son, Mark and Jessie welcome foster child Cody into their lives. Soon they discover he has a strange ability.", 
+    "actors": "Kate Bosworth, Thomas Jane, Jacob Tremblay, Annabeth Gish", 
+    "director": "Mike Flanagan", 
+    "imdb_rating": "6.4/10", 
+    "category": "Horror Movies", 
+    "date_released": "1515110400"
+},
+{
+    "title": "Before We Go", 
+    "description": "When a young wife is robbed before boarding a train to Boston, she meets a free-spirited musician who stays with her on the adventure of a lifetime.", 
+    "actors": "Chris Evans, Alice Eve, Emma Fitzpatrick, John Cullum", 
+    "director": "Chris Evans", 
+    "imdb_rating": "6.5/10", 
+    "category": "Dramas", 
+    "date_released": "1456790400"
+},
+{
+    "title": "Behind The Cove: The Quiet Japanese Speak Out", 
+    "description": "After a documentary about the Japanese whaling industry garnered international attention, an amateur filmmaker decides to tell the rest of the story.", 
+    "actors": "", 
+    "director": "Keiko Yagi", 
+    "imdb_rating": "4.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1503619200"
+},
+{
+    "title": "Behind the Curtain: Todrick Hall", 
+    "description": "Follow singer and YouTube sensation Todrick Hall as he launches an original musical based on growing up gay in Texas and finding showbiz success.", 
+    "actors": "Todrick Hall", 
+    "director": "Katherine Fairfax Wright", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1522886400"
+},
+{
+    "title": "Beiimaan Love", 
+    "description": "After having her heart broken by a man who seduced her at a party, a young, ambitious woman concocts a scheme to get revenge.", 
+    "actors": "Sunny Leone, Rajneesh Duggal, Rajeev Verma, Daniel Weber", 
+    "director": "Rajeev Chaudhari", 
+    "imdb_rating": "2.8/10", 
+    "category": "Dramas", 
+    "date_released": "1509494400"
+},
+{
+    "title": "Being AP", 
+    "description": "With retirement staring him in the face, an all-time-great jump jockey pursues his 20th consecutive title in his unrelenting quest for glory.", 
+    "actors": "Tony McCoy", 
+    "director": "Anthony Wonke", 
+    "imdb_rating": "5.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1471219200"
+},
+{
+    "title": "Belgica", 
+    "description": "Two brothers become partners in a modest nightclub and turn it into the hottest spot in town, but their exhilarating run of success comes at a price.", 
+    "actors": "Stef Aerts, Tom Vermeir, Charlotte Vandermeersch, H\u00e9l\u00e8ne Devos", 
+    "director": "Felix Van Groeningen", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1460678400"
+},
+{
+    "title": "Belief: The Possession of Janet Moses", 
+    "description": "This documentary tries to reconstruct, through a series of interviews, a family's misguided attempt to heal a woman's pain through exorcism.", 
+    "actors": "Kura Forrester, William Davis, Tina Cook, Hariata Moriarty", 
+    "director": "David Stubbs", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1508025600"
+},
+{
+    "title": "Believe", 
+    "description": "After his family-run factory falters, jeopardizing his town's beloved holiday pageant, businessman Matthew faces a crisis of character and faith.", 
+    "actors": "Ryan O'Quinn, Shawnee Smith, Danielle Nicolet, Kevin Sizemore", 
+    "director": "Billy Dickson", 
+    "imdb_rating": "6.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1495756800"
+},
+{
+    "title": "Below Her Mouth", 
+    "description": "An engaged fashion editor begins a torrid affair with a female roofer that threatens to turn both of their lives upside down.", 
+    "actors": "Erika Linder, Natalie Krill, Sebastian Pigott, Mayko Nguyen", 
+    "director": "April Mullen", 
+    "imdb_rating": "6.1/10", 
+    "category": "Dramas", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Beltracchi: The Art of Forgery", 
+    "description": "Artist and master forger Wolfgang Beltracchi is profiled, with insights into his life, talent and the international art world that made him millions.", 
+    "actors": "", 
+    "director": "Arne Birkenstock", 
+    "imdb_rating": "7.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1449619200"
+},
+{
+    "title": "Benji", 
+    "description": "After lovable abandoned mutt Benji is adopted by a kind family, he chases cats, flirts with a show dog and bravely helps to rescue two abducted kids.", 
+    "actors": "Deborah Walley, Peter Breck, Edgar Buchanan, Terry Carter", 
+    "director": "Joe Camp", 
+    "imdb_rating": "6.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1520294400"
+},
+{
+    "title": "Benji", 
+    "description": "A determined dog comes to the rescue and helps heal a broken family when a young boy and his sister stumble into some serious danger.", 
+    "actors": "Gabriel Bateman, Darby Camp, Kiele Sanchez, Jerod Haynes", 
+    "director": "Brandon Camp", 
+    "imdb_rating": "6.8/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1521158400"
+},
+{
+    "title": "Benji's Very Own Christmas Story", 
+    "description": "While on a press tour, Benji goes behind the scenes of Santa's workshop. But Santa has a devastating secret, so it's up to Benji to save Christmas.", 
+    "actors": "Ron Moody, Patsy Garrett, Cynthia Smith", 
+    "director": "Joe Camp", 
+    "imdb_rating": "4.6/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1538265600"
+},
+{
+    "title": "Benji: Off the Leash", 
+    "description": "Benji is back in this charming story that's told from the pooch's point of view, tracking his early days as a pup to his current life in showbiz.", 
+    "actors": "Nick Whitaker, Chris Kendrick, Randall Newsome, Duane Stephens", 
+    "director": "Joe Camp", 
+    "imdb_rating": "4.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1520294400"
+},
+{
+    "title": "Berlin Calling", 
+    "description": "DJ Ickarus is at the top of his game, dazzling fans and touring the world -- until he gets locked in the loony bin after taking a few too many drugs.", 
+    "actors": "Paul Kalkbrenner, Rita Lengyel, Corinna Harfouch, Araba Walton", 
+    "director": "Hannes St\u00f6hr", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1484438400"
+},
+{
+    "title": "Berlin Kaplani", 
+    "description": "After a losing streak puts him in debt of 50,000 euros to his sponsors, an unlikely Turkish-German boxer in Berlin finds himself in need of a miracle.", 
+    "actors": "Ata Demirer, Necati Bilgi\u00e7, Tar\u0131k \u00dcnl\u00fco\u011flu, \u00d6zlem T\u00fcrkad", 
+    "director": "Hakan Alg\u00fcl", 
+    "imdb_rating": "5.7/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Berlin Syndrome", 
+    "description": "What starts as a passionate one-night stand quickly turns sinister when Clare learns she's locked inside Andi's apartment with no way out.", 
+    "actors": "Matthias Habich, Max Riemelt, Teresa Palmer, Lucie Aron", 
+    "director": "Cate Shortland", 
+    "imdb_rating": "6.1/10", 
+    "category": "International Movies", 
+    "date_released": "1503619200"
+},
+{
+    "title": "Berserk: The Golden Age Arc I - The Egg of the King", 
+    "description": "Loner Guts is recruited by Griffith and his band of mercenaries, but their ensuing success as a full-fledged army could lead to a horrible fate.", 
+    "actors": "Hiroaki Iwanaga, Takahiro Sakurai, Toa Yukinari, Yuki Kaji", 
+    "director": "Toshiyuki Kubooka", 
+    "imdb_rating": "7.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1476489600"
+},
+{
+    "title": "Berserk: The Golden Age Arc II - The Battle for Doldrey", 
+    "description": "For three years, Guts believed his mission was to pursue Griffith's dream together with him. But in order to become Griffith's equal and truly be called his friend, Guts realizes he will have to leave the Band of the Hawk.", 
+    "actors": "Hiroaki Iwanaga, Takahiro Sakurai, Toa Yukinari, Yuki Kaji", 
+    "director": "Toshiyuki Kubooka", 
+    "imdb_rating": "7.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1504224000"
+},
+{
+    "title": "Berserk: The Golden Age Arc III - The Advent", 
+    "description": "A year after he left the Band of the Hawk, Guts rejoins them in an epic battle to vanquish the God Hand and save Griffith from a hellish fate.", 
+    "actors": "Hiroaki Iwanaga, Takahiro Sakurai, Toa Yukinari, Yuki Kaji", 
+    "director": "Toshiyuki Kubooka", 
+    "imdb_rating": "7.5/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1504224000"
+},
+{
+    "title": "Between Us", 
+    "description": "Overwhelmed by familiarity and the pressure to marry, a woman and her bohemian boyfriend each head out to have their own unforgettable night in L.A.", 
+    "actors": "Olivia Thirlby, Ben Feldman, Adam Goldberg, Analeigh Tipton", 
+    "director": "Rafael Palacio Illingworth", 
+    "imdb_rating": "5.5/10", 
+    "category": "Dramas", 
+    "date_released": "1494892800"
+},
+{
+    "title": "Beverly Hills Chihuahua 2", 
+    "description": "Canine companions Chloe and Papi exchange wedding bow-wows, then plunge paws first into parenthood as their five pups turn their home upside down.", 
+    "actors": "Marcus Coloma, Erin Cahill, Susan Blakely, Lupe Ontiveros", 
+    "director": "Alex Zamm", 
+    "imdb_rating": "5.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1355702400"
+},
+{
+    "title": "Beverly Hills Chihuahua 3: Viva La Fiesta!", 
+    "description": "Join Papi and his two- and four-legged family as they move into a posh Beverly Hills hotel, complete with a luxurious doggy spa.", 
+    "actors": "Jake Busey, Miguel Ferrer, Ernie Hudson, Lacey Chabert", 
+    "director": "Lev L. Spiro", 
+    "imdb_rating": "5.4/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1364774400"
+},
+{
+    "title": "Bewafaa", 
+    "description": "A young woman faces pressure to marry her brother-in-law, after her sister dies while giving birth. But she's secretly in love with someone else.", 
+    "actors": "Anil Kapoor, Akshay Kumar, Kareena Kapoor, Sushmita Sen", 
+    "director": "Dharmesh Darshan", 
+    "imdb_rating": "3.6/10", 
+    "category": "Dramas", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Beynelmilel", 
+    "description": "When a local musician and his band are forced to perform in honor of a right-wing coup, his daughter schemes to make their music subversive instead.", 
+    "actors": "Cezmi Bask\u0131n, \u00d6zg\u00fc Namal, Umut Kurt, Nazmi K\u0131r\u0131k", 
+    "director": "Muharrem G\u00fclmez, S\u0131rr\u0131 S\u00fcreyya \u00d6nder", 
+    "imdb_rating": "6.2/10", 
+    "category": "Comedies", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Beyond All Boundaries", 
+    "description": "As the 2011 Cricket World Cup begins, three Indians demonstrate their passion and the sacrifices they've made for the country's most popular sport.", 
+    "actors": "Kunal Nayyar", 
+    "director": "Sushrut Jain", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Beyond Bollywood", 
+    "description": "From artists to extras and character actors, discover some of the rarely spotlighted players who keep the sprawling world of Bollywood films moving.", 
+    "actors": "", 
+    "director": "Adam Dow, Ruchika Muchhala", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1480550400"
+},
+{
+    "title": "Beyond the Clouds", 
+    "description": "A youthful drug dealer in Mumbai must change his ways when the sister who raised him is assaulted by her boss and imprisoned for defending herself.", 
+    "actors": "Ishaan Khattar, Malavika Mohanan, Goutam Ghose, Sharada", 
+    "director": "Majid Majidi", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1533859200"
+},
+{
+    "title": "Beyond the Gates", 
+    "description": "Two brothers closing up a video store owned by their missing father find a mysterious role-playing game that turns into a desperate bid for survival.", 
+    "actors": "Graham Skipper, Chase Williamson, Brea Grant, Barbara Crampton", 
+    "director": "Jackson Stewart", 
+    "imdb_rating": "5.1/10", 
+    "category": "Horror Movies", 
+    "date_released": "1494201600"
+},
+{
+    "title": "Bharya Athra Pora", 
+    "description": "Tempted by the younger generation's lifestyle, a father ditches family life for beaches and booze, only to discover it comes with a downside.", 
+    "actors": "Jayaram, Gopika, Aju Varghese, Balachandran Chullikadu", 
+    "director": "Aku Akbar", 
+    "imdb_rating": "3.0/10", 
+    "category": "Dramas", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Bhavesh Joshi Superhero", 
+    "description": "When his best friend is killed for uncovering political corruption, an idealistic young man decides to become a masked fighter for justice.", 
+    "actors": "Harshvardhan Kapoor, Priyanshu Painyuli, Ashish Verma, Shreiya Sabharwal", 
+    "director": "Vikramaditya Motwane", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1534377600"
+},
+{
+    "title": "Bhool Bhulaiyaa", 
+    "description": "Siddharth dismisses warnings that his palace might be haunted, until ghostly occurrences force him to reconsider his beliefs.", 
+    "actors": "Akshay Kumar, Vidya Balan, Ameesha Patel, Shiney Ahuja", 
+    "director": "Priyadarshan", 
+    "imdb_rating": "6.5/10", 
+    "category": "Dramas", 
+    "date_released": "1501804800"
+},
+{
+    "title": "Bhoopadathil Illatha Oridam", 
+    "description": "An unsolved theft at a moneylender's shop changes everything for a popular schoolmaster at a remote village.", 
+    "actors": "Sreenivasan, Nivin Pauly, Nedumudi Venu, Iniya", 
+    "director": "Joe Chalissery", 
+    "imdb_rating": "4.0/10", 
+    "category": "Comedies", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Bhoothnath", 
+    "description": "Ghost Bhoothnath protects the house he haunts with fierce dedication, trying to keep interlopers out. But when a family with a young boy moves in, a strong bond develops between the ghost and the youngster, Banku.", 
+    "actors": "Amitabh Bachchan, Juhi Chawla, Satish Shah, Shah Rukh Khan", 
+    "director": "Vivek Sharma", 
+    "imdb_rating": "6.2/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1490832000"
+},
+{
+    "title": "Bhouri", 
+    "description": "A 23-year-old girl who's married to a man more than twice her age is forced to contend with the predatory nature of a male-dominated society.", 
+    "actors": "Raghuvir Yadav, Masha Paur, Mohan Joshi, Manoj Joshi", 
+    "director": "Jasbir Bijendra Bhati", 
+    "imdb_rating": "7.3/10", 
+    "category": "Dramas", 
+    "date_released": "1512086400"
+},
+{
+    "title": "Bianca come il latte, rossa come il sangue", 
+    "description": "An angst-ridden teen who can't seem to find joy in anything faces a new outlook on life when he meets a pretty girl with a serious illness.", 
+    "actors": "Filippo Scicchitano, Aurora Ruffino, Gaia Weiss, Romolo Guerreri", 
+    "director": "Giacomo Campiotti", 
+    "imdb_rating": "6.3/10", 
+    "category": "Comedies", 
+    "date_released": "1513296000"
+},
+{
+    "title": "Bibi & Tina", 
+    "description": "Teen witch Bibi and horse-loving Tina face trouble when a posh girl flirts with Tina's boyfriend and a crook sets his greedy eyes on a promising foal.", 
+    "actors": "Lina Larissa Strahl, Lisa-Marie Koroll, Louis Held, Ruby O. Fee", 
+    "director": "Detlev Buck", 
+    "imdb_rating": "6.6/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1492214400"
+},
+{
+    "title": "Bibi & Tina II", 
+    "description": "When robbers hit Falkenstein castle, teen witch Bibi and pal Tina hunt for the crooks, then devise a plan to save the neighbors' failing ranch.", 
+    "actors": "Lina Larissa Strahl, Lisa-Marie Koroll, Louis Held, Emilio Moutaoukkil", 
+    "director": "Detlev Buck", 
+    "imdb_rating": "6.6/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1492214400"
+},
+{
+    "title": "Bibi & Tina: Girls Versus Boys", 
+    "description": "At summer camp, young Bibi and her friends are pitted against the boys in a treasure hunt. But what's a witch to do when she loses her powers?", 
+    "actors": "Lina Larissa Strahl, Lisa-Marie Koroll, Tilman P\u00f6rzgen, Philipp Laude", 
+    "director": "Detlev Buck", 
+    "imdb_rating": "5.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1492214400"
+},
+{
+    "title": "Bibi & Tina: Tohuwabohu Total", 
+    "description": "Teen witch Bibi and her pal Tina return to the screen to reconcile a runaway girl with her narrow-minded family and save Falkenstein Castle from chaos.", 
+    "actors": "Lina Larissa Strahl, Lisa-Marie Koroll, Louis Held, Lea van Acken", 
+    "director": "Detlev Buck", 
+    "imdb_rating": "5.6/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1514332800"
+},
+{
+    "title": "Big Bang", 
+    "description": "An otherwise model citizen's petty crime quickly escalates into felony when he runs away from the police station, dragging a career criminal with him.", 
+    "actors": "Kam Woo-seong, Kim Soo-ro, Kang Seong-jin, Moon Jung-hee", 
+    "director": "Park Jeong-woo", 
+    "imdb_rating": "7.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1506729600"
+},
+{
+    "title": "Big Brother", 
+    "description": "After a big-shot politician's son throws acid on his sister's face, a mild-mannered man decides to take action and seek justice.", 
+    "actors": "Sunny Deol, Priyanka Chopra, Danny Denzongpa, Farida Jalal", 
+    "director": "Guddu Dhanoa", 
+    "imdb_rating": "3.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1498867200"
+},
+{
+    "title": "Big Miracle", 
+    "description": "After a reporter writes about whales trapped in the Arctic Circle, the U.S. and U.S.S.R. team up to rescue them in this tale inspired by true events.", 
+    "actors": "Drew Barrymore, John Krasinski, Kristen Bell, Dermot Mulroney", 
+    "director": "Ken Kwapis", 
+    "imdb_rating": "6.6/10", 
+    "category": "Dramas", 
+    "date_released": "1538265600"
+},
+{
+    "title": "Bigger Fatter Liar", 
+    "description": "When his video game concept is stolen by a dishonest executive, a teenage chronic liar sets out to prove that he's telling the truth, for once.", 
+    "actors": "Ricky Garcia, Jodelle Ferland, Barry Bostwick, Fiona Vroom", 
+    "director": "Ron Oliver", 
+    "imdb_rating": "4.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1492473600"
+},
+{
+    "title": "Billa", 
+    "description": "After the secret death of an international criminal, a police officer sends a look-alike to infiltrate his gang, but the plan takes unexpected turns.", 
+    "actors": "Ajith Kumar, Prabhu, Namitha, Nayanthara", 
+    "director": "Vishnuvardhan", 
+    "imdb_rating": "6.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Billu", 
+    "description": "In an Indian village, a struggling barber sees his luck begin to turn when residents learn that a famous actor he once knew is coming to town.", 
+    "actors": "Irrfan Khan, Shah Rukh Khan, Lara Dutta, Rajpal Yadav", 
+    "director": "Priyadarshan", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Billy Madison", 
+    "description": "Billy Madison stands to inherit a fortune when his father retires. But before that happens, Billy has to go back to school -- all the way back.", 
+    "actors": "Adam Sandler, Darren McGavin, Bridgette Wilson-Sampras, Bradley Whitford", 
+    "director": "Tamra Davis", 
+    "imdb_rating": "6.1/10", 
+    "category": "Comedies", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Bilu Rakkhosh", 
+    "description": "Torn between his demanding corporate career, his passion for music and his turbulent family life, a man struggles to keep his inner demons in check.", 
+    "actors": "Joy Sengupta, Koneenica Banerjee, Kanchana Moitra, Pradip Mukherjee", 
+    "director": "Indrasis Acharya", 
+    "imdb_rating": "8.0/10", 
+    "category": "Dramas", 
+    "date_released": "1521072000"
+},
+{
+    "title": "Bioscope", 
+    "description": "Inspired by classic and contemporary literature, four renowned Marathi directors create four individual stories in this anthology of short films.", 
+    "actors": "Nina Kulkarni, Suhas Palshikar, Kushal Badrike, Spruha Joshi", 
+    "director": "Gajendra Ahire, Viju Mane", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1534291200"
+},
+{
+    "title": "Bir Baba Hindu", 
+    "description": "A Istanbul mobster falls for an Indian yoga instructor whose abduction takes him on a wild rescue mission to Mumbai.", 
+    "actors": "Sermiyan Midyat, \u015eafak Sezer, Nicole Faria, Burak Sat\u0131bol", 
+    "director": "Sermiyan Midyat", 
+    "imdb_rating": "2.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1522800000"
+},
+{
+    "title": "Birdshot", 
+    "description": "A sheltered farm girl inadvertently shoots an endangered Philippine eagle, setting off a police investigation that exposes violence and corruption.", 
+    "actors": "John Arcilla, Arnold Reyes, Mary Joy Apostol, Ku Aquino", 
+    "director": "Mikhail Red", 
+    "imdb_rating": "6.8/10", 
+    "category": "Dramas", 
+    "date_released": "1522022400"
+},
+{
+    "title": "Birthmarked", 
+    "description": "In an attempt to settle the \"nature vs. nurture\" debate, a scientist couple raises three children to live lives that defy their genetic dispositions.", 
+    "actors": "Toni Collette, Matthew Goode, Andreas Apergis, Michael Smiley", 
+    "director": "Emanuel Hoss-Desmarais", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1530144000"
+},
+{
+    "title": "Bitch", 
+    "description": "Cracking under the demands of children and a philandering, thankless husband, an overworked suburban mother assumes the persona of a ferocious dog.", 
+    "actors": "Jason Ritter, Jaime King, Marianna Palka, Brighton Sharbino", 
+    "director": "Marianna Palka", 
+    "imdb_rating": "5.5/10", 
+    "category": "Comedies", 
+    "date_released": "1520726400"
+},
+{
+    "title": "Bitcoin Heist", 
+    "description": "A unconventional, efficient Interpol special agent goes rogue and assembles a team of thieves to catch a shadowy hacker called \"The Ghost.\"", 
+    "actors": "Kate Nhung, Thanh Pham, Petey Majik Nguyen, Suboi", 
+    "director": "Ham Tran", 
+    "imdb_rating": "7.5/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1504310400"
+},
+{
+    "title": "Bittoo Boss", 
+    "description": "When a small-town wedding videographer falls in love, he decides he needs to make more money and turns to shooting sexy videos -- with mixed results.", 
+    "actors": "Pulkit Samrat, Ashok Pathak, Tanvir Singh, Amita Pathak", 
+    "director": "Supavitra Babul", 
+    "imdb_rating": "4.0/10", 
+    "category": "Comedies", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Black Dynamite", 
+    "description": "Black Dynamite is the only one brave enough to take on the baddies who killed his brother in this homage to 1970s blaxploitation flicks.", 
+    "actors": "Michael Jai White, Salli Richardson-Whitfield, Arsenio Hall, Tommy Davidson", 
+    "director": "Scott Sanders", 
+    "imdb_rating": "7.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Black Man White Skin", 
+    "description": "This film chronicles the health and social problems that African albinos face and details the fight waged on their behalf by advocacy groups in Spain.", 
+    "actors": "", 
+    "director": "Jose Manuel Col\u00f3n", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Black Road", 
+    "description": "In a rustic, destitute Pacific Northwest free of government, a cybernetically enhanced drifter tries to protect a woman from her menacing ex-husband.", 
+    "actors": "Sam Daly, Simon Templeman, Leilani Sarelle, Michelle Lombardo", 
+    "director": "Gary Lundgren", 
+    "imdb_rating": "4.5/10", 
+    "category": "Independent Movies", 
+    "date_released": "1473897600"
+},
+{
+    "title": "Black Rose", 
+    "description": "When a number of Russian women are brutally murdered in Los Angeles, the police call on a Moscow detective to help track down the serial killer.", 
+    "actors": "Alexander Nevsky, Kristanna Loken, Adrian Paul, Robert Davi", 
+    "director": "Alexander Nevsky", 
+    "imdb_rating": "2.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1498953600"
+},
+{
+    "title": "Black Snow", 
+    "description": "An old tragedy and lingering animosity erupt when a man returns to Patagonia to convince his estranged brother to sell the family's isolated property.", 
+    "actors": "Ricardo Dar\u00edn, Leonardo Sbaraglia, Laia Costa, Federico Luppi", 
+    "director": "Martin Hodara", 
+    "imdb_rating": "6.2/10", 
+    "category": "Dramas", 
+    "date_released": "1497052800"
+},
+{
+    "title": "Black Souls", 
+    "description": "Though he's chosen to avoid joining his two brothers in the family crime business, oldest sibling Luciano is drawn in when his son riles a rival clan.", 
+    "actors": "Marco Leonardi, Peppino Mazzotta, Fabrizio Ferracane, Barbora Bobulova", 
+    "director": "Francesco Munzi", 
+    "imdb_rating": "6.7/10", 
+    "category": "Dramas", 
+    "date_released": "1504828800"
+},
+{
+    "title": "Blade", 
+    "description": "Vampire Blade and his mentor battle a vampire rebel who plans to take over the outdated vampire council and resurrect voracious blood god La Magra.", 
+    "actors": "Wesley Snipes, Stephen Dorff, Kris Kristofferson, N'Bushe Wright", 
+    "director": "Stephen Norrington", 
+    "imdb_rating": "6.5/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Blade II", 
+    "description": "The Vampire Nation asks the half-vampire bloodsucker hunter Blade for help when a nightmare plague threatens to wipe out both humans and vampires.", 
+    "actors": "Wesley Snipes, Kris Kristofferson, Ron Perlman, Leonor Varela", 
+    "director": "Guillermo del Toro", 
+    "imdb_rating": "6.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1538352000"
+},
+{
+    "title": "BLAME!", 
+    "description": "Inside a vast, self-replicating city bent on eliminating all life, mysterious loner Killy emerges to guide a remnant of humanity desperate to survive.", 
+    "actors": "Takahiro Sakurai, Kana Hanazawa, Sora Amamiya, Kazuhiro Yamaji", 
+    "director": "Hiroyuki Seshita", 
+    "imdb_rating": "6.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1495152000"
+},
+{
+    "title": "Blazing Saddles", 
+    "description": "This gleefully satirical take on Hollywood Westerns follows the tortured trail of a freed slave who's elected as the sheriff of a racist town.", 
+    "actors": "Cleavon Little, Gene Wilder, Slim Pickens, David Huddleston", 
+    "director": "Mel Brooks", 
+    "imdb_rating": "7.3/10", 
+    "category": "Classic Movies", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Bleach", 
+    "description": "When high schooler Ichigo is suddenly given reaper abilities, he really wants to give the powers back. But he'll have to reap some souls first.", 
+    "actors": "Sota Fukushi, Hana Sugisaki, Ryo Yoshizawa, Erina Mano", 
+    "director": "Shinsuke Sato", 
+    "imdb_rating": "6.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1536883200"
+},
+{
+    "title": "Bleach The Movie: Fade to Black", 
+    "description": "When his mind is fogged by a scimitar-weilding stranger, Mayuri destroys his laboratory, unleashing a cloud of reishi that lays waste to the Seiretei.", 
+    "actors": "Masakazu Morita, Fumiko Orikasa, Aya Hirano, Hiroshi Kamiya", 
+    "director": "Noriyuki Abe", 
+    "imdb_rating": "7.1/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1476489600"
+},
+{
+    "title": "Bleach the Movie: Hell Verse", 
+    "description": "When a group of vicious Sinners plots to escape from this eternal prison in Hell, they discover that Substitute Soul Reaper Ichigo is the key to their freedom. The Sinners launch an attack and in the process kidnap Ichigo's younger sister.", 
+    "actors": "Masakazu Morita, Fumiko Orikasa, Kazuya Nakai, Noriaki Sugiyama", 
+    "director": "Noriyuki Abe", 
+    "imdb_rating": "7.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1476489600"
+},
+{
+    "title": "Bleed", 
+    "description": "When a group of friends decides to hunt for ghosts at a nearby abandoned prison, their expedition takes a horrifying turn.", 
+    "actors": "Chelsey Crisp, Riley Smith, Michael Steger, Lyndon Smith", 
+    "director": "Tripp Rhame", 
+    "imdb_rating": "4.3/10", 
+    "category": "Horror Movies", 
+    "date_released": "1475193600"
+},
+{
+    "title": "Blessed Benefit", 
+    "description": "After being wrongfully convicted of fraud, an honest man finds that life in prison comes with a measure of freedom that is unavailable outside.", 
+    "actors": "Ahmad Thaher, Maher Khammash, Odai Hijazi, Nadeem Rimawi", 
+    "director": "Mahmoud al Massad", 
+    "imdb_rating": "6.3/10", 
+    "category": "Comedies", 
+    "date_released": "1507852800"
+},
+{
+    "title": "Blind Date", 
+    "description": "A passionate pianist and a soulful puzzle maker who treasures silence aren't the best neighbors, but things get interesting when they start to date.", 
+    "actors": "M\u00e9lanie Bernier, Clovis Cornillac, Lilou Fogli, Philippe Duquesne", 
+    "director": "Clovis Cornillac", 
+    "imdb_rating": "6.5/10", 
+    "category": "Comedies", 
+    "date_released": "1476489600"
+},
+{
+    "title": "Blind Detective", 
+    "description": "When a cop loses his vision, his detecting skills stay sharp. Luckily, a rookie officer recognizes his extraordinary powers of deduction.", 
+    "actors": "Andy Lau, Sammi Cheng, Gao Yuanyuan, Guo Tao", 
+    "director": "Johnnie To", 
+    "imdb_rating": "6.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Blinky Bill: The Movie", 
+    "description": "Happy koala Blinky Bill and some spunky pals travel the Outback following clues to help him find his long-lost father and finally bring him home.", 
+    "actors": "Ryan Kwanten, Rufus Sewell, Toni Collette, Robin McLeavy", 
+    "director": "Deane Taylor", 
+    "imdb_rating": "5.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1486512000"
+},
+{
+    "title": "Blockbuster", 
+    "description": "Dumped over a video he made to amuse his ailing dad, a heartsick J\u00e9r\u00e9my hatches an elaborate scheme to win back his superhero-loving girlfriend, Lola.", 
+    "actors": "Syrus Shahidi, Lionel Abelanski, Charlotte Gabris, Tom Hygreck", 
+    "director": "July Hygreck", 
+    "imdb_rating": "6.2/10", 
+    "category": "Comedies", 
+    "date_released": "1516752000"
+},
+{
+    "title": "Blood and Bone", 
+    "description": "After five years in jail, Isaiah Bone sets out to avenge a fallen friend. But meting out justice requires immersion in the underground fighting scene.", 
+    "actors": "Michael Jai White, Julian Sands, Eamonn Walker, Dante Basco", 
+    "director": "Ben Ramsey", 
+    "imdb_rating": "6.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1522195200"
+},
+{
+    "title": "Blood Money", 
+    "description": "Ambitious Kunal takes a job in the diamond business, but his life is thrown into turmoil when he's drawn into the seedy underworld of his new career.", 
+    "actors": "Manish Chaudhary, Kunal Khemu, Amrita Puri, Shekar Shukla", 
+    "director": "Vishal Mahadkar", 
+    "imdb_rating": "5.0/10", 
+    "category": "Dramas", 
+    "date_released": "1490572800"
+},
+{
+    "title": "Blue Crush", 
+    "description": "When she falls for a pro football player, a tough young woman who lives to surf risks letting love get in the way of her lifelong dreams.", 
+    "actors": "Kate Bosworth, Matthew Davis, Michelle Rodriguez, Sanoe Lake", 
+    "director": "John Stockwell", 
+    "imdb_rating": "5.7/10", 
+    "category": "Dramas", 
+    "date_released": "1533081600"
+},
+{
+    "title": "Blue Is the Warmest Color", 
+    "description": "Determined to fall in love, 15-year-old Adele is focused on boys. But it's a blue-haired girl she meets on the street who really piques her interest.", 
+    "actors": "L\u00e9a Seydoux, Ad\u00e8le Exarchopoulos, Salim Kechiouche, Aur\u00e9lien Recoing", 
+    "director": "Abdellatif Kechiche", 
+    "imdb_rating": "7.2/10", 
+    "category": "Dramas", 
+    "date_released": "1472169600"
+},
+{
+    "title": "Blue Jay", 
+    "description": "Two former high school sweethearts unexpectedly reunite in their old hometown, where they rediscover their magical bond and face a shared regret.", 
+    "actors": "Sarah Paulson, Mark Duplass, Clu Gulager", 
+    "director": "Alex Lehmann", 
+    "imdb_rating": "6.9/10", 
+    "category": "Dramas", 
+    "date_released": "1480982400"
+},
+{
+    "title": "Blue Mountain State: The Rise of Thadland", 
+    "description": "New NFL star Thad buys his old teammates' beloved frat house, renames it Thadland and throws the raunchiest, most debauched party in school history.", 
+    "actors": "Alan Ritchson, Darin Brooks, James Cade, Rob Ramsay", 
+    "director": "Lev L. Spiro", 
+    "imdb_rating": "5.8/10", 
+    "category": "Comedies", 
+    "date_released": "1456790400"
+},
+{
+    "title": "Blue Valentine", 
+    "description": "As Cindy and Dean muddle through their languishing marriage, they hearken back to the golden days when life was filled with possibility and romance.", 
+    "actors": "Ryan Gosling, Michelle Williams, Faith Wladyka, John Doman", 
+    "director": "Derek Cianfrance", 
+    "imdb_rating": "6.9/10", 
+    "category": "Dramas", 
+    "date_released": "1530748800"
+},
+{
+    "title": "Bluebeard", 
+    "description": "After hearing what seems to be a murder confession from an elderly man under sedation, a doctor gets swept up in an unresolved serial murder case.", 
+    "actors": "Cho Jin-woong, Shin Goo, Kim Dae-myung, Song Young-chang", 
+    "director": "Lee Su-yeon", 
+    "imdb_rating": "7.0/10", 
+    "category": "International Movies", 
+    "date_released": "1510704000"
+},
+{
+    "title": "Bob's Broken Sleigh", 
+    "description": "An overly eager elf improves Santa's sleigh, but when he crash lands far from home, three odd critters pitch in to send him back to the North Pole.", 
+    "actors": "Cole Howard, Bruce Greenwood, Victor Garber, Michael Adamthwaite", 
+    "director": "Jay Surridge", 
+    "imdb_rating": "4.7/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1450310400"
+},
+{
+    "title": "Bobby Robson: More Than a Manager", 
+    "description": "Explore the life and times of legendary soccer manager Bobby Robson, whose keen mind for the game was matched only by his devotion to his teams.", 
+    "actors": "Bobby Robson", 
+    "director": "Gabriel Clarke, Torquil Jones", 
+    "imdb_rating": "5.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Bodyguard", 
+    "description": "Irritated by her bodyguard, wealthy Divya invents a phony secret admirer to distract him with calls. But her father thinks the bodyguard is her lover.", 
+    "actors": "Salman Khan, Kareena Kapoor, Raj Babbar, Asrani", 
+    "director": "Siddique", 
+    "imdb_rating": "5.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1462060800"
+},
+{
+    "title": "Bodyguards: Secret Lives from the Watchtower", 
+    "description": "The world of personal bodyguards who provide security for celebrities and politicians is explored in this documentary narrated by actor Kim Coates.", 
+    "actors": "", 
+    "director": "Jaren Hayman", 
+    "imdb_rating": "5.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1493683200"
+},
+{
+    "title": "Bogus", 
+    "description": "When his mom dies in an accident, 7-year-old Albert moves in with his godmother but brings along his guardian angel, a bumbling magician named Bogus.", 
+    "actors": "Whoopi Goldberg, G\u00e9rard Depardieu, Haley Joel Osment, Andrea Martin", 
+    "director": "Norman Jewison", 
+    "imdb_rating": "5.7/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1538352000"
+},
+{
+    "title": "BoJack Horseman Christmas Special: Sabrina's Christmas Wish", 
+    "description": "It's Christmas, and BoJack wants nothing to do with it. Then Todd shows up with a giant candy cane and an old \"Horsin' Around\" Christmas episode.", 
+    "actors": "Will Arnett, Aaron Paul, Alison Brie, Adam Conover", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Movies", 
+    "date_released": "1418947200"
+},
+{
+    "title": "Bokeh", 
+    "description": "After learning they are the sole survivors of an eerie apocalypse, a young American couple on vacation in Iceland ponder their love and the future.", 
+    "actors": "Maika Monroe, Matt O'Leary, Arnar J\u00f3nsson, Gunnar Helgason", 
+    "director": "Geoffrey Orthwein, Andrew Sullivan", 
+    "imdb_rating": "5.4/10", 
+    "category": "Dramas", 
+    "date_released": "1498089600"
+},
+{
+    "title": "Bolt", 
+    "description": "This tale follows German shepherd Bolt, a canine actor who makes a cross-country trek when he's mistakenly shipped from Hollywood to New York City.", 
+    "actors": "John Travolta, Miley Cyrus, Susie Essman, Mark Walton", 
+    "director": "Byron Howard, Chris Williams", 
+    "imdb_rating": "6.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1532217600"
+},
+{
+    "title": "Bomb Scared", 
+    "description": "In this dark comedy, a dysfunctional group of wannabe Basque terrorists awaits word about a new mission while Spain makes a run at the World Cup title.", 
+    "actors": "Javier C\u00e1mara, Juli\u00e1n L\u00f3pez, Miren Ibarguren, Gorka Otxoa", 
+    "director": "Borja Cobeaga", 
+    "imdb_rating": "5.5/10", 
+    "category": "Comedies", 
+    "date_released": "1507766400"
+},
+{
+    "title": "Bombay Talkies", 
+    "description": "A gay man deals with his sexuality, a struggling actor has an epiphany, a boy becomes a dancer, and a man tries to fulfill his father's dying wish.", 
+    "actors": "Rani Mukerji, Randeep Hooda, Saqib Saleem, Nawazuddin Siddiqui", 
+    "director": "Zoya Akhtar, Dibakar Banerjee", 
+    "imdb_rating": "6.1/10", 
+    "category": "Dramas", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Bon Bini Holland", 
+    "description": "On the island of Cura\u00e7ao, an amiable scam artist angers gangsters and flees to Holland, where his conscience is torn between a woman and a new scheme.", 
+    "actors": "Jandino Asporaat, Liliana de Vries, Teun Kuilboer, Sergio IJssel", 
+    "director": "Jelle de Jonge", 
+    "imdb_rating": "5.6/10", 
+    "category": "Comedies", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Bon Cop Bad Cop 2", 
+    "description": "Two veteran buddy cops are back for a second chapter, this time to tackle a car theft ring that turns out to be much more than they bargained for.", 
+    "actors": "Patrick Huard, Colm Feore, Marc Beaupr\u00e9, Noam Jenkins", 
+    "director": "Alain Desrochers", 
+    "imdb_rating": "6.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1510358400"
+},
+{
+    "title": "Boom", 
+    "description": "Following a fashion show mishap, three supermodels find themselves on the run from dangerous gangsters trying to recover a fortune in stolen diamonds.", 
+    "actors": "Amitabh Bachchan, Gulshan Grover, Jackie Shroff, Javed Jaffrey", 
+    "director": "Kaizad Gustad", 
+    "imdb_rating": "2.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Boone: The Bounty Hunter", 
+    "description": "Facing cancellation, reality-show bounty hunter Boone and his pumped-up crew take on a dangerous drug cartel in a desperate bid for ratings gold.", 
+    "actors": "John Hennigan, Osric Chau, Spencer Grammer, Jonathan Lipnicki", 
+    "director": "Robert Kirbyson", 
+    "imdb_rating": "5.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1521072000"
+},
+{
+    "title": "Boonie Bears: The Big Top Secret", 
+    "description": "Frustrated with his pals, Briar joins a traveling circus, where new friends and fame keep the homesickness away... for a while.", 
+    "actors": "Siobhan Lumsden, Joseph S. Lambert, Gene E. Hobbs 3, Paul Maxx Rinehart", 
+    "director": "Leon Ding", 
+    "imdb_rating": "6.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1519171200"
+},
+{
+    "title": "Boris Becker: Der Spieler", 
+    "description": "Tennis wunderkind Boris Becker made headlines by winning Wimbledon at 17. As he turns 50, footage of a year in his life reveals what's happened since.", 
+    "actors": "Boris Becker", 
+    "director": "Hanns-Bruno Kammert\u00f6ns, Michael Wech", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1512000000"
+},
+{
+    "title": "Born in China", 
+    "description": "Experience life through the eyes of a giant panda and her young cub, a golden monkey, and a mother snow leopard as they traverse the wilds of China.", 
+    "actors": "John Krasinski", 
+    "director": "Lu Chuan", 
+    "imdb_rating": "7.3/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1512518400"
+},
+{
+    "title": "Born Strong", 
+    "description": "Four 400-pound giants fight for the crown at the Arnold Strongman Classic and offer a glimpse into their lives leading up to the competition.", 
+    "actors": "Eddie Hall, Haf\u00fe\u00f3r J\u00fal\u00edus Bj\u00f6rnsson, Brian Shaw, Zydrunas Savickas", 
+    "director": "Gary Cohen, Ross Hockrow", 
+    "imdb_rating": "7.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1514678400"
+},
+{
+    "title": "Born to Be Free", 
+    "description": "Casting a light on the mistreatment of sea mammals, this documentary follows the plight of 18 Beluga whales kept in captivity for years.", 
+    "actors": "", 
+    "director": "Gayane Petrosyan", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Boss", 
+    "description": "Disowned by his father as a boy, Surya is taken in by a crime boss. When his brother Shiv is wrongly imprisoned, his father pleads for Surya's help.", 
+    "actors": "Akshay Kumar, Ronit Roy, Shiv Pandit, Mithun Chakraborty", 
+    "director": "Anthony D'Souza", 
+    "imdb_rating": "5.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Bottom of the World", 
+    "description": "En route to a fresh start in Los Angeles, young couple Alex and Scarlett stop over in a sleepy Southwestern town that loosens their grip on reality.", 
+    "actors": "Jena Malone, Douglas Smith, Ted Levine, Tamara Duarte", 
+    "director": "Richard Sears", 
+    "imdb_rating": "5.5/10", 
+    "category": "Dramas", 
+    "date_released": "1490918400"
+},
+{
+    "title": "Bowie: The Man Who Changed the World", 
+    "description": "Experience an inside look at David Bowie's incredible influence on music, art and culture via interviews with some of the people who knew him best.", 
+    "actors": "David Bowie, Laurence Myers, Mick Rock, Dana Gillespie", 
+    "director": "Sonia Anderson", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1494806400"
+},
+{
+    "title": "Boy and the World", 
+    "description": "Young Cuca leaves his idyllic village on a grand adventure to find his father, who has traveled to the city seeking work.", 
+    "actors": "Vin\u00edcius Garcia, Felipe Zilse, Al\u00ea Abreu, Lu Horta", 
+    "director": "Al\u00ea Abreu", 
+    "imdb_rating": "7.2/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Boy Bye", 
+    "description": "Single entrepreneur Veronica finally starts to believe in love after meeting sexy Lance, but she soon discovers he's hiding something from her.", 
+    "actors": "Wendy Raquel Robinson, Ross Fleming, Shondrella Avery, Tammy Townsend", 
+    "director": "Chris Stokes", 
+    "imdb_rating": "4.8/10", 
+    "category": "Comedies", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Boy Missing", 
+    "description": "When her son is kidnapped and later found traumatized, a lawyer takes justice into her own hands, causing events that spiral out of control.", 
+    "actors": "Blanca Portillo, Antonio Dechent, Vicente Romero, Marc Dom\u00e8nech", 
+    "director": "Mar Targarona", 
+    "imdb_rating": "6.2/10", 
+    "category": "International Movies", 
+    "date_released": "1487462400"
+},
+{
+    "title": "Boyhood", 
+    "description": "After divorcing, a mother and father continue to share the task of guiding their young son through youth and adolescence, and finally to adulthood.", 
+    "actors": "Patricia Arquette, Ethan Hawke, Ellar Coltrane, Lorelei Linklater", 
+    "director": "Richard Linklater", 
+    "imdb_rating": "7.5/10", 
+    "category": "Dramas", 
+    "date_released": "1480032000"
+},
+{
+    "title": "Boys in the Trees", 
+    "description": "Dark forces and nightmares are unleashed when two teenage friends, estranged by one's popularity, reunite for a Halloween walk through the forest.", 
+    "actors": "Toby Wallace, Gulliver McGrath, Mitzi Ruhlmann, Justin Holborow", 
+    "director": "Nicholas Verso", 
+    "imdb_rating": "6.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Boys on the Side", 
+    "description": "Looking to jump-start her career, a lesbian nightclub singer accompanies a woman with AIDS on a cross-country drive from New York to Los Angeles.", 
+    "actors": "Whoopi Goldberg, Mary-Louise Parker, Drew Barrymore, Matthew McConaughey", 
+    "director": "Herbert Ross", 
+    "imdb_rating": "6.4/10", 
+    "category": "Dramas", 
+    "date_released": "1522540800"
+},
+{
+    "title": "Brahman Naman", 
+    "description": "This homage to 1980s teen sex comedies follows a college quiz bowl champion who knows almost everything -- except how to talk to women.", 
+    "actors": "Shashank Arora, Tanmay Dhanania, Chaitanya Varad, Vaishwath Shankar", 
+    "director": "Qaushiq Mukherjee", 
+    "imdb_rating": "5.4/10", 
+    "category": "Comedies", 
+    "date_released": "1467763200"
+},
+{
+    "title": "Brain on Fire", 
+    "description": "Stricken with seizures, psychosis and memory loss, a young New York Post reporter visits doctor after doctor in search of an elusive diagnosis.", 
+    "actors": "Chlo\u00eb Grace Moretz, Thomas Mann, Richard Armitage, Jenny Slate", 
+    "director": "Gerard Barrett", 
+    "imdb_rating": "7.2/10", 
+    "category": "Dramas", 
+    "date_released": "1529625600"
+},
+{
+    "title": "Bram Stoker's Dracula", 
+    "description": "When Dracula heads to London in search of a woman who looks like his long-dead wife, vampire hunter Dr. Van Helsing sets out to end the madness.", 
+    "actors": "Gary Oldman, Winona Ryder, Anthony Hopkins, Keanu Reeves", 
+    "director": "Francis Ford Coppola", 
+    "imdb_rating": "7.3/10", 
+    "category": "Classic Movies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Brave New Jersey", 
+    "description": "Small-town residents mistake an Orson Welles radio broadcast for news about an alien invasion and are emboldened to act as they await an apocalypse.", 
+    "actors": "Tony Hale, Anna Camp, Sam Jaeger, Heather Burns", 
+    "director": "Jody Lambert", 
+    "imdb_rating": "4.8/10", 
+    "category": "Comedies", 
+    "date_released": "1513296000"
+},
+{
+    "title": "Break Up 100", 
+    "description": "After their 99th breakup, a career woman and her carefree partner open a cafe where customers can put up souvenirs of past relationships.", 
+    "actors": "Ekin Cheng, Chrissie Chow, Ivana Wong, Jase Ho", 
+    "director": "Lawrence Cheng", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Breaking Free", 
+    "description": "One filmmaker\u2019s quest to expose the human rights violations faced by India\u2019s LGBTQ community was a project of passion seven years in the making.", 
+    "actors": "Sridhar Rangayan", 
+    "director": "Sridhar Rangayan", 
+    "imdb_rating": "5.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1513296000"
+},
+{
+    "title": "Breaking the Cycle", 
+    "description": "The warden of Halden, Norway's most humane prison, tours the U.S. prison system to urge a new approach emphasizing rehabilitation.", 
+    "actors": "", 
+    "director": "Tomas Lindh, John Stark", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1512086400"
+},
+{
+    "title": "Breaking Up", 
+    "description": "This series of charming vignettes reveals the on-again, off-again relationship between two modern lovers who fluctuate between euphoria and ennui.", 
+    "actors": "Russell Crowe, Salma Hayek, Abraham Alvarez", 
+    "director": "Robert Greenwald", 
+    "imdb_rating": "3.4/10", 
+    "category": "Dramas", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Breath", 
+    "description": "In mid-1970s Australia, two small-town teenage boys befriend an enigmatic middle-aged surfer, who urges them to see the thrill in facing their fears.", 
+    "actors": "Samson Coulter, Ben Spence, Simon Baker, Elizabeth Debicki", 
+    "director": "Simon Baker", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1543968000"
+},
+{
+    "title": "Breathe", 
+    "description": "A teenager finds an escape from her unhappy home life when she meets a charismatic new student, but their friendship grows increasingly toxic.", 
+    "actors": "Jos\u00e9phine Japy, Lou de La\u00e2ge, Isabelle Carr\u00e9, Claire Keim", 
+    "director": "M\u00e9lanie Laurent, Julien Lambroschini", 
+    "imdb_rating": "7.1/10", 
+    "category": "Dramas", 
+    "date_released": "1459468800"
+},
+{
+    "title": "Brick", 
+    "description": "Teenage loner Brendan Fry navigates his high school's intense social network to discover a killer's identity after his secret crush is murdered.", 
+    "actors": "Joseph Gordon-Levitt, Nora Zehetner, Lukas Haas, Noah Fleiss", 
+    "director": "Rian Johnson", 
+    "imdb_rating": "6.8/10", 
+    "category": "Independent Movies", 
+    "date_released": "1535760000"
+},
+{
+    "title": "Bride of Chucky", 
+    "description": "The soul of killer Charles Lee Ray still inhabits Chucky. When his old flame finds him, he turns her into a doll, and they set out on a killing spree.", 
+    "actors": "Jennifer Tilly, Brad Dourif, Katherine Heigl, Nick Stabile", 
+    "director": "Ronny Yu", 
+    "imdb_rating": "5.6/10", 
+    "category": "Cult Movies", 
+    "date_released": "1543622400"
+},
+{
+    "title": "Bridge to Terabithia", 
+    "description": "New classmate Leslie unlocks a mesmerizing world of fantasy and imagination for fifth-grader Jesse in this adventure based on the best-selling novel.", 
+    "actors": "Josh Hutcherson, AnnaSophia Robb, Zooey Deschanel, Robert Patrick", 
+    "director": "Gabor Csupo", 
+    "imdb_rating": "7.1/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1526688000"
+},
+{
+    "title": "Bright Night", 
+    "description": "A weekend in an idyllic country cottage becomes an exercise in psychological stress for two couples, thanks to shocking revelations about the past.", 
+    "actors": "Anna Grisebach, Benno F\u00fcrmann, Vladimir Burlakov, Kai Ivo Baulitz", 
+    "director": "Florian Gottschick", 
+    "imdb_rating": "5.2/10", 
+    "category": "Dramas", 
+    "date_released": "1467331200"
+},
+{
+    "title": "Bright Star", 
+    "description": "This drama details the passionate three-year romance between Romantic poet John Keats -- who died tragically at age 25 -- and his great love and muse.", 
+    "actors": "Abbie Cornish, Ben Whishaw, Paul Schneider, Kerry Fox", 
+    "director": "Jane Campion", 
+    "imdb_rating": "6.7/10", 
+    "category": "Dramas", 
+    "date_released": "1504483200"
+},
+{
+    "title": "Brij Mohan Amar Rahe", 
+    "description": "Faking his death to escape the realities of his uneventful life worked out well for Brij Mohan -- until he was sentenced to death for his own murder.", 
+    "actors": "Arjun Mathur, Nidhi Singh, Manav Vij, Sheetal Thakur", 
+    "director": "Nikhil Nagesh Bhat", 
+    "imdb_rating": "6.3/10", 
+    "category": "Comedies", 
+    "date_released": "1533254400"
+},
+{
+    "title": "Bring It On: In It to Win It", 
+    "description": "Carson sets out to guide her squad to victory and takes on a competitive rival in a one-on-one battle, as they both fight for one guy's affection.", 
+    "actors": "Ashley Benson, Michael Copon, Cassandra Scerbo, Anniese Taylor Dendy", 
+    "director": "Steve Rash", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1541030400"
+},
+{
+    "title": "Broken Sword Hero", 
+    "description": "After losing a boxing match, a talented Muay Thai fighter leaves home to train with the best. On his quest, he finds friends, foes and lots of action.", 
+    "actors": "Buakaw Banchamek, Sornsin Maneewan, Phutharit Prombandal, Nantawut Boonrubsub", 
+    "director": "Bin Bunluerit", 
+    "imdb_rating": "6.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1515974400"
+},
+{
+    "title": "Brooklyn's Finest", 
+    "description": "Three cops find themselves hurtling toward the same crime scene on one fatal night in this tense, edge-of your-seat thriller.", 
+    "actors": "Richard Gere, Don Cheadle, Ethan Hawke, Wesley Snipes", 
+    "director": "Antoine Fuqua", 
+    "imdb_rating": "6.4/10", 
+    "category": "Dramas", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Brother Bear 2", 
+    "description": "After awakening from a long hibernation, Kenai and his bear buddy Koda set off on a life-changing mission to help their human friend Nita get married.", 
+    "actors": "Patrick Dempsey, Mandy Moore, Jeremy Suarez, Rick Moranis", 
+    "director": "Ben Gluck", 
+    "imdb_rating": "6.5/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1370822400"
+},
+{
+    "title": "Brother's Keeper", 
+    "description": "This documentary explores the odd world of the elderly Ward brothers, illiterate farmers who have lived their entire lives in a dilapidated shack.", 
+    "actors": "Delbert Ward, Roscoe Ward, Lyman Ward", 
+    "director": "Joe Berlinger, Bruce Sinofsky", 
+    "imdb_rating": "7.3/10", 
+    "category": "Classic Movies", 
+    "date_released": "1512086400"
+},
+{
+    "title": "Brother's Shadow", 
+    "description": "After serving time in jail, a disgraced son returns to the family business in New York, where he struggles to fill the shoes of his late twin brother.", 
+    "actors": "Scott Cohen, Judd Hirsch, Susan Floyd, Elliot Korte", 
+    "director": "Todd S. Yellin", 
+    "imdb_rating": "7.0/10", 
+    "category": "Dramas", 
+    "date_released": "1409529600"
+},
+{
+    "title": "Brotherhood of Blades II: The Infernal Battlefield", 
+    "description": "While tracking down a seditious painter, an imperial guard is accused of a royal assassination attempt and framed in a complicated conspiracy.", 
+    "actors": "Chang Chen, Yang Mi, Zhang Yi, Lei Jiayin", 
+    "director": "Lu Yang", 
+    "imdb_rating": "", 
+    "category": "Action & Adventure", 
+    "date_released": "1543363200"
+},
+{
+    "title": "Brotherly Love", 
+    "description": "A teen basketball star faces pressure to make it big, while his twin sister embarks on a risky romance and their brother is drawn into a street war.", 
+    "actors": "Keke Palmer, Quincy Brown, Cory Hardrict, Eric D. Hill Jr.", 
+    "director": "Jamal Hill", 
+    "imdb_rating": "6.6/10", 
+    "category": "Dramas", 
+    "date_released": "1454803200"
+},
+{
+    "title": "Bruce Almighty", 
+    "description": "When TV reporter Bruce Nolan angrily ridicules God, the Almighty responds by giving Bruce all His divine powers. But can Bruce improve on perfection?", 
+    "actors": "Jim Carrey, Jennifer Aniston, Morgan Freeman, Philip Baker Hall", 
+    "director": "Tom Shadyac", 
+    "imdb_rating": "6.6/10", 
+    "category": "Comedies", 
+    "date_released": "1535760000"
+},
+{
+    "title": "Bruno and Boots: Go Jump in the Pool", 
+    "description": "To keep pal Boots from being sent to a rival school with better athletics, prankster Bruno leads an epic campaign to build a pool at Macdonald Hall.", 
+    "actors": "Jonny Gray, Callan Potter, Peter Keleghan, Hannah Vandenbygaart", 
+    "director": "Vivieno Caldinelli", 
+    "imdb_rating": "6.1/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1498262400"
+},
+{
+    "title": "Bruno and Boots: The Wizzle War", 
+    "description": "Fed up with weird dress codes and wacky punishments, the students of neighboring schools face off against two recently hired oddball authoritarians.", 
+    "actors": "Jonny Gray, Callan Potter, Matt Baram, Caroline Rhea", 
+    "director": "Vivieno Caldinelli", 
+    "imdb_rating": "7.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1498867200"
+},
+{
+    "title": "Bruno and Boots: This Can't Be Happening at Macdonald Hall", 
+    "description": "The biggest troublemakers at Macdonald Hall are Bruno and Boots, who are caught and face an unthinkable punishment: separation into different dorms.", 
+    "actors": "Jonny Gray, Callan Potter, Peter Keleghan, Caroline Rhea", 
+    "director": "Vivieno Caldinelli", 
+    "imdb_rating": "7.0/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1498262400"
+},
+{
+    "title": "Bucket List", 
+    "description": "After getting a heart transplant, a 40-year-old homemaker in Pune makes the life-changing decision to complete the bucket list of her 20-year-old donor.", 
+    "actors": "Madhuri Dixit, Sumeet Raghvan, Renuka Shahane, Milind Pathak", 
+    "director": "Tejas Prabha Vijay Deoskar", 
+    "imdb_rating": "", 
+    "category": "Dramas", 
+    "date_released": "1541376000"
+},
+{
+    "title": "Buddy Thunderstruck: The Maybe Pile", 
+    "description": "Champion truck-racing dog Buddy and his best friend, ferret mechanic Darnell, paw through the \"maybe pile\" and test out a bunch of crazy stunts.", 
+    "actors": "Brian Atkinson, Ted Raimi, Harry Chaskin, Debi Derryberry", 
+    "director": "Harry Chaskin", 
+    "imdb_rating": "8.0/10", 
+    "category": "Movies", 
+    "date_released": "1499990400"
+},
+{
+    "title": "Budhia Singh: Born to Run", 
+    "description": "In this thought-provoking biopic, an idealistic judo trainer adopts a boy from the slums and grooms him into the world's youngest marathon runner.", 
+    "actors": "Manoj Bajpayee, Mayur Mahendra Patole, Tillotama Shome, Shruti Marathe", 
+    "director": "Soumendra Padhi", 
+    "imdb_rating": "5.8/10", 
+    "category": "Dramas", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Bugs", 
+    "description": "A willing team of chefs and researchers goes on a gastronomic adventure around the globe to weigh the benefits of using bugs as a future food source.", 
+    "actors": "", 
+    "director": "Andreas Johnsen", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1519084800"
+},
+{
+    "title": "Bullet Head", 
+    "description": "After a daring heist, three fugitives lock themselves in a warehouse hoping to evade the police, but find a worse threat as they fight to stay alive.", 
+    "actors": "Adrien Brody, John Malkovich, Antonio Banderas, Rory Culkin", 
+    "director": "Paul Solet", 
+    "imdb_rating": "4.7/10", 
+    "category": "International Movies", 
+    "date_released": "1520380800"
+},
+{
+    "title": "Bullet to the Head", 
+    "description": "A young D.C. cop and an experienced New Orleans hit man team up to track down the person responsible for slaying their respective partners.", 
+    "actors": "Sylvester Stallone, Sung Kang, Sarah Shahi, Adewale Akinnuoye-Agbaje", 
+    "director": "Walter Hill", 
+    "imdb_rating": "5.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1508112000"
+},
+{
+    "title": "Bunks", 
+    "description": "Two troublemaking brothers posing as counselors at an island summer camp accidentally trigger a curse that brings a campfire zombie story to life.", 
+    "actors": "Dylan Schmid, Aidan Shipley, Emilia McCarthy, Atticus Mitchell", 
+    "director": "Tibor Tak\u00e1cs", 
+    "imdb_rating": "4.9/10", 
+    "category": "Children & Family Movies", 
+    "date_released": "1444867200"
+},
+{
+    "title": "Burn After Reading", 
+    "description": "In this tale of poorly executed espionage, an ousted CIA official loses his memoir to moronic gym employees, who use it to try to turn a profit.", 
+    "actors": "George Clooney, Frances McDormand, Brad Pitt, John Malkovich", 
+    "director": "Joel Coen, Ethan Coen", 
+    "imdb_rating": "6.5/10", 
+    "category": "Comedies", 
+    "date_released": "1479254400"
+},
+{
+    "title": "Burn, Burn, Burn", 
+    "description": "For 20-something pals Seph and Alex, a winding road trip to spread their dead friend's ashes morphs into an emotional journey of self-discovery.", 
+    "actors": "Laura Carmichael, Chloe Pirrie, Jack Farthing, Alison Steadman", 
+    "director": "Chanya Button", 
+    "imdb_rating": "7.0/10", 
+    "category": "Comedies", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Burning Sands", 
+    "description": "Promising student Zurich opens his eyes to some hard truths when his fraternity's violent hazing escalates into a disastrous hell night.", 
+    "actors": "Trevor Jackson, Alfre Woodard, Trevante Rhodes, Steve Harris", 
+    "director": "Gerard McMurray", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1489104000"
+},
+{
+    "title": "Burnt", 
+    "description": "A chef who destroyed his career through recklessness and bad behavior comes to London to redeem himself and regain his former glory.", 
+    "actors": "Bradley Cooper, Sienna Miller, Uma Thurman, Daniel Br\u00fchl", 
+    "director": "John Wells", 
+    "imdb_rating": "6.4/10", 
+    "category": "Dramas", 
+    "date_released": "1504051200"
+},
+{
+    "title": "Bushwick", 
+    "description": "When their diverse neighborhood is besieged by a mysterious militia, a grad student and an ex-Marine become an unlikely team in a battle for survival.", 
+    "actors": "Dave Bautista, Brittany Snow, Angelic Zambrana, Jeremie Harris", 
+    "director": "Cary Murnion, Jonathan Milott", 
+    "imdb_rating": "5.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1511481600"
+},
+{
+    "title": "Buster's Mal Heart", 
+    "description": "On the run from authorities, a troubled man recalls the mysterious events -- and the strange drifter -- that inspired his unusual transformation.", 
+    "actors": "Rami Malek, DJ Qualls, Kate Lyn Sheil, Sukha Belle Potter", 
+    "director": "Sarah Adina Smith", 
+    "imdb_rating": "6.3/10", 
+    "category": "Independent Movies", 
+    "date_released": "1503705600"
+},
+{
+    "title": "Butter", 
+    "description": "When a gifted butter sculptor announces his retirement, his ambitious wife sees her hopes for future fame -- and the presidency -- melt away.", 
+    "actors": "Jennifer Garner, Ty Burrell, Olivia Wilde, Rob Corddry", 
+    "director": "Jim Field Smith", 
+    "imdb_rating": "5.8/10", 
+    "category": "Comedies", 
+    "date_released": "1499299200"
+},
+{
+    "title": "BuyBust", 
+    "description": "In a mazelike Manila slum, at war with incensed civilians and a brutal cartel, special agent Nina Manigan must fight her way through one fierce night.", 
+    "actors": "Anne Curtis, Brandon Vera, Victor Neri, Arjo Atayde", 
+    "director": "Erik Matti", 
+    "imdb_rating": "", 
+    "category": "Action & Adventure", 
+    "date_released": "1542067200"
+}
+]

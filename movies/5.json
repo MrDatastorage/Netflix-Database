@@ -1,0 +1,29 @@
+[
+{
+    "title": "5 to 7", 
+    "description": "A young novelist's life is turned upside down when a chance encounter outside a New York hotel leads to an intense affair with a diplomat's wife.", 
+    "actors": "Anton Yelchin, B\u00e9r\u00e9nice Marlohe, Olivia Thirlby, Lambert Wilson", 
+    "director": "Victor Levin", 
+    "imdb_rating": "7.1/10", 
+    "category": "Comedies", 
+    "date_released": "1489622400"
+},
+{
+    "title": "54", 
+    "description": "Lives intertwine as New York City's elite snort cocaine and disco the night away in owner Steve Rubell's chic, exclusive nightclub, 54.", 
+    "actors": "Ryan Phillippe, Salma Hayek, Neve Campbell, Mike Myers", 
+    "director": "Mark Christopher", 
+    "imdb_rating": "5.6/10", 
+    "category": "Dramas", 
+    "date_released": "1514764800"
+},
+{
+    "title": "5CM", 
+    "description": "Five friends embark on a mission to climb the highest peak in Java, overcoming obstacles on the way and discovering the true meaning of friendship.", 
+    "actors": "Herjunot Ali, Raline Shah, Fedi Nuril, Pevita Pearce", 
+    "director": "Rizal Mantovani", 
+    "imdb_rating": "7.1/10", 
+    "category": "Dramas", 
+    "date_released": "1538092800"
+}
+]
