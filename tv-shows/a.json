@@ -1,20 +1,884 @@
 [
-    {
-        "title": "'Allo 'Allo!",
-        "description": "A hapless French café owner frequently finds himself dodging bullets -- both real and imagined -- in his Axis-occupied town during World War II.",
-        "actors": "Gorden Kaye, Carmen Silvera, Vicki Michelle, Richard Marner",
-        "directors": "David Croft",
-        "imdb_rating": "7.7/10",
-        "category": "British TV Shows",
-        "date_released": "1490918400"
-    },
-    {
-        "title": "A Cook Abroad",
-        "description": "Chefs share the joys of tasting and creating sumptuous dishes from around the globe, with recipes from France, India, Argentina and more.",
-        "actors": "Rachel Khoo, John Torode, Dave Myers",
-        "directors": "Gill Tierney",
-        "imdb_rating": "7.4/10",
-        "category": "British TV Shows",
-        "date_released": "1464739200"
-    }
+{
+    "title": "A Boy Called Po", 
+    "description": "After his wife's death, an overworked engineer struggles to care for his son with autism, who regresses into a fantasy world to escape real-life bullying.", 
+    "actors": "Christopher Gorham, Julian Feder, Kaitlin Doubleday, Andrew Bowen", 
+    "director": "John Asher", 
+    "imdb_rating": "6.2/10", 
+    "category": "Dramas", 
+    "date_released": "1515974400"
+},
+{
+    "title": "A Boy Name Flora A", 
+    "description": "A 28-year-old layabout begins to re-examine his life when his dysfunctional family assembles to pay respects to a dying grandmother who won\u2019t pass on.", 
+    "actors": "Crowd Lu, Tsai Chen-nan, Lotus Wang, Fan Chu-Mei", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "International TV Shows", 
+    "date_released": "1504224000"
+},
+{
+    "title": "A Cook Abroad", 
+    "description": "Chefs share the joys of tasting and creating sumptuous dishes from around the globe, with recipes from France, India, Argentina and more.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1464739200"
+},
+{
+    "title": "A Cowgirl's Story", 
+    "description": "Hoping to refocus while her parents are deployed in Afghanistan, a tenacious teen forms a horse-riding squad with her rebellious new school friends.", 
+    "actors": "Bailee Madison, Pat Boone, Chloe Lukasiak, Aidan Alexander", 
+    "director": "Timothy Armstrong", 
+    "imdb_rating": "6.3/10", 
+    "category": "Dramas", 
+    "date_released": "1500249600"
+},
+{
+    "title": "A Futile and Stupid Gesture", 
+    "description": "In a life full of triumph and failure, \"National Lampoon\" co-founder Doug Kenney built a comedy empire, molding pop culture in the 1970s.", 
+    "actors": "Will Forte, Domhnall Gleeson, Emmy Rossum, Martin Mull", 
+    "director": "David Wain", 
+    "imdb_rating": "6.6/10", 
+    "category": "Comedies", 
+    "date_released": "1516924800"
+},
+{
+    "title": "A Good Wife", 
+    "description": "As her seemingly idyllic life begins to crumble, a lonely woman in a restrictive marriage starts an affair with a gentle bookstore owner.", 
+    "actors": "Tien Hsin, Christopher Lee, Darren Chiu, Shara Lin", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1483228800"
+},
+{
+    "title": "A Home Fireplace: Bright Edition", 
+    "description": "A crackling fire, a motley group of friends and a mischievous fairy: The classic holiday backdrop just got a little more magical.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "", 
+    "date_released": "1513814400"
+},
+{
+    "title": "A House of Blocks", 
+    "description": "Yijuan and her mentally ill sister Kaiqi struggle to be happy in the face of misfortune, criminal intrigue, marital strife, an exorcism and a ghost.", 
+    "actors": "Eli Shi, Phoebe Lin, Chen Wan-ting, Fan Chen-fei", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1504224000"
+},
+{
+    "title": "A Kind of Murder", 
+    "description": "Obsessed with an unsolved murder case, a crime novelist stuck in an unhappy marriage fantasizes about killing his wife, who soon turns up dead.", 
+    "actors": "Patrick Wilson, Jessica Biel, Vincent Kartheiser, Haley Bennett", 
+    "director": "Andy Goddard", 
+    "imdb_rating": "5.4/10", 
+    "category": "Thrillers", 
+    "date_released": "1493596800"
+},
+{
+    "title": "A Love So Beautiful", 
+    "description": "The ups and downs of school, family and growing up test the affection between a budding artist and her handsome but indifferent classmate and neighbor.", 
+    "actors": "Hu Yitian, Shen Yue, Gao Zhi Ting, Wang Zi Wei", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1524182400"
+},
+{
+    "title": "A Man Called God", 
+    "description": "Raised in America, government agent Choi Kang-Ta returns to Korea with the skills of an assassin and a thirst for revenge on his father\u2019s killers.", 
+    "actors": "Song Il-gook, Han Chae-young, Kim Min-jong, Go Eun Han", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1455148800"
+},
+{
+    "title": "A Night on Earth: Africa", 
+    "description": "Advanced cameras capture the nocturnal journey of an elephant calf and his family as they migrate across the unforgiving southern African terrain.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1522454400"
+},
+{
+    "title": "A Patch of Fog", 
+    "description": "When a guard catches a writer-television host shoplifting, instead of turning him in, he only asks to be a friend, then begins to rule his life.", 
+    "actors": "Stephen Graham, Conleth Hill, Lara Pulver, Arsher Ali", 
+    "director": "Michael Lennox", 
+    "imdb_rating": "7.4/10", 
+    "category": "Dramas", 
+    "date_released": "1492214400"
+},
+{
+    "title": "A Question of Faith", 
+    "description": "Three families cross paths after a tragic accident, and as they struggle with their loss, they soon find strength and redemption in their faith.", 
+    "actors": "Richard T. Jones, Kim Fields, C. Thomas Howell, T.C. Stallings", 
+    "director": "Kevan Otto", 
+    "imdb_rating": "7.5/10", 
+    "category": "Dramas", 
+    "date_released": "1524614400"
+},
+{
+    "title": "A Series of Unfortunate Events", 
+    "description": "The extraordinary Baudelaire orphans face trials, tribulations and the evil Count Olaf in their fateful quest to unlock long-held family secrets.", 
+    "actors": "Neil Patrick Harris, Patrick Warburton, Malina Weissman, Louis Hynes", 
+    "director": "", 
+    "imdb_rating": "7.1/10", 
+    "category": "Kids' TV", 
+    "date_released": "1484265600"
+},
+{
+    "title": "A Stoning in Fulham County", 
+    "description": "After reckless teens kill an Amish child, a prosecutor attempts to bring the youths to justice despite the condemnation he faces from the community.", 
+    "actors": "Ken Olin, Jill Eikenberry, Maureen Mueller, Gregg Henry", 
+    "director": "Larry Elikann", 
+    "imdb_rating": "6.0/10", 
+    "category": "Dramas", 
+    "date_released": "1317427200"
+},
+{
+    "title": "A User's Guide to Cheating Death", 
+    "description": "Timothy Caulfield examines how companies market wellness products, diets, genetic tests, cosmetic surgery and the like to people eager to stay young.", 
+    "actors": "Timothy Caulfield", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1538092800"
+},
+{
+    "title": "A Very Murray Christmas", 
+    "description": "Bill Murray rounds up an all-star cast for an evening of music, mischief and barroom camaraderie in this irreverent twist on holiday variety shows.", 
+    "actors": "Bill Murray, Miley Cyrus, George Clooney, Chris Rock", 
+    "director": "Sofia Coppola", 
+    "imdb_rating": "5.2/10", 
+    "category": "Comedies", 
+    "date_released": "1449187200"
+},
+{
+    "title": "A Very Secret Service", 
+    "description": "At the height of the Cold War in 1960, Andr\u00e9 Merlaux joins the French Secret Service and contends with enemies both foreign and bureaucratic.", 
+    "actors": "Hugo Becker, Wilfred Bena\u00efche, Christophe Kourotchkine, Karim Barras", 
+    "director": "", 
+    "imdb_rating": "6.7/10", 
+    "category": "International TV Shows", 
+    "date_released": "1467244800"
+},
+{
+    "title": "A Young Doctor's Notebook and Other Stories", 
+    "description": "Set during the Russian Revolution, this comic miniseries is based on a doctor's memories of his early career working in an out-of-the-way village.", 
+    "actors": "Daniel Radcliffe, Jon Hamm, Adam Godley, Christopher Godwin", 
+    "director": "", 
+    "imdb_rating": "6.9/10", 
+    "category": "British TV Shows", 
+    "date_released": "1392854400"
+},
+{
+    "title": "A.D. Kingdom and Empire", 
+    "description": "In the wake of Jesus Christ's crucifixion, his apostles dedicate themselves to spreading his message, risking their freedom and their lives.", 
+    "actors": "Juan Pablo Di Pace, Adam Levy, Chipo Chung, Babou Ceesay", 
+    "director": "", 
+    "imdb_rating": "5.5/10", 
+    "category": "TV Dramas", 
+    "date_released": "1513296000"
+},
+{
+    "title": "A.I.C.O.", 
+    "description": "Everything Aiko knew was a lie. Now she's joining a team of Divers to reach the place where the Burst began to stop it for good and save her family.", 
+    "actors": "Haruka Shiraishi, Yusuke Kobayashi, Makoto Furukawa, Taishi Murata", 
+    "director": "Kazuya Murata", 
+    "imdb_rating": "6.8/10", 
+    "category": "Anime Series", 
+    "date_released": "1520553600"
+},
+{
+    "title": "Abandoned", 
+    "description": "After a rogue winter wave capsizes their yacht, four men must find ways to survive in the wreckage while adrift in the vast southern Pacific Ocean.", 
+    "actors": "Dominic Purcell, Peter Feeney, Owen Black, Siobhan Marshall", 
+    "director": "John Laing", 
+    "imdb_rating": "5.8/10", 
+    "category": "Dramas", 
+    "date_released": "1467504000"
+},
+{
+    "title": "Absolutely Fabulous", 
+    "description": "Best friends, career women and total narcissists, neurotic Edina and party girl Patsy drink hard, play hard and focus on what's important: themselves.", 
+    "actors": "Jennifer Saunders, Joanna Lumley, Julia Sawalha, June Whitfield", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "British TV Shows", 
+    "date_released": "1490918400"
+},
+{
+    "title": "Accidentally in Love", 
+    "description": "Rejecting the demands of her wealthy family, a young woman poses as an ordinary college student and crosses paths with a stoic pop star at school.", 
+    "actors": "Junchen Guo, Yi Ning Sun, Yi Qin Zhao, Mu Xuan Cheng", 
+    "director": "", 
+    "imdb_rating": "6.3/10", 
+    "category": "International TV Shows", 
+    "date_released": "1539907200"
+},
+{
+    "title": "Adam Ruins Everything", 
+    "description": "Education can be fun -- and funny. Comedian Adam Conover bursts misconceptions, deconstructs topics and leaves with positive takeaways.", 
+    "actors": "Adam Conover, Adam Lustick, Emily Axford", 
+    "director": "", 
+    "imdb_rating": "8.1/10", 
+    "category": "TV Comedies", 
+    "date_released": "1538265600"
+},
+{
+    "title": "Adventures in Public School", 
+    "description": "After years of home-schooling, an awkward teen decides he wants a public high school experience, but his overbearing mother struggles to let go.", 
+    "actors": "Daniel Doheny, Judy Greer, Siobhan Williams, Russell Peters", 
+    "director": "Kyle Rideout", 
+    "imdb_rating": "", 
+    "category": "Comedies", 
+    "date_released": "1534291200"
+},
+{
+    "title": "Afflicted", 
+    "description": "Baffling symptoms. Controversial diagnoses. Costly treatments. Seven people with chronic illnesses search for answers -- and relief.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "4.3/10", 
+    "category": "Docuseries", 
+    "date_released": "1533859200"
+},
+{
+    "title": "Afghanistan: The Great Game", 
+    "description": "Politician and filmmaker Rory Stewart hosts this documentary look at the recent history of Afghanistan, a nation wracked by foreign invasions and war.", 
+    "actors": "Rory Stewart", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Africa", 
+    "description": "This five-part nature series chronicles fascinating stories of survival on the African continent, home to the most diverse animal life on the planet.", 
+    "actors": "David Attenborough", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "British TV Shows", 
+    "date_released": "1461801600"
+},
+{
+    "title": "Africas Deadliest", 
+    "description": "From seals and sharks to hippos and elephants, this series explores the killer tactics and natural weaponry of Africa's most effective predators.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1488240000"
+},
+{
+    "title": "Against the Tide", 
+    "description": "A detective and a psychologist investigating a string of murders form a crime-solving team with the novelist whose work inspired the killings.", 
+    "actors": "Christopher Lee, Rui En, Desmond Tan, Zheng Geping", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1498867200"
+},
+{
+    "title": "Age Gap Love", 
+    "description": "Despite the social backlash and challenges that come with intergenerational romance, these couples choose to stick together through thick and thin.", 
+    "actors": "Fay Ripley", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1519689600"
+},
+{
+    "title": "Age of Glory", 
+    "description": "Amid the thriving nightlife of 1960s Kuala Lumpur, three Chinese friends -- a showgirl, her housekeeper and a chanteuse -- find love and heartbreak.", 
+    "actors": "Debbie Goh, Aenie Wong, Frederick Lee, Leslie Chai", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1502668800"
+},
+{
+    "title": "Age of Rebellion", 
+    "description": "At their high school, a group of unruly teens wreak havoc, face bullies and navigate turbulent lives beyond school grounds.", 
+    "actors": "Peter Ho, Jeanine Yang, Tammy Chen, Jason Tsou", 
+    "director": "Peter Ho", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1535760000"
+},
+{
+    "title": "Age of Tanks", 
+    "description": "The history of military tanks unfolds in a documentary series that traces their role in history and geopolitics from World War I to the 21st century.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1541808000"
+},
+{
+    "title": "Agent Raghav", 
+    "description": "A mix of brilliance, erudition and skill enables a modern Sherlock Holmes to solve impossible cases, all while he tries to heal personal wounds.", 
+    "actors": "Sharad Kelkar, Aahana Kumra, Mahesh Manjrekar, Deepali Pansare", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1492214400"
+},
+{
+    "title": "Aggretsuko", 
+    "description": "Frustrated with her thankless office job, Retsuko the Red Panda copes with her daily struggles by belting out death metal karaoke after work.", 
+    "actors": "Kaolip, Komegumi Koiwasaki, Maki Tsuruta, Sohta Arai", 
+    "director": "", 
+    "imdb_rating": "7.9/10", 
+    "category": "Anime Series", 
+    "date_released": "1524182400"
+},
+{
+    "title": "Ainori Love Wagon: Asian Journey", 
+    "description": "Seven men and women board a pink bus in search of true love. On a journey through Asia with strangers, their goal is to return to Japan as a couple.", 
+    "actors": "Becky, Audrey, Mayuko Kawakita, Shimon Okura", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1524096000"
+},
+{
+    "title": "Ainsley Eats the Streets", 
+    "description": "Celebrity chef Ainsley Harriott embarks on a journey around the world to explore the relationship between local street foods and cultural identity.", 
+    "actors": "Ainsley Harriott", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1515715200"
+},
+{
+    "title": "Ajaibnya Cinta", 
+    "description": "Upon returning home from his studies abroad, young grad Akif finds himself involved with four women in this continuation of the series \"Spain Uoolss.\"", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1507852800"
+},
+{
+    "title": "AJIN: Demi-Human", 
+    "description": "A teenager discovers that he is an Ajin and flees before the authorities experiment on him. Other Ajin plan to fight back and he must choose a side.", 
+    "actors": "Mamoru Miyano, Yoshimasa Hosoya, Jun Fukuyama, Hochu Otsuka", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "Anime Series", 
+    "date_released": "1460419200"
+},
+{
+    "title": "Akulah Balqis", 
+    "description": "A little girl must enter an orphanage after her parents are arrested, but her life takes a dramatic turn when she escapes and meets a model.", 
+    "actors": "Puteri Balqis, Aeril Zafrel, Nabila Huda, Nazim Othman", 
+    "director": "Pali Yahya", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1509667200"
+},
+{
+    "title": "Al Hayba", 
+    "description": "In a village by the Lebanon-Syria border, the head of an arms-smuggling clan contends with family conflicts, power struggles and complicated love.", 
+    "actors": "Taim Hasan, Nadine Nassib Njeim, Abdo Chahine, Oweiss Mkhallalati", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1536969600"
+},
+{
+    "title": "Alaska State Troopers", 
+    "description": "Chronicling the adventures of Alaska state troopers, this reality series puts a cold-weather spin on the everyday challenges of law enforcement.", 
+    "actors": "Marc Graue", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Reality TV", 
+    "date_released": "1489536000"
+},
+{
+    "title": "Aldnoah.Zero", 
+    "description": "An assassination plot rekindles a war between Earth and the settlers of a mysterious, high-tech Martian empire in this action-packed anime series.", 
+    "actors": "Natsuki Hanae, Sora Amamiya, Kensho Ono, Sachika Misawa", 
+    "director": "", 
+    "imdb_rating": "7.2/10", 
+    "category": "Anime Series", 
+    "date_released": "1444348800"
+},
+{
+    "title": "Alexa & Katie", 
+    "description": "Alexa is battling cancer. But with her best friend, Katie, by her side, she's also starting high school -- and ready for whatever comes next.", 
+    "actors": "Paris Berelc, Isabel May, Tiffani Thiessen, Emery Kelly", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Kids' TV", 
+    "date_released": "1521763200"
+},
+{
+    "title": "Alias Grace", 
+    "description": "In 19th-century Canada, a psychiatrist weighs whether a murderess should be pardoned due to insanity. Based on Margaret Atwood's award-winning novel.", 
+    "actors": "Sarah Gadon, Edward Holcroft, Paul Gross, Anna Paquin", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1509667200"
+},
+{
+    "title": "Alien Deep with Bob Ballard", 
+    "description": "Renowned ocean explorer Dr. Bob Ballard takes viewers to the deepest parts of the ocean, where priceless treasures both natural and man-made lurk.", 
+    "actors": "Bob Ballard", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1521072000"
+},
+{
+    "title": "All About Love", 
+    "description": "Mysterious ghosts -- determined to reconnect with the living world -- begin to cross over and disrupt the lives of those they left behind.", 
+    "actors": "Christina Mok, River Huang, Stone Yang, April Liu", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1504224000"
+},
+{
+    "title": "All About the Washingtons", 
+    "description": "Hip-hop icon MC Joe Speed retires from showbiz and finds a new rhythm balancing business, romance and everyday family chaos.", 
+    "actors": "Joseph Simmons, Justine Simmons, Kiana Led\u00e9, Nathan Anderson", 
+    "director": "", 
+    "imdb_rating": "2.8/10", 
+    "category": "TV Comedies", 
+    "date_released": "1533859200"
+},
+{
+    "title": "All Hail King Julien", 
+    "description": "In this Emmy winner for Outstanding Children's Animated Program, Madagascar booty-shaker King Julien takes on the jungle\u2019s craziest adventures.", 
+    "actors": "Danny Jacobs, Andy Richter, Henry Winkler, Kevin Michael Richardson", 
+    "director": "", 
+    "imdb_rating": "6.1/10", 
+    "category": "Kids' TV", 
+    "date_released": "1418947200"
+},
+{
+    "title": "All Hail King Julien: Exiled", 
+    "description": "Julien's been dethroned, but loyal friends and some very unlikely allies will propel the lovable lemur on a colorful journey to take back his kingdom.", 
+    "actors": "Danny Jacobs, Andy Richter, Kevin Michael Richardson, India de Beaufort", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "Kids' TV", 
+    "date_released": "1494547200"
+},
+{
+    "title": "Alleycats", 
+    "description": "After a bike courier stumbles upon an apparent murder, his resourceful sister, part of a crew of illegal street racers, begins to unravel the mystery.", 
+    "actors": "Eleanor Tomlinson, John Lynch, Sam Keeley, Josh Whitehouse", 
+    "director": "Ian Bonh\u00f4te", 
+    "imdb_rating": "4.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1484438400"
+},
+{
+    "title": "Altered Carbon", 
+    "description": "After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.", 
+    "actors": "Joel Kinnaman, James Purefoy, Martha Higareda, Ren\u00e9e Elise Goldsberry", 
+    "director": "", 
+    "imdb_rating": "7.9/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1517529600"
+},
+{
+    "title": "Amazing Hotels: Life Beyond the Lobby", 
+    "description": "Some of the world's most awe-inspiring hotels will go to great lengths to create the ultimate experience for their guests. These are their stories.", 
+    "actors": "Giles Coren, Monica Galetti", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1509667200"
+},
+{
+    "title": "Amazing Interiors", 
+    "description": "Meet eccentric homeowners whose seemingly ordinary spaces are full of surprises, from a backyard roller coaster to an indoor aquarium.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1532044800"
+},
+{
+    "title": "Ambushed", 
+    "description": "As a veteran DEA operative closes in on an international cocaine-smuggling ring, the case becomes personal when a fellow agent ends up in danger.", 
+    "actors": "Dolph Lundgren, Vinnie Jones, Randy Couture, Gianni Capaldi", 
+    "director": "Giorgio Serafini", 
+    "imdb_rating": "4.4/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1392422400"
+},
+{
+    "title": "American Crime", 
+    "description": "This anthology series unfolds a different story arc for each season, with dramas focusing on aspects of American life and the criminal justice system.", 
+    "actors": "Felicity Huffman, Timothy Hutton, Elvis Nolasco, Regina King", 
+    "director": "", 
+    "imdb_rating": "6.6/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1471910400"
+},
+{
+    "title": "American Crime Story", 
+    "description": "This anthology series dramatizes historic criminal cases in the U.S., including the O.J. Simpson trial and Andrew Cunanan's 1997 murder spree.", 
+    "actors": "Cuba Gooding Jr., Sarah Paulson, John Travolta, Courtney B. Vance", 
+    "director": "", 
+    "imdb_rating": "7.1/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1485993600"
+},
+{
+    "title": "American Heist", 
+    "description": "An ex-con is just getting his life back on track when his older brother is released from prison and drags him into the underworld for one final heist.", 
+    "actors": "Hayden Christensen, Adrien Brody, Jordana Brewster, Tory Kittles", 
+    "director": "Sarik Andreasyan", 
+    "imdb_rating": "4.6/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1523145600"
+},
+{
+    "title": "American Horror Story", 
+    "description": "This twisted Emmy-winning drama plays upon the power of supernatural fears and everyday horrors, exploring humankind's unsettling capacity for evil.", 
+    "actors": "Evan Peters, Sarah Paulson, Jessica Lange, Denis O'Hare", 
+    "director": "", 
+    "imdb_rating": "6.9/10", 
+    "category": "TV Horror", 
+    "date_released": "1444089600"
+},
+{
+    "title": "American Odyssey", 
+    "description": "An elite soldier, a corporate lawyer and a political activist uncover a deadly conspiracy linking terrorists to a powerful American corporation.", 
+    "actors": "Anna Friel, Peter Facinelli, Jake Robinson, Jim True-Frost", 
+    "director": "", 
+    "imdb_rating": "7.2/10", 
+    "category": "TV Dramas", 
+    "date_released": "1459814400"
+},
+{
+    "title": "American Pie Presents: Band Camp", 
+    "description": "Stifler's younger brother, Matt, is sentenced to a summer at band camp, where the junior horndog tumbles through a series of outrageous escapades", 
+    "actors": "Tad Hilgenbrink, Arielle Kebbel, Eugene Levy, Jason Earles", 
+    "director": "Steve Rash", 
+    "imdb_rating": "5.3/10", 
+    "category": "Comedies", 
+    "date_released": "1517443200"
+},
+{
+    "title": "American Pie Presents: Beta House", 
+    "description": "Dwight Stifler and his cousin Erik are back for another piece of the pie as the Beta house battles the rival GEKs in a contest for social supremacy.", 
+    "actors": "Eugene Levy, Christopher McDonald, Jonathan Keltz, John White", 
+    "director": "Andrew Waller", 
+    "imdb_rating": "5.5/10", 
+    "category": "Comedies", 
+    "date_released": "1533081600"
+},
+{
+    "title": "American Pie Presents: The Naked Mile", 
+    "description": "Erik, the prude virgin cousin of Matt and Steve Stifler, comes out of his shell when he and his friends participate in a naked run on campus.", 
+    "actors": "John White, Jessy Schram, Steve Talley, Christopher McDonald", 
+    "director": "Joe Nussbaum", 
+    "imdb_rating": "5.4/10", 
+    "category": "Comedies", 
+    "date_released": "1517443200"
+},
+{
+    "title": "American Vandal", 
+    "description": "In the wake of their first documentary's success, Peter and Sam seek a new case and settle on a stomach-churning mystery at a Washington high school.", 
+    "actors": "Tyler Alvarez, Griffin Gluck, Jimmy Tatro, Camille Hyde", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1505433600"
+},
+{
+    "title": "Amo", 
+    "description": "Despite the Philippine government's crackdown on narcotics, high schooler Joseph expands his drug running while his cop uncle profits from corruption.", 
+    "actors": "Derek Ramsay, Vince Rillon, Allen Dizon, Felix Roco", 
+    "director": "", 
+    "imdb_rating": "5.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1523232000"
+},
+{
+    "title": "An Hour to Save Your Life", 
+    "description": "Skilled medical units around the U.K. work against the clock to keep patients alive during the critical first hour of emergency care.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1526947200"
+},
+{
+    "title": "An Innocent Mistake", 
+    "description": "Raised by three mothers, a self-assured teen in turmoil meets the father figure she never had. But she also stands to drive the man and his son apart.", 
+    "actors": "Jason Wang, Mathilde Lin, Mo Tzu Yi, Xi Man-Ning", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1483228800"
+},
+{
+    "title": "Angamaly Diaries", 
+    "description": "After growing up amidst the gang wars of his hometown, Vincent forms an entrepreneurial squad of his own and ends up on the wrong side of the law.", 
+    "actors": "Antony Varghese, Reshma Rajan, Binny Rinky Benjamin, Vineeth Vishwam", 
+    "director": "Lijo Jose Pellissery", 
+    "imdb_rating": "7.3/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Anger Management", 
+    "description": "After a gentle businessman is forced to get anger management counseling, his therapist moves in -- but turns out to have anger issues of his own.", 
+    "actors": "Adam Sandler, Jack Nicholson, Marisa Tomei, Luis Guzm\u00e1n", 
+    "director": "Peter Segal", 
+    "imdb_rating": "6.0/10", 
+    "category": "Comedies", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Angry Birds", 
+    "description": "Birds Red, Chuck and their feathered friends have lots of adventures while guarding eggs in their nest that pesky pigs keep trying to steal.", 
+    "actors": "Antti P\u00e4\u00e4kk\u00f6nen, Helj\u00e4 Heikkinen, Lynne Guaglione, Pasi Ruohonen", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "Kids' TV", 
+    "date_released": "1476489600"
+},
+{
+    "title": "Animal Airport", 
+    "description": "Go behind the scenes at London's busy Heathrow Airport as animal handlers greet traveling pets and shipments of exotic species from around the world.", 
+    "actors": "Mark Halliley", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1515715200"
+},
+{
+    "title": "Animal Fight Night", 
+    "description": "Warthogs, octopuses, hippos and other creatures tussle with their own kinds over food, turf and mates in the roughest, meanest battles in the wild.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1488240000"
+},
+{
+    "title": "Animal Mechanicals", 
+    "description": "In this series for preschoolers, the Animal Mechanicals use their amazing ability to transform to solve challenging problems.", 
+    "actors": "Jim Fowler, Shannon Lynch, Ian MacDougall, Abigail Gordon", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "Kids' TV", 
+    "date_released": "1475193600"
+},
+{
+    "title": "Anjaan: Special Crimes Unit", 
+    "description": "The cases are supernatural; the police officers human. Together, cops Aditi and Vikrant must solve mysteries from the realm of the paranormal.", 
+    "actors": "Gashmeer Mahajani, Heena Parmar", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1525132800"
+},
+{
+    "title": "Anne with an E", 
+    "description": "A plucky orphan whose passions run deep finds an unlikely home with a spinster and her soft-spoken bachelor brother. Based on \"Anne of Green Gables.\"", 
+    "actors": "Amybeth McNulty, Geraldine James, R.H. Thomson, Corrine Koslo", 
+    "director": "", 
+    "imdb_rating": "8.5/10", 
+    "category": "International TV Shows", 
+    "date_released": "1494547200"
+},
+{
+    "title": "Anti-Social", 
+    "description": "An anarchic street artist flirts with mainstream success while his con artist brother makes a living -- and a reputation -- robbing jewelry counters.", 
+    "actors": "Gregg Sulkin, Meghan Markle, Josh Myers, Andrew Shim", 
+    "director": "Reg Traviss", 
+    "imdb_rating": "5.9/10", 
+    "category": "Dramas", 
+    "date_released": "1493942400"
+},
+{
+    "title": "Apaches", 
+    "description": "A young journalist is forced into a life of crime to save his father and family in this series based on the novel by Miguel S\u00e1ez Carral.", 
+    "actors": "Alberto Ammann, Eloy Azor\u00edn, Ver\u00f3nica Echegui, Luc\u00eda Jim\u00e9nez", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1504828800"
+},
+{
+    "title": "Aquarius", 
+    "description": "Amid the turmoil of 1960s LA, two cops and a prominent political family are drawn into the sex- and drug-fueled web of a young Charles Manson.", 
+    "actors": "David Duchovny, Gethin Anthony, Grey Damon, Emma Dumont", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1464566400"
+},
+{
+    "title": "Archangel", 
+    "description": "After learning about the existence of a notebook belonging to Joseph Stalin, a historian uncovers evidence that points to a secret Stalinist legacy.", 
+    "actors": "Daniel Craig, Yekaterina Rednikova, Gabriel Macht, Lev Prygunov", 
+    "director": "Jon Jones", 
+    "imdb_rating": "6.3/10", 
+    "category": "TV Shows", 
+    "date_released": "1462060800"
+},
+{
+    "title": "Argon", 
+    "description": "In a world filled with provocative (and often misleading) news, a passionate team of investigative TV reporters strives to bring truths to light.", 
+    "actors": "Chun Woo-hee, Kim Joo-hyuk, Park Won-sang", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "International TV Shows", 
+    "date_released": "1511308800"
+},
+{
+    "title": "Arrested Development", 
+    "description": "It's the Emmy-winning story of a wealthy family that lost everything, and the one son who had no choice but to keep them all together.", 
+    "actors": "Jason Bateman, Portia de Rossi, Will Arnett, Michael Cera", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "TV Comedies", 
+    "date_released": "1377820800"
+},
+{
+    "title": "Arrow", 
+    "description": "Based on DC Comics' Green Arrow, an affluent playboy becomes a vengeful superhero, saving the city from villains armed with just a bow and arrows.", 
+    "actors": "Stephen Amell, Katie Cassidy, David Ramsey, Willa Holland", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1381276800"
+},
+{
+    "title": "Ascension", 
+    "description": "Half a century after its 1963 launch, a U.S. spacecraft is rocked by a murder that threatens to expose secrets about the expedition's true purpose.", 
+    "actors": "Tricia Helfer, Gil Bellows, Brian Van Holt, Andrea Roth", 
+    "director": "", 
+    "imdb_rating": "6.7/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1434499200"
+},
+{
+    "title": "Ash vs. Evil Dead", 
+    "description": "Thirty years later, Ash Williams -- demon hunter par excellence -- is back to battle a new Deadite plague. He may have lost a hand, but not his touch.", 
+    "actors": "Bruce Campbell, Lucy Lawless, Ray Santiago, Dana DeLorenzo", 
+    "director": "", 
+    "imdb_rating": "7.8/10", 
+    "category": "TV Action & Adventure", 
+    "date_released": "1512950400"
+},
+{
+    "title": "Ask the Doctor", 
+    "description": "From allergies to diet to sleep, three friendly doctors share expert advice, bust medical myths and test the latest treatments.", 
+    "actors": "Shalin Naik, Renee Lim, Sandro Demaio", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1539907200"
+},
+{
+    "title": "Ask the StoryBots", 
+    "description": "Five curious little creatures track down the answers to kids' biggest questions, like how night happens or why we need to brush our teeth.", 
+    "actors": "Judy Greer, Erin Fitzgerald, Fred Tatasciore, Jeff Gill", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "Kids' TV", 
+    "date_released": "1470960000"
+},
+{
+    "title": "Assassination Games", 
+    "description": "In this light-'em-up action thriller, rival assassins join forces to dismantle a global drug cartel in league with the U.S. Drug Enforcement Agency.", 
+    "actors": "Jean-Claude Van Damme, Scott Adkins, Ivan Kaye, Valentin Teodosiu", 
+    "director": "Ernie Barbarash", 
+    "imdb_rating": "6.1/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Atelier", 
+    "description": "A young \"fabric geek\" lands a job at an upscale Japanese lingerie company -- and quickly discovers she'll need help to survive.", 
+    "actors": "Mirei Kiritani, Mao Daichi, Wakana Sakai, Masako Chiba", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1448928000"
+},
+{
+    "title": "Atomic Puppet", 
+    "description": "Captain Atomic -- once a superhero, now a sock puppet -- can only activate his powers with the help of Joey, his new partner and biggest fan.", 
+    "actors": "Eric Bauza, Lisa Norton, Carlos D\u00edaz, Peter Oldring", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1512086400"
+},
+{
+    "title": "Attack on Titan", 
+    "description": "With his hometown in ruins, young Eren Yeager becomes determined to fight back against the giant Titans that threaten to destroy the human race.", 
+    "actors": "Yuki Kaji, Yui Ishikawa, Marina Inoue, Kisho Taniyama", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "Anime Series", 
+    "date_released": "1484006400"
+},
+{
+    "title": "Atypical", 
+    "description": "When a teen on the autism spectrum decides to get a girlfriend, his bid for more independence puts his whole family on a path of self-discovery.", 
+    "actors": "Jennifer Jason Leigh, Keir Gilchrist, Michael Rapaport, Brigette Lundy-Paine", 
+    "director": "", 
+    "imdb_rating": "7.8/10", 
+    "category": "TV Comedies", 
+    "date_released": "1502409600"
+},
+{
+    "title": "Auschwitz: The Nazis and the Final Solution", 
+    "description": "This documentary series tackles one of history's most horrifying subjects: the Holocaust and the infamous Auschwitz-Birkenau concentration camp.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.5/10", 
+    "category": "British TV Shows", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Aussie Gold Hunters", 
+    "description": "Three teams of gold hunters battle all manner of challenges while pursuing their dreams in the Australian Outback.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Docuseries", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Autumn's Concerto", 
+    "description": "After losing all memories of his past, a wealthy lawyer travels to a rural village where a woman he once loved now lives with her son.", 
+    "actors": "Ady An, Vanness Wu, Ann Hsu, Chris Wu", 
+    "director": "", 
+    "imdb_rating": "7.8/10", 
+    "category": "International TV Shows", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Aval", 
+    "description": "In this Tamil version of \"The House Next Door,\" a couple's relationship is shaken to its core when a mysterious family moves into the neighborhood.", 
+    "actors": "Siddharth, Andrea Jeremiah, Anisha Victor, Atul Kulkarni", 
+    "director": "Milind Rau", 
+    "imdb_rating": "", 
+    "category": "", 
+    "date_released": "1514851200"
+}
 ]
