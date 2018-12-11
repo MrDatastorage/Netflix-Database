@@ -1,1 +1,821 @@
-[]
+[
+{
+    "title": "D-Day", 
+    "description": "Through dramatization, vivid imagery and archive footage, this film spotlights an array of individuals who were involved in the momentous D-Day event.", 
+    "actors": "Ian Holm, David Lyon, Lacy Moore, Graham McTavish", 
+    "director": "Richard Dale", 
+    "imdb_rating": "7.8/10", 
+    "category": "Dramas", 
+    "date_released": "1504224000"
+},
+{
+    "title": "Dad's Army", 
+    "description": "This beloved sitcom follows the unlikely heroes of the volunteer British Home Guard as they prepare for German invasion in World War II.", 
+    "actors": "Arthur Lowe, John Le Mesurier, Clive Dunn, John Laurie", 
+    "director": "", 
+    "imdb_rating": "7.6/10", 
+    "category": "British TV Shows", 
+    "date_released": "1522454400"
+},
+{
+    "title": "Damnation", 
+    "description": "During the Great Depression, a stranger with a violent past poses as a preacher and rallies farmers to mount a strike in a rural Iowa community.", 
+    "actors": "Logan Marshall-Green, Killian Scott, Sarah Jones, Chasten Harmon", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1541548800"
+},
+{
+    "title": "Dance & Sing with True", 
+    "description": "True and her friends are making music -- and they want you to dance and sing along. So cut loose, silly goose! These fun beats are totally sweet.", 
+    "actors": "Michela Luci, Jamie Watson, Anna Claire Bartlam, Dante Zee", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Kids' TV", 
+    "date_released": "1526601600"
+},
+{
+    "title": "Dance Academy", 
+    "description": "Fifteen-year-old Tara Webster's dream of dancing comes true when she gets into a top dance academy. She soon realizes dancing is only half the battle.", 
+    "actors": "Xenia Goodwin, Alicia Banit, Dena Kaplan, Isabel Durant", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "International TV Shows", 
+    "date_released": "1513728000"
+},
+{
+    "title": "Dancing Angels", 
+    "description": "A group of aspiring young musicians yearn for stardom while navigating the ups and downs of friendship, romance, and life at school.", 
+    "actors": "Wang Jiayin, Vicki He, Liu Tingyu, Yang Yang", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1524787200"
+},
+{
+    "title": "Dancing Queen", 
+    "description": "Snatching trophies. Getting gorgeous. Turning it up. Alyssa Edwards rules the dance studio by day -- and the drag world by night.", 
+    "actors": "Justin \"Alyssa Edwards\" Johnson", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Reality TV", 
+    "date_released": "1538697600"
+},
+{
+    "title": "Dandy", 
+    "description": "A law professor is enlisted by Mexico's attorney general to join a special operations unit infiltrating the capital's most notorious drug cartel.", 
+    "actors": "Alfonso Herrera, Dami\u00e1n Alc\u00e1zar, Gabriela Roel, Itahisa Machado", 
+    "director": "", 
+    "imdb_rating": "5.5/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1522454400"
+},
+{
+    "title": "Danger Mouse", 
+    "description": "The world's greatest super-spy returns to save the world with the help of hapless hamster Penfold and a collection of state-of-the-art gadgetry.", 
+    "actors": "Alexander Armstrong, Kevin Eldon, Stephen Fry, Ed Gaughan", 
+    "director": "", 
+    "imdb_rating": "7.4/10", 
+    "category": "British TV Shows", 
+    "date_released": "1461888000"
+},
+{
+    "title": "Danger Mouse: Classic Collection", 
+    "description": "Follow the adventures of superspy Danger Mouse and his bumbling sidekick, Penfold, as they jet around the world foiling their enemies' evil plots.", 
+    "actors": "David Jason, Terry Scott, Edward Kelsey, Brian Trueman", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "British TV Shows", 
+    "date_released": "1434326400"
+},
+{
+    "title": "Danny Dyer's Deadliest Men", 
+    "description": "Actor Danny Dyer embarks on a mission to interview some of the most dangerous and feared men in the United Kingdom.", 
+    "actors": "Danny Dyer", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1498867200"
+},
+{
+    "title": "Dark", 
+    "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.", 
+    "actors": "Louis Hofmann, Oliver Masucci, J\u00f6rdis Triebel, Maja Sch\u00f6ne", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1512086400"
+},
+{
+    "title": "Dark Matter", 
+    "description": "After waking up aboard a derelict spaceship with no memories, the crew of the Raza investigates the mystery of their identities and destination.", 
+    "actors": "Marc Bendavid, Melissa O'Neil, Anthony Lemke, Alex Mallari Jr.", 
+    "director": "", 
+    "imdb_rating": "6.4/10", 
+    "category": "TV Sci-Fi & Fantasy", 
+    "date_released": "1443398400"
+},
+{
+    "title": "Dark Places", 
+    "description": "Years after surviving a brutal crime as a child, Libby Day comes to believe that the brother she testified against for committing it may be innocent.", 
+    "actors": "Charlize Theron, Nicholas Hoult, Chlo\u00eb Grace Moretz, Tye Sheridan", 
+    "director": "Gilles Paquet-Brenner", 
+    "imdb_rating": "5.9/10", 
+    "category": "Dramas", 
+    "date_released": "1532563200"
+},
+{
+    "title": "Dark Tourist", 
+    "description": "From a nuclear lake to a haunted forest, journalist David Farrier visits unusual -- and often macabre -- tourism spots around the world.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "6.7/10", 
+    "category": "Docuseries", 
+    "date_released": "1532044800"
+},
+{
+    "title": "Darr Sabko Lagta Hai", 
+    "description": "In this chilling horror anthology series, actress and model Bipasha Basu meets people who have had disconcerting paranormal experiences.", 
+    "actors": "Bipasha Basu", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1519862400"
+},
+{
+    "title": "David Attenborough's Natural Curiosities", 
+    "description": "Renowned naturalist David Attenborough documents some of the animal world's most intriguing and surprising evolutionary traits and behaviors.", 
+    "actors": "David Attenborough", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "British TV Shows", 
+    "date_released": "1490918400"
+},
+{
+    "title": "David vs. Goliath: Battle of Faith", 
+    "description": "In biblical times, the young shepherd David uses a slingshot, a stone and faith in God to save his people by defeating the fearsome giant Goliath.", 
+    "actors": "Matt Berberi, Michael Foster, John Knox, Rodger Halston", 
+    "director": "Wallace Brothers", 
+    "imdb_rating": "3.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1495843200"
+},
+{
+    "title": "Dawai Asmara", 
+    "description": "Following life-changing traumas, two girls from different backgrounds fight to discover the identities of their biological parents.", 
+    "actors": "Hanna Aqiela, Tengku Putri Najuwa, Emelie Hanif, Zoey Rahman", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1512950400"
+},
+{
+    "title": "Dawn of the Croods", 
+    "description": "The world's first family is back for more laughs as they discover sports, sleepovers and other wonders in a world of exotic creatures and adventures.", 
+    "actors": "Stephanie Lemelin, A.J. LoCascio, Dan Milano, Grey DeLisle", 
+    "director": "", 
+    "imdb_rating": "6.6/10", 
+    "category": "Kids' TV", 
+    "date_released": "1450915200"
+},
+{
+    "title": "Day and Night", 
+    "description": "A detective with a strong fear of the dark swaps places with his fugitive twin brother every night in order to investigate a series of brutal murders.", 
+    "actors": "Pan Yueming, Wang Longzheng, Liang Yuen, L\u00fc Xiaolin", 
+    "director": "", 
+    "imdb_rating": "8.5/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1521763200"
+},
+{
+    "title": "Days We Stared at the Sun", 
+    "description": "A model student resorts to violence after witnessing greed and corruption wreak havoc on his life.", 
+    "actors": "Sean Huang, Chang Chia-yu, Wu Chien-ho, Teresa Daley", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1522454400"
+},
+{
+    "title": "DC's Legends of Tomorrow", 
+    "description": "A mysterious \"time master\" from the future unites an unlikely group of superheroes and villains to save the world from a powerful evil.", 
+    "actors": "Victor Garber, Brandon Routh, Caity Lotz, Franz Drameh", 
+    "director": "", 
+    "imdb_rating": "6.1/10", 
+    "category": "TV Action & Adventure", 
+    "date_released": "1476316800"
+},
+{
+    "title": "Dead Set", 
+    "description": "While the housemates in the Big Brother house remain oblivious, fast-moving hordes of the undead decimate the studio compound.", 
+    "actors": "Jaime Winstone, Andy Nyman, Kevin Eldon, Davina McCall", 
+    "director": "", 
+    "imdb_rating": "7.4/10", 
+    "category": "British TV Shows", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Deadwind", 
+    "description": "Just months after a tragic loss, detective Sofia Karppi investigates the murder of a woman with ties to a Helsinki construction company.", 
+    "actors": "Pihla Viitala, Lauri Tilkanen, Jani Volanen, Tommi Korpela", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1534982400"
+},
+{
+    "title": "Deals in the Desert", 
+    "description": "The glamorous world of Bahrain's high-end property market is featured in this unscripted show pitting elite real estate brokers against one another.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1466726400"
+},
+{
+    "title": "Deals, Wheels and Steals", 
+    "description": "In this reality series, six knowledgeable and passionate car auctioneers in the U.K. compete to buy and sell cars at the best price.", 
+    "actors": "Nick Moran, Melody Munday, Manny Hayre, James Lewis", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1515715200"
+},
+{
+    "title": "Dear White People", 
+    "description": "Students of color navigate the daily slights and slippery politics of life at an Ivy League college that's not nearly as \"post-racial\" as it thinks.", 
+    "actors": "Logan Browning, Brandon P. Bell, DeRon Horton, Antoinette Robertson", 
+    "director": "", 
+    "imdb_rating": "6.2/10", 
+    "category": "TV Comedies", 
+    "date_released": "1493337600"
+},
+{
+    "title": "Death by Magic", 
+    "description": "Magician Drummond Money-Coutts travels the globe, sharing his infectious love of his craft and attempting feats that proved fatal to other magicians.", 
+    "actors": "Drummond Money-Coutts", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Reality TV", 
+    "date_released": "1543536000"
+},
+{
+    "title": "Death Comes to Pemberley", 
+    "description": "Adapted from P.D. James's sequel to Jane Austen's \"Pride and Prejudice,\" the tale continues as Elizabeth and Darcy celebrate six years of marriage.", 
+    "actors": "Matthew Rhys, Anna Maxwell Martin, Jenna Coleman, Matthew Goode", 
+    "director": "Daniel Percival", 
+    "imdb_rating": "6.7/10", 
+    "category": "British TV Shows", 
+    "date_released": "1419724800"
+},
+{
+    "title": "Death in Paradise", 
+    "description": "Scotland Yard Detective Inspector Richard Poole is sent to the Caribbean island of Sainte Marie to solve a fellow policeman's murder.", 
+    "actors": "Ben Miller, Sara Martins, Danny John-Jules, Gary Carr", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "British TV Shows", 
+    "date_released": "1490918400"
+},
+{
+    "title": "DEATH NOTE", 
+    "description": "When a Japanese high schooler comes into possession of a mystical notebook, he finds he has the power to kill anybody whose name he enters in it.", 
+    "actors": "Kappei Yamaguchi, Mamoru Miyano, Ai Satou, Akeno Watanabe", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "Anime Series", 
+    "date_released": "1476489600"
+},
+{
+    "title": "Death Race: Beyond Anarchy", 
+    "description": "An ex-racecar driver is sent to a barbaric prison where, to get pardoned, he must defeat the inmate known as Frankenstein in a lethal \"Death Race.\"", 
+    "actors": "Zach McGowan, Danny Glover, Frederick Koehler, Danny Trejo", 
+    "director": "Don Michael Paul", 
+    "imdb_rating": "5.7/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1538438400"
+},
+{
+    "title": "Deep", 
+    "description": "As he grapples with a life-threatening illness, a police investigator tracks the explosion of a new synthetic drug on the streets of Paris.", 
+    "actors": "Patrick Ridremont, Olivier Chantreau, P\u00e9n\u00e9lope Leveque, Emmanuelle Meyssignac", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1467331200"
+},
+{
+    "title": "Deep Undercover", 
+    "description": "Former FBI agent Joe Pistone, the real-life \"Donnie Brasco,\" hosts this series that reveals the true stories of undercover crime-fighting operations.", 
+    "actors": "Dave B. Mitchell", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1521158400"
+},
+{
+    "title": "Deep Water", 
+    "description": "Back in Bondi Beach, where she grew up, DC Tori Lustigman investigates a gay man's murder and finds a link to her brother's death decades earlier.", 
+    "actors": "Noah Taylor, Yael Stone, Jeremy Lindsay Taylor, Danielle Cormack", 
+    "director": "", 
+    "imdb_rating": "6.2/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1498867200"
+},
+{
+    "title": "Degrassi: Next Class", 
+    "description": "Degrassi's next generation of high-tech newbies and returning students navigates real-world high school drama. If you're a teen, this is your life.", 
+    "actors": "Amanda Arcuri, Amir Bageria, Soma Bhatia, Jamie Bloch", 
+    "director": "Stefan Brogren", 
+    "imdb_rating": "6.2/10", 
+    "category": "International TV Shows", 
+    "date_released": "1452816000"
+},
+{
+    "title": "Departures", 
+    "description": "This travel series follows friends Scott Wilson and Justin Lukach around the world, chronicling their adventures and the challenges they encounter.", 
+    "actors": "Scott Wilson, Justin Lukach", 
+    "director": "", 
+    "imdb_rating": "9.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Derek", 
+    "description": "Ricky Gervais created and stars in this heartwarming comedy-drama series as a loyal English nursing home caretaker who sees only the good in everyone.", 
+    "actors": "Ricky Gervais, Kerry Godliman, Karl Pilkington, David Earl", 
+    "director": "", 
+    "imdb_rating": "7.2/10", 
+    "category": "British TV Shows", 
+    "date_released": "1378944000"
+},
+{
+    "title": "Designated Survivor", 
+    "description": "America's fate rests in the hands of a low-level official after an attack on Washington decimates the government in this gripping political thriller.", 
+    "actors": "Kiefer Sutherland, Natascha McElhone, Maggie Q, Kal Penn", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1538092800"
+},
+{
+    "title": "Desperate Hours", 
+    "description": "Eyewitnesses provide real-time accounts of disasters including car and plane crashes, shipwrecks, storms and droughts in this documentary series.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1487116800"
+},
+{
+    "title": "Detour", 
+    "description": "Convinced his stepfather caused the crash that left his mother in a coma, a law student drunkenly agrees to his murder, then can't rescind the deal.", 
+    "actors": "Tye Sheridan, Bel Powley, Emory Cohen, Gbenga Akinnagbe", 
+    "director": "Christopher Smith", 
+    "imdb_rating": "6.5/10", 
+    "category": "Thrillers", 
+    "date_released": "1495670400"
+},
+{
+    "title": "Deuces", 
+    "description": "Assigned to go undercover to take down an impenetrable crime ring, a detective finds himself falling under the sway of its enigmatic leader.", 
+    "actors": "Larenz Tate, Meagan Good, Lance Gross, Antonique Smith", 
+    "director": "Jamal Hill", 
+    "imdb_rating": "5.2/10", 
+    "category": "Dramas", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Devil's Knot", 
+    "description": "Frothing for vengeance after three 8-year-olds are slain, the community of West Memphis, Ark., directs blame at a trio of teens suspected of Satanism.", 
+    "actors": "Colin Firth, Reese Witherspoon, Dane DeHaan, Mireille Enos", 
+    "director": "Atom Egoyan", 
+    "imdb_rating": "5.9/10", 
+    "category": "Dramas", 
+    "date_released": "1402358400"
+},
+{
+    "title": "Devilman Crybaby", 
+    "description": "With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo.", 
+    "actors": "Koki Uchiyama, Ayumu Murase, Megumi Han, Ami Koshimizu", 
+    "director": "Masaaki Yuasa", 
+    "imdb_rating": "7.5/10", 
+    "category": "Anime Series", 
+    "date_released": "1515110400"
+},
+{
+    "title": "Devlok with Devdutt Pattanaik", 
+    "description": "Through chats with host Rasika Dugal, mythologist Devdutt Pattanaik explores the meaning and modern-day relevance of Indian folklore and philosophy.", 
+    "actors": "Rasika Dugal, Devdutt Pattanaik", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1539561600"
+},
+{
+    "title": "Dexter", 
+    "description": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.", 
+    "actors": "Michael C. Hall, Jennifer Carpenter, David Zayas, James Remar", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1383177600"
+},
+{
+    "title": "Dharmakshetra", 
+    "description": "After the ancient Great War, the god Chitragupta oversees a trial to determine who were the battle's true heroes and villains.", 
+    "actors": "Kashmira Irani, Chandan Anand, Dinesh Mehta, Ankit Arora", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Dhia Sofea", 
+    "description": "After discovering that she was adopted as an infant, a young woman embarks on a perilous quest to connect with her biological mother.", 
+    "actors": "Amyra Rosli, Fadlan Hazim, Maria Farida, Sharifah Haslinda", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1512086400"
+},
+{
+    "title": "Diamond Cartel", 
+    "description": "An unwilling assassin reunites with an old flame and runs off with a diamond coveted by her vicious boss, who will do anything to obtain it.", 
+    "actors": "Armand Assante, Karlygash Mukhamedzhanova, Aleksey Frandetti, Nurlan Altayev", 
+    "director": "Salamat Mukhammed-Ali", 
+    "imdb_rating": "6.0/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1499040000"
+},
+{
+    "title": "Diamond Lover", 
+    "description": "After an accident leads to great weight loss, once-obese Mi Duo embarks on a new life working for her secret crush, diamond company CEO Xiao Liang.", 
+    "actors": "Rain, Tiffany Tang, Luo Jin, Dilraba Dilmurat", 
+    "director": "", 
+    "imdb_rating": "6.9/10", 
+    "category": "International TV Shows", 
+    "date_released": "1499385600"
+},
+{
+    "title": "Digimon Fusion", 
+    "description": "A human boy is transported into the Digital World, along with his two best friends, where he is charged with saving the Digimon against annihilation.", 
+    "actors": "Bin Shimada, Ben Diskin, Chika Sakamoto, Colleen O'Shaughnessy", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Anime Series", 
+    "date_released": "1410134400"
+},
+{
+    "title": "Dino Hunt", 
+    "description": "Top scientists and paleontologists examine dinosaur fossils located throughout Canada, while searching for elusive new species.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1501804800"
+},
+{
+    "title": "Dinosaur King", 
+    "description": "Aided by tablets found near a downed meteorite, Max, Rex and Zoe race the evil Alpha Gang as they travel the globe in search of living dinosaurs.", 
+    "actors": "Megumi Matsumoto, Matsuri Mizuguchi, Tomoko Kobashi, Asuka Tanii", 
+    "director": "", 
+    "imdb_rating": "5.5/10", 
+    "category": "Anime Series", 
+    "date_released": "1527897600"
+},
+{
+    "title": "Dinotrux", 
+    "description": "Half dinosaur, half construction truck, full-on fun! Watch giant Ty Rux, his little buddy Revvit and the crew come face-to-face with evil D-Structs.", 
+    "actors": "Andrew Francis, Richard Ian Cox, Ashleigh Ball, Matt Hill", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Kids' TV", 
+    "date_released": "1439510400"
+},
+{
+    "title": "Dinotrux Supercharged", 
+    "description": "Amped up with powers that make them faster, stronger and more agile than ever, the Dinotrux are back to face new challenges and meet new friends.", 
+    "actors": "Andrew Francis, Richard Ian Cox, Brian Drummond, Matt Hill", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Kids' TV", 
+    "date_released": "1510272000"
+},
+{
+    "title": "Dirty Money", 
+    "description": "From crippling payday loans to cars that cheat emissions tests, this investigative series exposes brazen acts of corporate greed and corruption.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "6.9/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1516924800"
+},
+{
+    "title": "Disenchantment", 
+    "description": "Princess duties call, but she'd rather be drinking. Free-spirited Bean exasperates the king as she wreaks havoc with her demon and elf pals.", 
+    "actors": "Abbi Jacobson, Eric Andr\u00e9, Nat Faxon, John DiMaggio", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "TV Action & Adventure", 
+    "date_released": "1534464000"
+},
+{
+    "title": "Disjointed", 
+    "description": "Pot activist Ruth Whitefeather Feldman runs a medical marijuana dispensary while encouraging her loyal patients to chill out and enjoy the high life.", 
+    "actors": "Kathy Bates, Aaron Moten, Tone Bell, Dougie Baldwin", 
+    "director": "", 
+    "imdb_rating": "5.1/10", 
+    "category": "TV Comedies", 
+    "date_released": "1503619200"
+},
+{
+    "title": "Dismissed", 
+    "description": "An intelligent but intense honor student traumatizes his high school teacher and mentor when he doesn't get the grade he believes he deserves.", 
+    "actors": "Kent Osborne, Dylan Sprouse, Rae Gray, Alycia Delmore", 
+    "director": "Benjamin Arfmann", 
+    "imdb_rating": "5.9/10", 
+    "category": "Thrillers", 
+    "date_released": "1518998400"
+},
+{
+    "title": "Disney Animation Collection: Vol. 1: Mickey and the Beanstalk", 
+    "description": "Mickey and the rest of the gang star in this collection of stories inspired by fairy tales, including \"Gulliver Mickey\" and \"Mr. Mouse Takes a Trip.\"", 
+    "actors": "", 
+    "director": "Hamilton Luske, Bill Roberts", 
+    "imdb_rating": "6.6/10", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Disney Animation Collection: Vol. 2: Three Little Pigs", 
+    "description": "The Three Little Pigs refuse to be scared by a hungry wolf -- and get a crash course in construction -- in this classic anthology.", 
+    "actors": "Burt Gillett, David Hand, Jack Hannah, Clyde Geronimi", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1370044800"
+},
+{
+    "title": "Disney Animation Collection: Vol. 3: The Prince and the Pauper", 
+    "description": "In a faraway land, a poor lad and a crown prince -- who look exactly alike -- switch places and soon uncover a plot to overthrow the king.", 
+    "actors": "", 
+    "director": "George Scribner, Wilfred Jackson", 
+    "imdb_rating": "", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1370044800"
+},
+{
+    "title": "Disney Animation Collection: Vol. 4: The Tortoise and the Hare", 
+    "description": "In this charming adaptation of Aesop's classic fable, Max Hare and Toby Tortoise compete in a foot race that pits speed against perseverance.", 
+    "actors": "", 
+    "director": "Wilfred Jackson, Burt Gillett", 
+    "imdb_rating": "", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1464739200"
+},
+{
+    "title": "Doctor Foster", 
+    "description": "When she suspects her husband is cheating on her, Dr. Gemma Foster starts an investigation that leads her down a dark path of obsession.", 
+    "actors": "Suranne Jones, Bertie Carvel, Clare-Hope Ashitey, Cheryl Campbell", 
+    "director": "", 
+    "imdb_rating": "7.1/10", 
+    "category": "British TV Shows", 
+    "date_released": "1477267200"
+},
+{
+    "title": "Documentary Now!", 
+    "description": "Elevating the art of parody, this sharply comic series spoofs high-profile documentaries such as \"Grey Gardens\" and \"The Thin Blue Line.\"", 
+    "actors": "Fred Armisen, Bill Hader, Helen Mirren", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "TV Comedies", 
+    "date_released": "1458777600"
+},
+{
+    "title": "Dolphins: Spy in the Pod", 
+    "description": "Secret cameras disguised as marine animals infiltrate the world of wild dolphins, chronicling the everyday lives of these enchanting creatures.", 
+    "actors": "David Tennant", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1457222400"
+},
+{
+    "title": "Don Verdean", 
+    "description": "A questionable character working as a self-styled \"biblical archaeologist\" advances his cause by creating phony religious artifacts.", 
+    "actors": "Sam Rockwell, Amy Ryan, Will Forte, Danny McBride", 
+    "director": "Jared Hess", 
+    "imdb_rating": "4.5/10", 
+    "category": "Comedies", 
+    "date_released": "1519862400"
+},
+{
+    "title": "Don't Call Me Crazy", 
+    "description": "Follow teens in treatment as they work to reclaim their lives in the face of eating disorders, suicidal depression and other mental health issues.", 
+    "actors": "Luke Treadaway", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1483142400"
+},
+{
+    "title": "Don't Watch This", 
+    "description": "Ghoulish creatures, dark obsessions and unsettling visions await in this hair-raising set of short horror films. You've been warned.", 
+    "actors": "Antoni Porowski, Acacia Marquez, Bri Leone, Katie Anne Moy", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "TV Horror", 
+    "date_released": "1540771200"
+},
+{
+    "title": "Dope", 
+    "description": "Filmed from the perspectives of dealers, users and the police, this vivid series offers a bracing look at the war on drugs.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.4/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1513900800"
+},
+{
+    "title": "Dough", 
+    "description": "An aging Jewish baker sees his struggling business reach unexpected heights when he takes a chance on a young Muslim apprentice.", 
+    "actors": "Jonathan Pryce, Jerome Holder, Phil Davis, Ian Hart", 
+    "director": "John Goldschmidt", 
+    "imdb_rating": "5.7/10", 
+    "category": "Comedies", 
+    "date_released": "1478044800"
+},
+{
+    "title": "DRAGON PILOT: Hisone & Masotan", 
+    "description": "Recently stationed Air Self-Defense Force rookie Hisone Amakasu is chosen by a dragon concealed within Gifu Air Base to be his pilot.", 
+    "actors": "Misaki Kuno, Tomoyo Kurosawa, Maki Kawase, Satomi Arai", 
+    "director": "", 
+    "imdb_rating": "7.3/10", 
+    "category": "Anime Series", 
+    "date_released": "1537488000"
+},
+{
+    "title": "Dragon Tattoo Trilogy: Extended Edition", 
+    "description": "This gripping trilogy starts with an investigation into a 40-year-old cold case and ends with a court case involving murder and government conspiracy.", 
+    "actors": "Noomi Rapace, Michael Nyqvist, Lena Endre, Peter Andersson", 
+    "director": "Niels Arden Oplev, Daniel Alfredson", 
+    "imdb_rating": "8.3/10", 
+    "category": "TV Shows", 
+    "date_released": "1483574400"
+},
+{
+    "title": "Dragonheart: Battle for the Heartfire", 
+    "description": "When the king of Brittania dies, the dragon who shares his heart must find a new ruler, but the monarch's grandchildren go to war over the throne.", 
+    "actors": "Tom Rhys Harries, Jessamine-Bliss Bell, Patrick Stewart, Andr\u00e9 Eriksen", 
+    "director": "Patrik Syversen", 
+    "imdb_rating": "5.8/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1497312000"
+},
+{
+    "title": "Dragons: Race to the Edge", 
+    "description": "From the creators of \"How to Train Your Dragon\" comes a new series that takes Hiccup and Toothless to the edge of adventure.", 
+    "actors": "Jay Baruchel, America Ferrera, Christopher Mintz-Plasse, Andree Vermeulen", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "Kids' TV", 
+    "date_released": "1435276800"
+},
+{
+    "title": "Dramaworld", 
+    "description": "A huge fan of a Korean TV drama is transported to a magical realm where she has the power to alter her favorite show's story line as a \"Facilitator.\"", 
+    "actors": "Liv Hewson, Sean Dulake, Justin Chon, Bae Noo-ri", 
+    "director": "", 
+    "imdb_rating": "8.2/10", 
+    "category": "Romantic TV Shows", 
+    "date_released": "1463961600"
+},
+{
+    "title": "DreamWorks Happy Holidays from Madagascar", 
+    "description": "Madagascar goes wild with holiday spirit in this set of Valentine's Day and Christmas-themed tales featuring everyone's favorite animal characters.", 
+    "actors": "Tom McGrath, Chris Miller, Christopher Knights, John DiMaggio", 
+    "director": "", 
+    "imdb_rating": "6.5/10", 
+    "category": "Kids' TV", 
+    "date_released": "1364774400"
+},
+{
+    "title": "DreamWorks Holiday Classics", 
+    "description": "Join your DreamWorks friends for these four holiday specials, featuring Shrek and Donkey, Hiccup and Toothless, and the wacky animals from Madagascar.", 
+    "actors": "Ben Stiller, David Schwimmer, Chris Rock, Jada Pinkett Smith", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Kids' TV", 
+    "date_released": "1323907200"
+},
+{
+    "title": "DreamWorks How to Train Your Dragon Legends", 
+    "description": "In this set of shorts, Hiccup and the gang learn about different species of dragons. Then, Gobber goes in search of the Boneknapper Dragon.", 
+    "actors": "Jay Baruchel, Craig Ferguson, America Ferrera, Gerard Butler", 
+    "director": "", 
+    "imdb_rating": "6.9/10", 
+    "category": "Kids' TV", 
+    "date_released": "1342742400"
+},
+{
+    "title": "DreamWorks Kung Fu Panda Awesome Secrets", 
+    "description": "In this pair of adventures, Po tells the story of how masters Thundering Rhino, Storming Ox and Croc met and takes on Shifu's biggest challenge yet.", 
+    "actors": "Jack Black, Dustin Hoffman, Dennis Haysbert, Paul Scheer", 
+    "director": "", 
+    "imdb_rating": "6.4/10", 
+    "category": "Kids' TV", 
+    "date_released": "1341014400"
+},
+{
+    "title": "DreamWorks Shrek's Swamp Stories", 
+    "description": "Shrek celebrates Halloween, Puss in Boots is captured by soldiers, and the gang participates in a kingdom-wide singing competition.", 
+    "actors": "Mike Myers, Eddie Murphy, Cameron Diaz, Antonio Banderas", 
+    "director": "", 
+    "imdb_rating": "6.2/10", 
+    "category": "Kids' TV", 
+    "date_released": "1345161600"
+},
+{
+    "title": "DreamWorks Spooky Stories", 
+    "description": "Shrek dares his friends to bring on the scary with ghost stories told in a haunted castle. Later, Ginormica and the Monsters face alien pumpkins.", 
+    "actors": "Antonio Banderas, Hugh Laurie, Mike Myers, Reese Witherspoon", 
+    "director": "", 
+    "imdb_rating": "6.1/10", 
+    "category": "Kids' TV", 
+    "date_released": "1540425600"
+},
+{
+    "title": "DreamWorks Spooky Stories: Volume 2", 
+    "description": "The Shrek characters parody the music video \"Thriller\"; B.O.B. and pals battle zombie carrots; and Megamind faces the effects of the Button of Doom.", 
+    "actors": "Seth Rogen, Will Arnett, Hugh Laurie, Will Ferrell", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Kids' TV", 
+    "date_released": "1351036800"
+},
+{
+    "title": "Drone", 
+    "description": "A drone pilot's comfortable life takes a nosedive when he's confronted by a man whose family was killed by missile attacks in the Middle East.", 
+    "actors": "Sean Bean, Patrick Sabongui, Mary McCormack, Maxwell Haynes", 
+    "director": "Jason Bourque", 
+    "imdb_rating": "5.2/10", 
+    "category": "Thrillers", 
+    "date_released": "1503532800"
+},
+{
+    "title": "Drop Dead Diva", 
+    "description": "Shallow, stick-thin Deb Dobkins learns lessons about the joys of compassion and intelligence after she's reincarnated as a smart, plus-size lawyer.", 
+    "actors": "Brooke Elliott, Margaret Cho, Jackson Hurst, Kate Levering", 
+    "director": "", 
+    "imdb_rating": "6.8/10", 
+    "category": "TV Comedies", 
+    "date_released": "1296518400"
+},
+{
+    "title": "Drug Lords", 
+    "description": "Witness the stories of history's most notorious kingpins, their terrifying enforcers, and the men and women who've sworn to bring them down.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1516320000"
+},
+{
+    "title": "Drugs, Inc.", 
+    "description": "This absorbing documentary series follows the entire supply chain of the illicit drug trade, tracing its production, export, sale and consumption.", 
+    "actors": "Mike Secher", 
+    "director": "", 
+    "imdb_rating": "8.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1458000000"
+},
+{
+    "title": "Due\u00f1os del para\u00edso", 
+    "description": "When Anastasia Cardona's drug lord husband is murdered, she inherits his cocaine empire, leading to a life of wealth, power, violence and betrayal.", 
+    "actors": "Kate del Castillo, Jorge Zabaleta, Jos\u00e9 Mar\u00eda Torre, Tony Dalton", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1440460800"
+},
+{
+    "title": "Durarara!!X2", 
+    "description": "Six months after turmoil rocked the city of Ikebukuro, peace has returned. But the headless Celty still rides, and a new scheme is afoot.", 
+    "actors": "Miyuki Sawashiro, Toshiyuki Toyonaga, Mamoru Miyano, Kana Hanazawa", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Anime Series", 
+    "date_released": "1444348800"
+},
+{
+    "title": "Dynasty", 
+    "description": "The Carringtons and the Colbys feud for control over their fortune -- and their children -- in this updated reboot of the classic prime-time soap.", 
+    "actors": "Elizabeth Gillies, Nathalie Kelley, Grant Show, James Mackay", 
+    "director": "", 
+    "imdb_rating": "6.6/10", 
+    "category": "TV Dramas", 
+    "date_released": "1526688000"
+}
+]
