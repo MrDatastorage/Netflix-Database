@@ -1,1 +1,110 @@
-[]
+[
+{
+    "title": "Kardashian: The Man Who Saved O.J. Simpson", 
+    "description": "After O.J. Simpson was arrested for murder, some believe his attorney and confidant Robert Kardashian destroyed a bag of damning evidence.", 
+    "actors": "Roger Leopardi", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1496275200"
+},
+{
+    "title": "Karl Marx City", 
+    "description": "A documentarian returns to her formerly East German hometown to investigate her father's suicide and whether he collaborated with the secret police.", 
+    "actors": "Petra Epperlein", 
+    "director": "Petra Epperlein, Michael Tucker", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Keith Richards: Under the Influence", 
+    "description": "In a documentary with unparalleled access, discover the people and sounds that inspired rock 'n' roll legend Keith Richards from childhood to today.", 
+    "actors": "Keith Richards", 
+    "director": "Morgan Neville", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1442534400"
+},
+{
+    "title": "Ken Burns: The Civil War", 
+    "description": "Ken Burns's documentary depicts the action of famous Civil War battles, and relates the stories of soldiers, generals and a beleaguered president.", 
+    "actors": "Sam Waterston, Julie Harris, Jason Robards, Morgan Freeman", 
+    "director": "Ken Burns", 
+    "imdb_rating": "8.9/10", 
+    "category": "Docuseries", 
+    "date_released": "1487721600"
+},
+{
+    "title": "Ken Burns: The Roosevelts: An Intimate History", 
+    "description": "Award-winning documentarian Burns profiles three members of one of America's premier political families: Theodore, Franklin and Eleanor Roosevelt.", 
+    "actors": "", 
+    "director": "Ken Burns", 
+    "imdb_rating": "8.7/10", 
+    "category": "Docuseries", 
+    "date_released": "1487721600"
+},
+{
+    "title": "Ken Burns: The West", 
+    "description": "Historian Ken Burns and his team bring to life the challenges Americans faced in the 19th century as they embarked on westward expansion.", 
+    "actors": "Peter Coyote", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1487721600"
+},
+{
+    "title": "Killer Legends", 
+    "description": "The origins of four terrifying urban legends are examined on a spine-chilling journey into the true crimes that may have inspired them.", 
+    "actors": "Joshua Zeman, Rachel Mills", 
+    "director": "Joshua Zeman", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1514505600"
+},
+{
+    "title": "Killswitch", 
+    "description": "Hackers Aaron Swartz and Edward Snowden took on the world's most powerful interests. Is their work a cautionary tale -- or will it spark a revolution?", 
+    "actors": "Edward Snowden, Lawrence Lessig, Tim Wu, Peter Ludlow", 
+    "director": "Ali Akbarzadeh", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1481587200"
+},
+{
+    "title": "Kingdom of Us", 
+    "description": "A father's suicide sends a family of eight on a journey through childhood memories and treacherous emotional waters in this poignant documentary.", 
+    "actors": "", 
+    "director": "Lucy Cohen", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1507852800"
+},
+{
+    "title": "KKK: The Fight for White Supremacy", 
+    "description": "Members of the Ku Klux Klan speak openly about their supremacist ideology and how they believe white Americans must prepare for a race war.", 
+    "actors": "Dan Murdoch", 
+    "director": "Dan Murdoch", 
+    "imdb_rating": "5.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1509667200"
+},
+{
+    "title": "Knocking on Heaven's Door", 
+    "description": "Behind Yuri Gagarin's triumphant 1961 space flight lies the fascinating tale of a reclusive mystic, a struggling teen and a quest for immortality.", 
+    "actors": "", 
+    "director": "George Carey", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Koko: The Gorilla Who Talks", 
+    "description": "Witness the incredible, decades-long friendship between Koko the gorilla and Penny Patterson, who taught Koko to communicate via sign language.", 
+    "actors": "Demetri Goritsas", 
+    "director": "Jonathan Taylor", 
+    "imdb_rating": "7.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1488326400"
+}
+]
