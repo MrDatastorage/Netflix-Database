@@ -1,1 +1,164 @@
-[]
+[
+{
+    "title": "Danny Says", 
+    "description": "This documentary profiles eccentric publicist Danny Fields, who helped launch the careers of innovative new artists who would become musical icons.", 
+    "actors": "Danny Fields, Iggy Pop, Alice Cooper, Judy Collins", 
+    "director": "Brendan Toller", 
+    "imdb_rating": "6.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1488412800"
+},
+{
+    "title": "Daughters of Destiny", 
+    "description": "Five girls from India's most impoverished families attend a boarding school designed to create opportunities as they strive for a brighter future.", 
+    "actors": "", 
+    "director": "Vanessa Roth", 
+    "imdb_rating": "8.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1501200000"
+},
+{
+    "title": "David Blaine: Real or Magic?", 
+    "description": "Daredevil illusionist David Blaine visits Harrison Ford and other celebrities in their homes and performs feats of mind-bendingly impossible magic.", 
+    "actors": "David Blaine", 
+    "director": "Matthew Akers", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1477958400"
+},
+{
+    "title": "David Blaine: Street Magic", 
+    "description": "Renowned magician David Blaine performs illusions and tricks up close in street performances that awe and amaze his in-person, on-the-ground audience.", 
+    "actors": "David Blaine", 
+    "director": "", 
+    "imdb_rating": "6.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1480550400"
+},
+{
+    "title": "David Blaine: What Is Magic?", 
+    "description": "David Blaine travels the country wowing audiences with mind-bending magic tricks, from making cards vanish to catching a speeding bullet in his mouth.", 
+    "actors": "David Blaine", 
+    "director": "David Blaine", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1475798400"
+},
+{
+    "title": "De Palma", 
+    "description": "Iconoclastic film director Brian DePalma takes a look back at the production of such classic movies as \"Carrie,\" \"Scarface\" and \"The Untouchables.\"", 
+    "actors": "Brian De Palma", 
+    "director": "Noah Baumbach, Jake Paltrow", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1542758400"
+},
+{
+    "title": "Death Row Dogs", 
+    "description": "Delve into issues surrounding dangerous dogs, including attacks on humans, criminals who run fighting rings and police efforts to curb problems.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "Decanted.", 
+    "description": "This lyrical documentary spotlights the vineyard-rich region of Napa Valley, California, and the winemakers who call it home.", 
+    "actors": "", 
+    "director": "Nick Kovacic", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Decoding Desire", 
+    "description": "Scientists explore the sexual behavior of animals like rats and peacocks before looking at how desire works in male and female humans.", 
+    "actors": "", 
+    "director": "Ryszard Hunka", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1480550400"
+},
+{
+    "title": "Defying the Nazis: The Sharps' War", 
+    "description": "This film documents the story of minister Waitstill Sharp and his wife, Martha, who risked everything to save thousands of refugees fleeing the Nazis.", 
+    "actors": "Tom Hanks, Marina Goldman", 
+    "director": "Ken Burns, Artemis Joukowsky", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Diana: 7 Days That Shook the World", 
+    "description": "This illuminating documentary examines the aftermath of Princess Diana\u2019s tragic death and the tense, dramatic week leading up to her funeral.", 
+    "actors": "James D'Arcy", 
+    "director": "Ben Ryder", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1501200000"
+},
+{
+    "title": "Discovering Bigfoot", 
+    "description": "Follow Todd Standing, Dr. Jeff Meldrum and other researchers into the wilderness, where they try to capture definitive proof of Sasquatch's existence.", 
+    "actors": "Todd Standing", 
+    "director": "Todd Standing", 
+    "imdb_rating": "5.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1513296000"
+},
+{
+    "title": "Disturbing the Peace", 
+    "description": "This documentary follows former Palestinian and Israeli soldiers, tired of endless war, who form a group advocating peace through nonviolent action.", 
+    "actors": "", 
+    "director": "Stephen Apkon, Andrew Young", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1496793600"
+},
+{
+    "title": "Dogs", 
+    "description": "These six intimate stories explore the abiding emotional bonds that form between dogs and their caregivers, no matter the circumstances.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1542326400"
+},
+{
+    "title": "Down The Fence", 
+    "description": "The human-equine bond propels the unique and challenging sport of reined cow horse, in which dedicated trainers compete for the national championship.", 
+    "actors": "", 
+    "director": "M.J. Isakson", 
+    "imdb_rating": "8.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1515974400"
+},
+{
+    "title": "Dream Big: Engineering Our World", 
+    "description": "Narrated by Jeff Bridges, this compelling documentary examines some incredible achievements of engineering from across the globe.", 
+    "actors": "Jeff Bridges", 
+    "director": "Greg MacGillivray", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1530403200"
+},
+{
+    "title": "Drunk Stoned Brilliant Dead: The Story of the National Lampoon", 
+    "description": "\"National Lampoon\" was born in the '70s to poke fun at the establishment and everything else. This documentary celebrates those who formed its legacy.", 
+    "actors": "", 
+    "director": "Douglas Tirola", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1485043200"
+},
+{
+    "title": "Dying to Know: Ram Dass & Timothy Leary", 
+    "description": "Icons of '60s counterculture, Harvard psychologists Timothy Leary and Ram Dass became estranged until an illness inspired their fascinating reunion.", 
+    "actors": "Timothy Leary, Ram Dass", 
+    "director": "Gay Dillingham", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1503964800"
+}
+]

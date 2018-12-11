@@ -1,1 +1,866 @@
-[]
+[
+{
+    "title": "Take Your Pills", 
+    "description": "In a hypercompetitive world, drugs like Adderall offer students, athletes, coders and others a way to do more -- faster and better. But at what cost?", 
+    "actors": "", 
+    "director": "Alison Klayman", 
+    "imdb_rating": "6.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1521158400"
+},
+{
+    "title": "Teach Us All", 
+    "description": "It's been decades since Brown v. Board of Education, yet American schools remain largely segregated. Some leaders are working to change that.", 
+    "actors": "", 
+    "director": "Sonia Lowman", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1506297600"
+},
+{
+    "title": "Terms and Conditions May Apply", 
+    "description": "Through interviews with technology thought leaders and futurists, this timely documentary examines the erosion of privacy in the digital age.", 
+    "actors": "", 
+    "director": "Cullen Hoback", 
+    "imdb_rating": "7.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Testing the Menu", 
+    "description": "Acclaimed chef Nic Watt creates, then tweaks, recipes for his Auckland restaurant by asking ordinary people on the street to give them the taste test.", 
+    "actors": "Nic Watt", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1473379200"
+},
+{
+    "title": "The 100 Years Show", 
+    "description": "This documentary profiles abstract minimalist pioneer Carmen Herrera as she enjoys artistic success and fame that literally took a lifetime to happen.", 
+    "actors": "Carmen Herrera", 
+    "director": "Alison Klayman", 
+    "imdb_rating": "7.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1474156800"
+},
+{
+    "title": "The Alps Murders", 
+    "description": "This investigative documentary sheds light on the baffling 2012 cold-blooded slaying of a British family and a local cyclist in the French Alps.", 
+    "actors": "", 
+    "director": "Max Jourdan", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "The American Dream Project", 
+    "description": "A British ex-pat New Yorker and his American buddy take a motorcycle journey across the U.S. to see if the spirit of American optimism still exists.", 
+    "actors": "James Michael Terrance Marshall, Todd Williams", 
+    "director": "", 
+    "imdb_rating": "5.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1477008000"
+},
+{
+    "title": "The Armor of Light", 
+    "description": "In this documentary, a conservative minister attempts to coax his followers to consider America's gun culture through a moral lens.", 
+    "actors": "", 
+    "director": "Abigail Disney, Kathleen Hughes", 
+    "imdb_rating": "3.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1467849600"
+},
+{
+    "title": "The Art of Organized Noize", 
+    "description": "This documentary charts the rise of Organized Noize, the influential producers behind megahits from Outkast, Goodie Mob, TLC and more.", 
+    "actors": "Sleepy Brown, Raymond Murray, Rico Wade", 
+    "director": "Quincy Jones III", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1458604800"
+},
+{
+    "title": "The B-Side: Elsa Dorfman's Portrait Photography", 
+    "description": "Filmmaker Errol Morris probes the life, work and studio of his pal Elsa Dorfman, a Polaroid photographer who's shot luminaries and regular folk alike.", 
+    "actors": "Elsa Dorfman", 
+    "director": "Errol Morris", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1509408000"
+},
+{
+    "title": "The Bad Kids", 
+    "description": "In this documentary, teachers at a Mojave Desert high school adhere to a belief that compassion and life skills can profoundly help at-risk students.", 
+    "actors": "", 
+    "director": "Keith Fulton, Louis Pepe", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "The Black Panthers: Vanguard of the Revolution", 
+    "description": "Police informants, journalists, supporters and detractors contribute to this documentary look at the history of the controversial Black Panther Party.", 
+    "actors": "", 
+    "director": "Stanley Nelson", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1493596800"
+},
+{
+    "title": "The Bleeding Edge", 
+    "description": "This eye-opening look at the fast-growing medical device industry reveals how the rush to innovate can lead to devastating consequences for patients.", 
+    "actors": "", 
+    "director": "Kirby Dick", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1532649600"
+},
+{
+    "title": "The Bomb", 
+    "description": "Form, montage and mesmerizing kinetics propel this experimental meditation on the destructive power of the nuclear bomb, featuring music by The Acid.", 
+    "actors": "", 
+    "director": "Kevin Ford, Smriti Keshari", 
+    "imdb_rating": "6.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1501545600"
+},
+{
+    "title": "The C Word", 
+    "description": "To solve the mystery of cancer, challenging the status quo is a must. Witness how lifestyle and societal changes may help beat the disease.", 
+    "actors": "Morgan Freeman", 
+    "director": "Meghan O'Hara", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1490313600"
+},
+{
+    "title": "The Champions", 
+    "description": "This documentary follows the pit bulls that are rescued from the dogfighting ring of NFL quarterback Michael Vick and given a second chance at life.", 
+    "actors": "", 
+    "director": "Darcy Dennett", 
+    "imdb_rating": "7.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1462060800"
+},
+{
+    "title": "The Doors: When You're Strange", 
+    "description": "Composed entirely of footage from 1966 to 1971, this documentary pays tribute to the Doors and their music, revealing many new insights into the band.", 
+    "actors": "Johnny Depp, Jim Morrison, John Densmore, Robby Krieger", 
+    "director": "Tom DiCillo", 
+    "imdb_rating": "7.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1509494400"
+},
+{
+    "title": "The Eccentrics", 
+    "description": "This series profiles a selection of unique and fascinating individuals from around the world, exploring what exactly makes them who they are.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1485907200"
+},
+{
+    "title": "The Eighties", 
+    "description": "This nostalgic documentary series relives the 1980s from a variety of angles, exploring its impact on the politics, technology and culture of today.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.4/10", 
+    "category": "Docuseries", 
+    "date_released": "1538265600"
+},
+{
+    "title": "The Farthest: Voyager in Space", 
+    "description": "This documentary chronicles NASA's 1977 launch of twin space probes, sent to capture images of remote planets and bear messages from Earth.", 
+    "actors": "", 
+    "director": "Emer Reynolds", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1512086400"
+},
+{
+    "title": "The Fighting Season", 
+    "description": "This documentary series goes to the front lines in Afghanistan, where the U.S. Army is working together with Afghan soldiers to defeat the Taliban.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1514678400"
+},
+{
+    "title": "The First Monday in May", 
+    "description": "Art and celebrity power this documentary that delves behind the scenes of 2015's China-themed Met Gala, the fashion world's most dynamic annual event.", 
+    "actors": "", 
+    "director": "Andrew Rossi", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "The First World War From Above", 
+    "description": "Aerial footage from 1919 captures the battlefields of World War I, revealing the destruction and devastation inflicted across Europe.", 
+    "actors": "Fergal Keane", 
+    "director": "Mark Radice", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "The Force", 
+    "description": "This documentary follows the police of Oakland, California, as they reform and face the challenges of corruption, commitment and cataclysmic change.", 
+    "actors": "", 
+    "director": "Peter Nicks", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1517184000"
+},
+{
+    "title": "The Game 365", 
+    "description": "TV broadcaster and former baseball player Fran Healy interviews icons from the world of sports about their time in the sun.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1526342400"
+},
+{
+    "title": "The Girl Whose Muscles are Turning to Bone", 
+    "description": "Few people are as courageous as young Luciana Wulken, a 7-year-old who must fight an extremely rare condition that turns her muscles to bone.", 
+    "actors": "", 
+    "director": "Virginia Quinn", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1496275200"
+},
+{
+    "title": "The Hard Stop", 
+    "description": "This documentary takes a big-picture look at the death of a black man killed during a 2011 arrest in Tottenham that ignited riots throughout England.", 
+    "actors": "", 
+    "director": "George Amponsah", 
+    "imdb_rating": "5.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "The Heart of Man", 
+    "description": "A retelling of the prodigal son parable interspersed with true stories from people who've dealt with personal shame over perceived moral failings.", 
+    "actors": "", 
+    "director": "Eric Esau", 
+    "imdb_rating": "8.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1518652800"
+},
+{
+    "title": "The House on Coco Road", 
+    "description": "This film chronicles the journey of Fannie Haughton, an Oakland activist who fled to Grenada with her family just prior to the U.S. invasion in 1983.", 
+    "actors": "", 
+    "director": "Damani Baker", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1498780800"
+},
+{
+    "title": "The Hunting Ground", 
+    "description": "This expos\u00e9 tackles the disturbing epidemic of sexual assault on college campuses and school officials' efforts to cover up the crimes.", 
+    "actors": "", 
+    "director": "Kirby Dick", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1457913600"
+},
+{
+    "title": "The Ivory Game", 
+    "description": "Filmmakers infiltrate the corrupt global network of ivory trafficking, exposing poachers and dealers as African elephants edge closer to extinction.", 
+    "actors": "", 
+    "director": "Kief Davidson, Richard Ladkani", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1478217600"
+},
+{
+    "title": "The Last Laugh", 
+    "description": "Comedians, writers and entertainment icons discuss whether it's ever permissible to joke about horrible tragedies like the Holocaust, AIDS and 9/11.", 
+    "actors": "", 
+    "director": "Ferne Pearlstein", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1529798400"
+},
+{
+    "title": "The Last Man on the Moon", 
+    "description": "Astronaut Gene Cernan looks back on the exciting history of NASA's lunar landings and how being the last man to stand on the moon changed his life.", 
+    "actors": "Eugene Cernan", 
+    "director": "Mark Craig", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1464220800"
+},
+{
+    "title": "The Last Secrets of 9/11", 
+    "description": "With more than a thousand victims of 9/11 still missing, forensic teams continue their work to identify remains and bring closure to the families.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "4.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1519862400"
+},
+{
+    "title": "The Legend of 420", 
+    "description": "This documentary explores the growing trend of marijuana decriminalization in the U.S. and the use of cannabis in medicine, art, fine dining and more.", 
+    "actors": "", 
+    "director": "Peter Spirer", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1512086400"
+},
+{
+    "title": "The Lion in Your Living Room", 
+    "description": "Experts travel the world to explore the enigmas of the common house cat, from its history of domestication to the science behind its purring.", 
+    "actors": "", 
+    "director": "Donna Zuckerbrot", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1477958400"
+},
+{
+    "title": "The Magic of Mushrooms", 
+    "description": "Not merely a pizza topping, mushrooms play a vital role in the world, which is revealed in this nature program hosted by professor Richard Fortey.", 
+    "actors": "Richard Fortey", 
+    "director": "Russell Leven", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1509667200"
+},
+{
+    "title": "The Magic Pill", 
+    "description": "Doctors, farmers, chefs and others weigh in on the controversial ketogenic diet and its potential to eradicate common illnesses.", 
+    "actors": "Pete Evans, William Davis", 
+    "director": "Robert Tate", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1524528000"
+},
+{
+    "title": "The Making of VGHS: The Behind the Scenes Feature Documentary", 
+    "description": "Go behind the scenes to learn how \"Video Game High School\" was made and enjoy special interviews with the cast and crew. Get Schooled!", 
+    "actors": "Josh Blaylock, Johanna Braddy, Brian Firenzi, Ellary Porterfield", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1385337600"
+},
+{
+    "title": "The Man Who Killed Richard III", 
+    "description": "Evidence reveals Sir Rhys ap Thomas of Wales may have dealt the fatal blow to England's King Richard III that paved the way for the Tudor monarchy.", 
+    "actors": "", 
+    "director": "W. Dyfrig Davies", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "The Man Who Would Be Polka King", 
+    "description": "This irreverent documentary reveals how charming entertainer Jan Lewan bilked investors out of millions in a complicated investment scam.", 
+    "actors": "Jan Lewan, Greg Korin", 
+    "director": "John Mikulak, Joshua Brown", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1515715200"
+},
+{
+    "title": "The Mars Generation", 
+    "description": "Self-professed teenage \"space nerds\" at Space Camp chase their dreams of traveling to Mars, while experts reflect on NASA's history and future.", 
+    "actors": "Neil deGrasse Tyson, Bill Nye, Michio Kaku", 
+    "director": "Michael Barnett", 
+    "imdb_rating": "7.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1493942400"
+},
+{
+    "title": "The Meaning of Monty Python", 
+    "description": "Five Pythons reflect on their creative process, politics, television and the making of their award-winning final film, \"The Meaning of Life.\"", 
+    "actors": "", 
+    "director": "Albert Sharpe", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1538438400"
+},
+{
+    "title": "The Messenger", 
+    "description": "This documentary looks at the history of songbirds and speculates on what losing this imperiled species could mean for humanity.", 
+    "actors": "", 
+    "director": "Su Rynard", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1462233600"
+},
+{
+    "title": "The Mind of a Chef", 
+    "description": "Producer and narrator Anthony Bourdain explores the creative processes of international celebrity chefs to learn what fuels their culinary artistry.", 
+    "actors": "Anthony Bourdain, David Chang, Sean Brock, April Bloomfield", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1487721600"
+},
+{
+    "title": "The Mitfords: A Tale of Two Sisters", 
+    "description": "Jessica and Diana were sisters who were separated by just a few years in age. But their political ideologies couldn't have been any farther apart.", 
+    "actors": "Rachael Stirling", 
+    "director": "Edward Cotterill", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1496275200"
+},
+{
+    "title": "The Mortified Guide", 
+    "description": "Brave people get onstage to read hilarious and humiliating tales of gawky teenage love, family dysfunction and other stories from their younger years.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1518566400"
+},
+{
+    "title": "The Most Unknown", 
+    "description": "Traversing disciplines from physics to psychology, nine scientists share ideas and seek common ground by delving into deep existential questions.", 
+    "actors": "", 
+    "director": "Ian Cheney", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1533772800"
+},
+{
+    "title": "The Naked Truth", 
+    "description": "Investigative journalists tackle complex and under-reported subjects ranging from online extortion to fentanyl addiction and partisan gerrymandering.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1516579200"
+},
+{
+    "title": "The Nineties", 
+    "description": "This U.S.-focused series dives into the cultural and political changes that swept the last decade of the 20th century. Executive produced by Tom Hanks.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1538265600"
+},
+{
+    "title": "The Other One: The Long Strange Trip of Bob Weir", 
+    "description": "This chronicle of Bob Weir highlights his brotherhood with Jerry Garcia and his success as a member of one of the world's most influential bands.", 
+    "actors": "Bob Weir", 
+    "director": "Mike Fleiss", 
+    "imdb_rating": "6.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1432252800"
+},
+{
+    "title": "The Paedophile Next Door", 
+    "description": "Calling for action where legislation has failed, this topical film explores alternative strategies for keeping kids safe from sexual predators.", 
+    "actors": "Steve Humphries", 
+    "director": "Rudolph Herzog, Steve Humphries", 
+    "imdb_rating": "6.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "The Pixar Story", 
+    "description": "Go behind the scenes at Pixar Animation Studios with this Emmy-nominated documentary tracing the creation and history of the groundbreaking company.", 
+    "actors": "Stacy Keach", 
+    "director": "Leslie Iwerks", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1542499200"
+},
+{
+    "title": "The Power of Grayskull: The Definitive History of He-Man and the Masters of the Universe", 
+    "description": "This colorful documentary explores the origins and impact of He-Man, a character whose power stretched well beyond a toy line and children's TV show.", 
+    "actors": "", 
+    "director": "Randall Lobb, Robert McCallum", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1535068800"
+},
+{
+    "title": "The Rachel Divide", 
+    "description": "Rachel Dolezal, her family and her critics reckon with the aftermath of a national debate sparked by questions about her racial identity.", 
+    "actors": "", 
+    "director": "Laura Brownson", 
+    "imdb_rating": "6.2/10", 
+    "category": "Documentaries", 
+    "date_released": "1524787200"
+},
+{
+    "title": "The Real Death Star", 
+    "description": "This documentary examines theories behind the creation of gamma ray bursts, destructive explosions in space that can wipe out entire star systems.", 
+    "actors": "", 
+    "director": "David McNab", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "The Real Sleeping Beauty", 
+    "description": "A medical miracle is chronicled in this documentary about a woman who shocks experts when she awakens from a 20-year coma with the power of speech.", 
+    "actors": "", 
+    "director": "Liz Friend", 
+    "imdb_rating": "6.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1496275200"
+},
+{
+    "title": "The Real Texas Chainsaw Massacre", 
+    "description": "Working on a tip, police start to unravel the case of a British former mental patient who hoarded guns and may have links to a famous Texas crime.", 
+    "actors": "Sean Barrett", 
+    "director": "Andrew Mackenzie-Betty", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1470009600"
+},
+{
+    "title": "The Return", 
+    "description": "This film examines the many challenges of reintegration faced by convicts and their families after a new law mandates the prisoners' early release.", 
+    "actors": "", 
+    "director": "Kelly Duane, Katie Galloway", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1485907200"
+},
+{
+    "title": "The Road Trick", 
+    "description": "Illusionist Adam Trent uses magic as a bridge between cultures as he crosses Europe, connecting with locals and seeking out one-of-a-kind experiences.", 
+    "actors": "Adam Trent", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1529020800"
+},
+{
+    "title": "The Russian Revolution", 
+    "description": "Starting in 1881, this film describes how the personal battle between the royal Romanovs and Lenin's Ulyanov family led to the Russian Revolution.", 
+    "actors": "Jonathan Kydd", 
+    "director": "Cal Seville", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1497484800"
+},
+{
+    "title": "The Search for Life in Space", 
+    "description": "To determine whether we're alone in the universe, astrobiologists look to Jupiter, Mars and, closer to home, extreme environments on Earth.", 
+    "actors": "", 
+    "director": "Stephen Amezdroz", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1522540800"
+},
+{
+    "title": "The Search For Life: The Drake Equation", 
+    "description": "In 1961, American astrophysicist Frank Drake transformed attitudes about the search for extraterrestrial life by writing a revolutionary equation.", 
+    "actors": "Dallas Campbell", 
+    "director": "Tim Usborne", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1454284800"
+},
+{
+    "title": "The Secret", 
+    "description": "An assembly of writers, philosophers and scientists share The Secret, which reputedly brought success to Plato, da Vinci, Einstein and other greats.", 
+    "actors": "", 
+    "director": "Drew Heriot", 
+    "imdb_rating": "5.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1465344000"
+},
+{
+    "title": "The Secret Rules of Modern Living: Algorithms", 
+    "description": "In this documentary, mathematics professor Marcus Du Sautoy reveals the hidden world of algorithms and how these 2,000-year-old problem solvers work.", 
+    "actors": "Marcus du Sautoy", 
+    "director": "David Briggs", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "The Seven Five", 
+    "description": "This riveting film examines the case of Mike Dowd, a corrupt Brooklyn cop who became dirtier than the drug dealers he was supposed to be policing.", 
+    "actors": "", 
+    "director": "Tiller Russell", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1492128000"
+},
+{
+    "title": "The Seventies", 
+    "description": "This series examines 1970s America, focusing on the major political and historical landmarks of the decade and the cultural response to those events.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "8.3/10", 
+    "category": "Docuseries", 
+    "date_released": "1538265600"
+},
+{
+    "title": "The Skyjacker's Tale", 
+    "description": "Years after hijacking a plane full of passengers and seeking asylum in Cuba, a convicted mass murderer still refuses to call himself a criminal.", 
+    "actors": "", 
+    "director": "Jamie Kastner", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1507593600"
+},
+{
+    "title": "The Strange Name Movie", 
+    "description": "Ordinary people with extraordinary names open up about the ridicule, judgment and rewards that come with having an attention-grabbing moniker.", 
+    "actors": "", 
+    "director": "Richard Tilkin", 
+    "imdb_rating": "5.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1525132800"
+},
+{
+    "title": "The Surrounding Game", 
+    "description": "Teens in America dedicate themselves to the Asian game of Go, which originated in ancient China, drawing meaningful life lessons along the way.", 
+    "actors": "", 
+    "director": "Will Lockhart, Cole D. Pruitt", 
+    "imdb_rating": "8.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1535587200"
+},
+{
+    "title": "The Testimony", 
+    "description": "This short film chronicles the largest rape trial in Congo's history, in which soldiers stood accused of a brutal rampage against their own citizens.", 
+    "actors": "", 
+    "director": "Vanessa Block", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "The Tigers of Scotland", 
+    "description": "This documentary highlights the endangered existence of the Scottish wildcats, and the conservation efforts required to prevent their extinction.", 
+    "actors": "Iain Glen", 
+    "director": "Leanne Gater", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1541030400"
+},
+{
+    "title": "The Toys That Made Us", 
+    "description": "The minds behind history's most iconic toy franchises discuss the rise -- and sometimes fall -- of their billion-dollar creations.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.8/10", 
+    "category": "Docuseries", 
+    "date_released": "1513900800"
+},
+{
+    "title": "The True Cost", 
+    "description": "The links between consumer pressure for low-cost high fashion and the meager existences of the sweatshop workers who produce those goods are explored.", 
+    "actors": "", 
+    "director": "Andrew Morgan", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1437091200"
+},
+{
+    "title": "The Vietnam War: A Film by Ken Burns and Lynn Novick", 
+    "description": "Ken Burns and Lynn Novick present an epic chronicle of the Vietnam War, featuring the soldiers, protesters, politicians and families who lived it.", 
+    "actors": "", 
+    "director": "Ken Burns, Lynn Novick", 
+    "imdb_rating": "8.2/10", 
+    "category": "Docuseries", 
+    "date_released": "1529452800"
+},
+{
+    "title": "The War: A Film by Ken Burns and Lynn Novick", 
+    "description": "A seven-part series brings World War II to life through the harrowing personal accounts of soldiers and others from \"typical\" American towns.", 
+    "actors": "Keith David", 
+    "director": "", 
+    "imdb_rating": "8.1/10", 
+    "category": "Docuseries", 
+    "date_released": "1487721600"
+},
+{
+    "title": "The White Helmets", 
+    "description": "As daily airstrikes pound civilian targets in Syria, a group of indomitable first responders risk their lives to rescue victims from the rubble.", 
+    "actors": "", 
+    "director": "Orlando von Einsiedel", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1473984000"
+},
+{
+    "title": "The Wildebeest Migration", 
+    "description": "This documentary captures one of nature's most dramatic events: the perilous 2,000-mile annual migration of African wildebeests across the Serengeti.", 
+    "actors": "Richard E. Grant", 
+    "director": "Julian Thomas", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "The Woman with 7 Personalities", 
+    "description": "A woman reconnects with a friend who has seven distinct personalities, while also consulting with psychological experts about the rare condition.", 
+    "actors": "", 
+    "director": "Ruth Selwyn", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1496275200"
+},
+{
+    "title": "The Woman with No Face", 
+    "description": "When a rare form of cancer ravages her face, young model Tambu Makinzi undergoes groundbreaking surgery to have the giant tumor removed.", 
+    "actors": "James Thornton", 
+    "director": "Myles Judd", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Theater of Life", 
+    "description": "This documentary follows chef Massimo Bottura as he opens a soup kitchen to cook gourmet meals for the needy from food waste at the 2015 Milan Expo.", 
+    "actors": "Massimo Bottura", 
+    "director": "Peter Svatek", 
+    "imdb_rating": "6.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1500336000"
+},
+{
+    "title": "Theo Who Lived", 
+    "description": "American journalist Theo Padnos retraces the Middle Eastern journey that led to his 2012 kidnapping and brutal torture by an al-Qaida faction.", 
+    "actors": "", 
+    "director": "David Shisgall", 
+    "imdb_rating": "7.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1481846400"
+},
+{
+    "title": "They Shall Not Perish: The Story of Near East Relief", 
+    "description": "In the early 20th century, selfless Americans from many walks of life came together to save the lives of refugees in the wake of Armenian genocide.", 
+    "actors": "Victor Garber", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1514678400"
+},
+{
+    "title": "They\u2019ll Love Me When I\u2019m Dead", 
+    "description": "Actors, crew members and others who were there discuss the tumultuous creation of Orson Welles's final, unfinished film, \u201cThe Other Side of the Wind.\u201d", 
+    "actors": "Orson Welles, Alan Cumming", 
+    "director": "Morgan Neville", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1541116800"
+},
+{
+    "title": "This Is the Life", 
+    "description": "Examine how the group of alternative hip-hop artists known as the Good Lifers started a movement and created a robust, progressive musical community.", 
+    "actors": "Abstract Rude, Chali 2na, Cut Chemist, Ellay Khule", 
+    "director": "Ava DuVernay", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1481760000"
+},
+{
+    "title": "Time: The Kalief Browder Story", 
+    "description": "This series traces the tragic case of Kalief Browder, a Bronx teen who spent three horrific years in jail, despite never being convicted of a crime.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "Docuseries", 
+    "date_released": "1505433600"
+},
+{
+    "title": "To Be a Miss", 
+    "description": "Explore how the media and nationalism have fueled Venezuela's passion for physical appearance and the multibillion-dollar beauty pageant industry.", 
+    "actors": "", 
+    "director": "Edward Ellis, Flor Salcedo", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1483228800"
+},
+{
+    "title": "Tony Robbins: I Am Not Your Guru", 
+    "description": "Tony Robbins' clients swear by his unorthodox life coaching methods. A revealing film goes behind the curtain at his annual mega-event.", 
+    "actors": "Tony Robbins", 
+    "director": "Joe Berlinger", 
+    "imdb_rating": "6.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1468540800"
+},
+{
+    "title": "Tower", 
+    "description": "Combining archival footage, animation and interviews, this innovative film explores the 1966 mass shooting from the University of Texas's clock tower.", 
+    "actors": "Violett Beane, Louie Arnette, Blair Jackson, Monty Muir", 
+    "director": "Keith Maitland", 
+    "imdb_rating": "7.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1491004800"
+},
+{
+    "title": "Travis: A Soldier's Story", 
+    "description": "After Army Staff Sgt. Travis Mills loses his limbs while serving in Afghanistan, he begins a courageous battle to rebuild his life at home.", 
+    "actors": "Travis Mills", 
+    "director": "Jonathon Link", 
+    "imdb_rating": "9.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Tree Man", 
+    "description": "Entrepreneurs from Vermont and Quebec sell Christmas trees on the streets of New York, becoming a cherished part of neighborhood holiday traditions.", 
+    "actors": "", 
+    "director": "Jon Reiner, Brad Rothschild", 
+    "imdb_rating": "6.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1477958400"
+},
+{
+    "title": "Tricked", 
+    "description": "This in-depth documentary examines all sides of America's sex-trafficking trade, which destroys lives as it generates $3 billion a year.", 
+    "actors": "", 
+    "director": "John Keith Wasson, Jane Wells", 
+    "imdb_rating": "6.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1426377600"
+},
+{
+    "title": "Trophy", 
+    "description": "This documentary explores the tensions between the lucrative big-game hunting business and wildlife conservation from a variety of perspectives.", 
+    "actors": "", 
+    "director": "Shaul Schwarz, Christina Clusiau", 
+    "imdb_rating": "7.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1518480000"
+},
+{
+    "title": "Trump: An American Dream", 
+    "description": "Friends, associates and critics reveal the truly American story of Donald Trump, the brash businessman who defied the odds to become U.S. president.", 
+    "actors": "Donald Trump", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1522368000"
+},
+{
+    "title": "Truth and Power", 
+    "description": "This documentary series focuses on individuals and groups who expose freedom-crushing practices in private corporations and the government.", 
+    "actors": "Maggie Gyllenhaal", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1477958400"
+},
+{
+    "title": "Twinsters", 
+    "description": "This documentary chronicles the true story of a French fashion student who discovered via the Internet an identical twin she never knew existed.", 
+    "actors": "Samantha Futerman, Ana\u00efs Bordier", 
+    "director": "Samantha Futerman, Ryan Miyamoto", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1446336000"
+}
+]

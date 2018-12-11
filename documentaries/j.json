@@ -1,1 +1,128 @@
-[]
+[
+{
+    "title": "Jackie: A Tale of Two Sisters", 
+    "description": "Rachael Stirling narrates this multifaceted portrait of former First Lady Jacqueline Kennedy Onassis and her younger sister, Lee Radziwill.", 
+    "actors": "Rachael Stirling", 
+    "director": "Edward Cotterill", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1496275200"
+},
+{
+    "title": "Jeremiah Tower: The Last Magnificent", 
+    "description": "This documentary profiles influential chef Jeremiah Tower, who played a pivotal role in the invention of a revolutionary new American cuisine.", 
+    "actors": "Jeremiah Tower, Anthony Bourdain, Mario Batali, Ruth Reichl", 
+    "director": "Lydia Tenaglia", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1513728000"
+},
+{
+    "title": "Jeremy Scott: The People's Designer", 
+    "description": "The journey of fashion designer Jeremy Scott from humble roots on a Missouri farm to creative director of Moschino is charted in this documentary.", 
+    "actors": "Jeremy Scott", 
+    "director": "Vlad Yudin", 
+    "imdb_rating": "7.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "Jerry Seinfeld: Comedian", 
+    "description": "Christian Charles's documentary follows established comedian Jerry Seinfeld and up-and-comer Orny Adams as they navigate the stand-up circuit.", 
+    "actors": "Jerry Seinfeld, Orny Adams, Colin Quinn, Bill Cosby", 
+    "director": "Christian Charles", 
+    "imdb_rating": "6.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1510012800"
+},
+{
+    "title": "JFK: The Making of a President", 
+    "description": "Explore how John F. Kennedy's worldview was influenced by his younger years, when he endured poor health, family tragedy and a demanding father.", 
+    "actors": "", 
+    "director": "Edward Cotterill", 
+    "imdb_rating": "6.0/10", 
+    "category": "Documentaries", 
+    "date_released": "1493596800"
+},
+{
+    "title": "Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton", 
+    "description": "Through the lens of his stunningly immersive performance as Andy Kaufman, Jim Carrey ponders the meaning of life, reality, identity and career.", 
+    "actors": "Jim Carrey", 
+    "director": "Chris Smith", 
+    "imdb_rating": "7.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1510876800"
+},
+{
+    "title": "Jimi Hendrix: Voodoo Child", 
+    "description": "Vintage concert footage, personal artifacts and his intimate musings reveal the private side of the life and career of rock-guitar god Jimi Hendrix.", 
+    "actors": "Bootsy Collins", 
+    "director": "Bob Smeaton", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1479168000"
+},
+{
+    "title": "Jiro Dreams of Sushi", 
+    "description": "This documentary profiles sushi chef Jiro Ono, an 85-year-old master whose 10-seat, $300-a-plate restaurant is legendary among Tokyo foodies.", 
+    "actors": "Jiro Ono, Yoshikazu Ono", 
+    "director": "David Gelb", 
+    "imdb_rating": "7.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1542844800"
+},
+{
+    "title": "Joan Didion: The Center Will Not Hold", 
+    "description": "Literary icon Joan Didion reflects on her remarkable career and personal struggles in this intimate documentary directed by her nephew, Griffin Dunne.", 
+    "actors": "Joan Didion", 
+    "director": "Griffin Dunne", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1509062400"
+},
+{
+    "title": "John Mellencamp: Plain Spoken", 
+    "description": "Part concert film, part documentary, this is a self-narrated musical odyssey that paints an intimate portrait of the celebrated songwriter.", 
+    "actors": "John Mellencamp", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1517443200"
+},
+{
+    "title": "Joseph Campbell and the Power of Myth", 
+    "description": "Explore the mind and spirit of teacher and storyteller Joseph Campbell, who discusses the need for modern myths that fit our ever-changing world.", 
+    "actors": "Joseph Campbell, Bill Moyers", 
+    "director": "", 
+    "imdb_rating": "8.5/10", 
+    "category": "Docuseries", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Joshua: Teenager vs. Superpower", 
+    "description": "Mobilized by teenage activist Joshua Wong, young citizens of Hong Kong take to the streets in a bid to preserve their history of autonomy from China.", 
+    "actors": "", 
+    "director": "Joe Piscatella", 
+    "imdb_rating": "6.8/10", 
+    "category": "Documentaries", 
+    "date_released": "1495756800"
+},
+{
+    "title": "Jugaad", 
+    "description": "Following the stories of five diverse individuals, this documentary offers a glimpse into the indomitable tenacity of several Mumbai residents.", 
+    "actors": "", 
+    "director": "Susannah Heath-Eves", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1536969600"
+},
+{
+    "title": "Justin Bieber: Never Say Never", 
+    "description": "Teen idol Justin Bieber provides personal snapshots from throughout his career, culminating with scenes from his triumphant 2010 concert tour.", 
+    "actors": "Justin Bieber, Ludacris, Usher Raymond, Jaden Smith", 
+    "director": "Jon M. Chu", 
+    "imdb_rating": "4.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1514764800"
+}
+]

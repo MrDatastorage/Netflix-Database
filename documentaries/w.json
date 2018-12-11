@@ -1,1 +1,155 @@
-[]
+[
+{
+    "title": "Walk with Me", 
+    "description": "A community of monks in France led by Zen Buddhist master Thich Nhat Hanh offers an intimate glimpse into mindfulness practice and the monastic life.", 
+    "actors": "Benedict Cumberbatch, Thich Nhat Hanh", 
+    "director": "Marc Francis, Max Pugh", 
+    "imdb_rating": "5.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1514246400"
+},
+{
+    "title": "Warrior Women", 
+    "description": "Lucy Lawless hosts this five-episode documentary series about history's fiercest female fighters, from Joan of Arc to Apache combat tactician Lozen.", 
+    "actors": "Lucy Lawless", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1459468800"
+},
+{
+    "title": "Water & Power: A California Heist", 
+    "description": "California residents and farmers face powerful barons in the struggle to secure water rights in this fresh historical account of profit and interests.", 
+    "actors": "", 
+    "director": "Marina Zenovich", 
+    "imdb_rating": "7.3/10", 
+    "category": "Documentaries", 
+    "date_released": "1517443200"
+},
+{
+    "title": "Waterschool", 
+    "description": "Six young women, who each live near one of Earth's major rivers, share how the Waterschool environmental education program has impacted their lives.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1532476800"
+},
+{
+    "title": "We Are Twisted F***ing Sister!", 
+    "description": "Before achieving mainstream success in the 1980s, glam rock icons Twisted Sister spent years crafting their outrageous act in the New York club scene.", 
+    "actors": "Dee Snider, Mark Mendoza, Jay Jay French, Eddie Ojeda", 
+    "director": "Andrew Horn", 
+    "imdb_rating": "6.1/10", 
+    "category": "Documentaries", 
+    "date_released": "1461369600"
+},
+{
+    "title": "We Speak Dance", 
+    "description": "Trained dancer Vandana Hart travels the world to learn traditional and urban dance styles from the local experts who know them best.", 
+    "actors": "Vandana Hart", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Docuseries", 
+    "date_released": "1514764800"
+},
+{
+    "title": "What Happened, Miss Simone?", 
+    "description": "Using never-before-heard recordings, rare archival footage and her best-known songs, this is the story of legendary singer and activist Nina Simone.", 
+    "actors": "", 
+    "director": "Liz Garbus", 
+    "imdb_rating": "7.6/10", 
+    "category": "Documentaries", 
+    "date_released": "1435276800"
+},
+{
+    "title": "What the Health", 
+    "description": "This film examines the link between diet and disease, and the billions of dollars at stake in the healthcare, pharmaceutical and food industries.", 
+    "actors": "", 
+    "director": "Kip Andersen, Keegan Kuhn", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1497571200"
+},
+{
+    "title": "What We Started", 
+    "description": "DJs and industry insiders offer a backstage pass to the world of electronic dance music, reflecting on its radical origins and the future of the genre.", 
+    "actors": "", 
+    "director": "Bert Marcus, Cyrus Saidi", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1530403200"
+},
+{
+    "title": "White Right: Meeting the Enemy", 
+    "description": "To many, white supremacists embody hate in its purest form. One filmmaker decides to look past the rhetoric to see if a human connection is possible.", 
+    "actors": "", 
+    "director": "Deeyah Khan", 
+    "imdb_rating": "7.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1528329600"
+},
+{
+    "title": "Why Knot", 
+    "description": "Pressured by his traditional family to marry, a filmmaker explores the idea of monogamy and the possibility of lifelong union without sexual fidelity.", 
+    "actors": "", 
+    "director": "Dhruv Dhawan", 
+    "imdb_rating": "4.7/10", 
+    "category": "Documentaries", 
+    "date_released": "1508025600"
+},
+{
+    "title": "Why We Fight: The Battle of Russia", 
+    "description": "This installment of Frank Capra's acclaimed documentary series highlights the need for a Russo-American alliance to defeat the Nazis.", 
+    "actors": "", 
+    "director": "Frank Capra, Anatole Litvak", 
+    "imdb_rating": "6.4/10", 
+    "category": "Documentaries", 
+    "date_released": "1490918400"
+},
+{
+    "title": "Without Gorky", 
+    "description": "A filmmaker trains the camera on her own family as she examines the impact her grandfather, troubled artist Arshile Gorky, had on three generations.", 
+    "actors": "", 
+    "director": "Cosima Spender", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1496188800"
+},
+{
+    "title": "Wizard Mode", 
+    "description": "Pinball wizard Robert Gagno trains his focus on becoming a world pinball champion while simultaneously challenging social assumptions about autism.", 
+    "actors": "Robert Gagno", 
+    "director": "Nathan Drillot, Jeff Petry", 
+    "imdb_rating": "6.9/10", 
+    "category": "Documentaries", 
+    "date_released": "1483142400"
+},
+{
+    "title": "World of Compulsive Hoarders", 
+    "description": "Four compulsive hoarders are driven to accumulate objects but can't bear to throw them out -- to the point where their \"stuff\" takes over their lives.", 
+    "actors": "Paul McGann", 
+    "director": "Lucy Leveugle", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1496275200"
+},
+{
+    "title": "World\u2019s Heaviest Man Gets Married", 
+    "description": "After losing 400 of his 1225 pounds, Mexico's Manuel Uribe faces logistical obstacles as he prepares to marry his longtime girlfriend.", 
+    "actors": "", 
+    "director": "Suemay Oram", 
+    "imdb_rating": "", 
+    "category": "Documentaries", 
+    "date_released": "1456790400"
+},
+{
+    "title": "WWII: Report from the Aleutians", 
+    "description": "Filmmaker John Huston narrates this Oscar-nominated World War II-era film about life among the U.S. soldiers protecting Alaska\u2019s Aleutian Islands.", 
+    "actors": "", 
+    "director": "John Huston", 
+    "imdb_rating": "6.5/10", 
+    "category": "Documentaries", 
+    "date_released": "1490918400"
+}
+]
