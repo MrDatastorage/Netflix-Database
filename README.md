@@ -1,4 +1,4 @@
-# 🎥 Netflix Movie Database 🍿 in JSON
+# 🎥 Netflix Movie Database 🍿 in JSON ![](https://img.shields.io/github/issues/MrDatastorage/Netflix-Database.svg) ![](https://img.shields.io/github/issues/MrDatastorage/Netflix-Database.svg) ![](https://img.shields.io/github/issues/MrDatastorage/Netflix-Database.svg)
 
 #### :anchor:  Pull requests are most welcome, if you found great new netflix movies, tv shows etc..
 
