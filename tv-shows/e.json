@@ -1,1 +1,515 @@
-[]
+[
+{
+    "title": "Earth to Luna!", 
+    "description": "Curious about everything and excited about science, 12-year-old Luna, her brother Jupiter and pet Clyde explore nature to learn about the world.", 
+    "actors": "Angelina Carballo, Raul-Gomez Pina, Eric Anderson", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Kids' TV", 
+    "date_released": "1515974400"
+},
+{
+    "title": "Earth's Natural Wonders", 
+    "description": "Earth's most sublime landscapes can also be the most forbidding. Discover how inhabitants survive and flourish in our planet's harshest environments.", 
+    "actors": "Olivia Colman", 
+    "director": "", 
+    "imdb_rating": "8.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1488326400"
+},
+{
+    "title": "Earth's Natural Wonders: Life at the Extremes", 
+    "description": "From the Arctic to the Outback, humans battle the elements and use their ingenuity to survive in the most extreme environments in the world.", 
+    "actors": "Corey Johnson", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1538352000"
+},
+{
+    "title": "Eastsiders", 
+    "description": "Cal turns to his friends for help through a hilariously dark time when he discovers that his partner Thom's been cheating on him.", 
+    "actors": "Kit Williamson, Van Hansis, Constance Wu, Matthew McKelligon", 
+    "director": "", 
+    "imdb_rating": "6.5/10", 
+    "category": "TV Comedies", 
+    "date_released": "1467331200"
+},
+{
+    "title": "Easy", 
+    "description": "This eclectic, star-studded anthology follows diverse Chicagoans fumbling through the modern maze of love, sex, technology and culture.", 
+    "actors": "Aubrey Plaza, Judy Greer, Jane Adams, Zazie Beetz", 
+    "director": "", 
+    "imdb_rating": "5.6/10", 
+    "category": "TV Comedies", 
+    "date_released": "1474502400"
+},
+{
+    "title": "Easy Fortune Happy Life", 
+    "description": "Years after a wealthy man is healed by a rural herbalist, fate lands him in the same hospital where the woman's granddaughter is treating patients.", 
+    "actors": "Lan Cheng-Lung, Joe Chen, Roy Chiu, Jocelyn Wang", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Edgar Rice Burroughs' Tarzan and Jane", 
+    "description": "Saved from a plane crash and given supernatural powers, teen Tarzan joins forces with brave city girl Jane to protect his jungle home from threats.", 
+    "actors": "Marci T. House, Michael Dobson, Omari Newton, Paul Dobson", 
+    "director": "", 
+    "imdb_rating": "6.7/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1483660800"
+},
+{
+    "title": "Edge of the Universe", 
+    "description": "Leading astronomers reveal the latest discoveries about death-trap planets, asteroids, comets and other wonders of the cosmos.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Edha", 
+    "description": "Revenge, passion and dark secrets push a successful fashion designer and single mother to her limits when she meets a handsome and mysterious man.", 
+    "actors": "Juana Viale, Andr\u00e9s Velencoso, Delfina Chaves, Osmar Nu\u00f1ez", 
+    "director": "", 
+    "imdb_rating": "5.5/10", 
+    "category": "International TV Shows", 
+    "date_released": "1521158400"
+},
+{
+    "title": "Einsatzgruppen: The Nazi Death Squads", 
+    "description": "This documentary series examines the Einsatzgruppen, Nazis responsible for the mass murder of Jews, Romani and Soviet prisoners in Eastern Europe.", 
+    "actors": "Paul Bandey", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Docuseries", 
+    "date_released": "1478736000"
+},
+{
+    "title": "El Barco", 
+    "description": "Forty young crew members traveling aboard a training vessel are in for the adventure of a lifetime -- especially when a storm leaves them lost at sea.", 
+    "actors": "Juanjo Artero, Mario Casas, Blanca Su\u00e1rez, Irene Montal\u00e0", 
+    "director": "", 
+    "imdb_rating": "5.1/10", 
+    "category": "International TV Shows", 
+    "date_released": "1498867200"
+},
+{
+    "title": "El Camino Christmas", 
+    "description": "Stuck in a liquor store during an alleged robbery, a group of strangers shares hidden truths and forms an unexpected bond on Christmas Eve.", 
+    "actors": "Jessica Alba, Tim Allen, Dax Shepard, Vincent D'Onofrio", 
+    "director": "David E. Talbert", 
+    "imdb_rating": "5.9/10", 
+    "category": "Comedies", 
+    "date_released": "1512691200"
+},
+{
+    "title": "El Capo - El Amo del Tunel", 
+    "description": "After a daring escape from prison, a powerful Mexican drug lord becomes the target of police and criminals alike in this drama inspired by \"El Chapo.\"", 
+    "actors": "Irineo Alvarez, Jos\u00e9 Sefami, Sandra Benhumea, Aroa Gimeno", 
+    "director": "", 
+    "imdb_rating": "5.4/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1498867200"
+},
+{
+    "title": "El Cartel", 
+    "description": "One man makes a fateful decision to get involved with a Colombian drug cartel in this series based on a novel by Andr\u00e9s L\u00f3pez L\u00f3pez.", 
+    "actors": "Manolo Cardona, Karen Mart\u00ednez, Robinson D\u00edaz, Diego Cadavid", 
+    "director": "", 
+    "imdb_rating": "5.2/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1533859200"
+},
+{
+    "title": "El Cartel 2", 
+    "description": "Drug trafficker Pepe Cadena navigates the treacherous waters of warring cartels in Mexico and Colombia while avoiding capture by the DEA and police.", 
+    "actors": "Diego Cadavid, Robinson D\u00edaz, Patricia Manterola, Carolina Guerra", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1533859200"
+},
+{
+    "title": "El Chapo", 
+    "description": "This drama series chronicles the true story of the rise, capture and escape of notorious Mexican drug lord Joaqu\u00edn \"El Chapo\" Guzm\u00e1n.", 
+    "actors": "Marco de la O, Humberto Busto, Alejandro Aguilar, Rodrigo Abed", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1497571200"
+},
+{
+    "title": "El Chapulin Colorado", 
+    "description": "An unlikely superhero is more agile than a turtle, stronger than a mouse and nobler than lettuce. But he tends to get the job done!", 
+    "actors": "Jes\u00fas Guzm\u00e1n, Gerardo Alonso, Arturo Mercado, Gabriel Basurto", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1484438400"
+},
+{
+    "title": "El Chavo", 
+    "description": "El Chavo is a poor, nameless orphan who lives in an apartment building with La Chilindrina, Quico, Do\u00f1a Florinda, Don Ram\u00f3n and Professor Jirafales.", 
+    "actors": "Roberto G\u00f3mez Bola\u00f1os, Mar\u00eda Antonieta de las Nieves, Carlos Villagr\u00e1n, Florinda Meza Garc\u00eda", 
+    "director": "", 
+    "imdb_rating": "8.4/10", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1514678400"
+},
+{
+    "title": "El Chema", 
+    "description": "Follow one man's epic journey as he transforms from wily underage drug smuggler to one of the world's most infamous cartel leaders.", 
+    "actors": "Mauricio Ochmann, Mariana Seoane, Julio Bracho, Sergio Basa\u00f1ez", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1498867200"
+},
+{
+    "title": "El Clon", 
+    "description": "Religion thwarted Lucas and Jade's young love. They reunite decades later, but Jade's heart is torn between the man she knew and his younger clone.", 
+    "actors": "Mauricio Ochmann, Sandra Echeverr\u00eda, Sa\u00fal Lisazo, Roberto Moll", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Romantic TV Shows", 
+    "date_released": "1447545600"
+},
+{
+    "title": "El Hotel de los Secretos", 
+    "description": "Hoping to solve his sister\u2019s disappearance, a penniless man becomes a waiter at a suspicious hotel only to reunite with a fascinating stranger.", 
+    "actors": "Irene Azuela, Erick El\u00edas, Diana Bracho, Daniela Romo", 
+    "director": "Francisco Franco", 
+    "imdb_rating": "5.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1484438400"
+},
+{
+    "title": "El Internado", 
+    "description": "When strange events begin to occur at the elite Laguna Negra boarding school, a group of students uncover dark secrets about its past.", 
+    "actors": "Daniel Retuerta, Carlos Leal, Natalia Mill\u00e1n, Marti\u00f1o Rivas", 
+    "director": "", 
+    "imdb_rating": "6.5/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1539561600"
+},
+{
+    "title": "El marginal", 
+    "description": "While investigating a kidnapping, an ex-cop sent to infiltrate a prison finds himself surrounded by dangerous felons who can't know his real identity.", 
+    "actors": "Nicol\u00e1s Furtado, Esteban Lamothe, Martina Gusman, Claudio Rissi", 
+    "director": "", 
+    "imdb_rating": "7.2/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1475798400"
+},
+{
+    "title": "El Reemplazante", 
+    "description": "A former high-ranking financial executive finds redemption and romance when he's paroled after a prison sentence and becomes a math teacher.", 
+    "actors": "Iv\u00e1n \u00c1lvarez de Araya, Blanca Lewin, Karla Melo, Sebasti\u00e1n Ayala", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1489968000"
+},
+{
+    "title": "El se\u00f1or de los Cielos", 
+    "description": "Only Aurelio Casillas can fill Pablo Escobar's shoes and become Mexico's biggest drug trafficker of the '90s.", 
+    "actors": "Rafael Amaya, Ximena Herrera, Robinson D\u00edaz, Ra\u00fal M\u00e9ndez", 
+    "director": "", 
+    "imdb_rating": "4.8/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1435622400"
+},
+{
+    "title": "El Vato", 
+    "description": "Regional Mexican singer El Vato and his friends struggle to succeed in the enticing but deceptive music world in Los Angeles, California.", 
+    "actors": "El Dasa, Cristina Rodlo, Ricardo Polanco, Gustavo Egelhaaf", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "International TV Shows", 
+    "date_released": "1477353600"
+},
+{
+    "title": "Elephant Family & Me", 
+    "description": "On foot, a wildlife cameraman tracks an elephant family through the mountains of Kenya, capturing unprecedented images of their lives and behavior.", 
+    "actors": "Gordon Buchanan", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1490918400"
+},
+{
+    "title": "Elite", 
+    "description": "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder.", 
+    "actors": "Danna Paola, Miguel Herr\u00e1n, Mar\u00eda Pedraza, Itzan Escamilla", 
+    "director": "", 
+    "imdb_rating": "6.6/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1538697600"
+},
+{
+    "title": "Embarrassing Bodies", 
+    "description": "In an effort to encourage people to address potentially embarrassing health issues, three doctors offer their services with absolutely no judgment.", 
+    "actors": "Dawn Harper, Christian Jessen, Pixie McKenna, Ashley Jensen", 
+    "director": "", 
+    "imdb_rating": "7.4/10", 
+    "category": "British TV Shows", 
+    "date_released": "1498780800"
+},
+{
+    "title": "Emergency Down Under", 
+    "description": "In a land of unforgiving extremes, everyday heroes work to keep emergencies at bay while putting their own lives at tremendous risk.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1472688000"
+},
+{
+    "title": "Empire of the Tsars", 
+    "description": "Historian Lucy Worsley chronicles the triumphs, excesses and violent downfall of the imperial Romanov dynasty, which ruled Russia for three centuries.", 
+    "actors": "Lucy Worsley", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "British TV Shows", 
+    "date_released": "1479168000"
+},
+{
+    "title": "Encerrados", 
+    "description": "This fictional series tells the stories of what happens to people when they feel caged in, whether physically, psychologically or emotionally.", 
+    "actors": "Luis Mach\u00edn, Maria Merlino, Fabi\u00e1n Vena, Ana Chalentano", 
+    "director": "Benjam\u00edn \u00c1vila", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1529280000"
+},
+{
+    "title": "Encounters with Evil", 
+    "description": "This documentary series tries to get at the root of some of the most heinous crimes ever committed by deranged, cold-blooded criminals.", 
+    "actors": "Richard Lintern", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1519689600"
+},
+{
+    "title": "Enemigo \u00edntimo", 
+    "description": "Siblings separated as children who no longer recognize each other are pitted against each other in a war involving drugs, crime and betrayal.", 
+    "actors": "Ra\u00fal M\u00e9ndez, Fernanda Castillo, Matias Novoa, Guillermo Quintanilla", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "Crime TV Shows", 
+    "date_released": "1533427200"
+},
+{
+    "title": "Entangled", 
+    "description": "When the children of two families become friends, they begin to unravel a horrific crime in the past that already linked their fathers to each other.", 
+    "actors": "Thomas Ong, Jack Tan, Margaret Wang, Kate Pang", 
+    "director": "", 
+    "imdb_rating": "5.0/10", 
+    "category": "International TV Shows", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Episodes", 
+    "description": "Hoping to create an American version of their hit British sitcom, two screenwriters run into cultural obstacles, starting with the lead character.", 
+    "actors": "Matt LeBlanc, Tamsin Greig, Stephen Mangan, Kathleen Rose Perkins", 
+    "director": "", 
+    "imdb_rating": "7.7/10", 
+    "category": "Classic & Cult TV", 
+    "date_released": "1515196800"
+},
+{
+    "title": "Equestria Girls: Tales of Canterlot High", 
+    "description": "In an alternate universe Equestria, the ponies have become teenage girls who must learn what it means to be human while attending Canterlot High.", 
+    "actors": "Tara Strong, Ashleigh Ball, Andrea Libman, Tabitha St. Germain", 
+    "director": "", 
+    "imdb_rating": "2.0/10", 
+    "category": "Kids' TV", 
+    "date_released": "1506816000"
+},
+{
+    "title": "Erased", 
+    "description": "After finding his mom killed, Satoru's time-traveling ability takes him back 18 years for a chance to prevent her death and those of three classmates.", 
+    "actors": "Yuki Furukawa, Mio Yuki, Jin Shirasu, Reo Uchikawa", 
+    "director": "", 
+    "imdb_rating": "8.1/10", 
+    "category": "International TV Shows", 
+    "date_released": "1513296000"
+},
+{
+    "title": "Eric ldle's What About Dick?", 
+    "description": "In a madcap stage play from Monty Python icon Eric Idle, comic greats perform the decline and fall of the British Empire ... as told through a piano.", 
+    "actors": "Russell Brand, Billy Connolly, Tim Curry, Eric Idle", 
+    "director": "Eric Idle, Aubrey Powell", 
+    "imdb_rating": "7.3/10", 
+    "category": "Comedies", 
+    "date_released": "1538438400"
+},
+{
+    "title": "Escape to the Continent", 
+    "description": "Brits looking to start new lives in France, Austria, Spain and other European countries go house hunting and learn the pros and cons of each locale.", 
+    "actors": "Alistair Appleton, Nicki Chapman, Anita Rani", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1527811200"
+},
+{
+    "title": "Escape to the Country Collection", 
+    "description": "Show hosts help prospective home buyers select country houses from all over Great Britain, highlighting each area's natural beauty and history.", 
+    "actors": "Jules Hudson, Nicki Chapman, Jonnie Irwin, Alistair Appleton", 
+    "director": "", 
+    "imdb_rating": "6.3/10", 
+    "category": "British TV Shows", 
+    "date_released": "1488240000"
+},
+{
+    "title": "Estocolmo", 
+    "description": "An undercover agent, a prosecutor and a journalist try to bring down a human trafficking ring, but nothing is as straightforward as it seems.", 
+    "actors": "Juana Viale, Luciano C\u00e1ceres, Esteban Lamothe, Leonor Benedetto", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1478822400"
+},
+{
+    "title": "Eternal Love", 
+    "description": "After the deities Bai Qian and Ye Hua meet and fall in love, their romance stands the test of three lifetimes \u2014 each an epic in its own right.", 
+    "actors": "Yang Mi, Mark Chao, Dilraba Dilmurat, Ken Chang", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1542326400"
+},
+{
+    "title": "Ever After High", 
+    "description": "The kids of fairy-tale characters attend a school with two cliques: those who accept their fairy-tale destinies and those who want to write their own.", 
+    "actors": "Jonquil Goode, Karen Strassman, Audu Paden, Julie Maddalena", 
+    "director": "", 
+    "imdb_rating": "7.2/10", 
+    "category": "Kids' TV", 
+    "date_released": "1391212800"
+},
+{
+    "title": "Everly", 
+    "description": "When a call girl is targeted by her mob boss ex, she fights a solitary war against a relentless tide of hit men to save herself and her family.", 
+    "actors": "Salma Hayek, Hiroyuki Watanabe, Laura Cepeda, Togo Igawa", 
+    "director": "Joe Lynch", 
+    "imdb_rating": "5.2/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1452816000"
+},
+{
+    "title": "Everyday Miracles", 
+    "description": "Materials scientist Mark Miodownik takes us into the world of everyday objects that make our lives more comfortable than those of our ancestors.", 
+    "actors": "Mark Miodownik", 
+    "director": "", 
+    "imdb_rating": "7.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1501545600"
+},
+{
+    "title": "Everything Sucks!", 
+    "description": "It's 1996 in a town called Boring, where high school misfits in the AV and drama clubs brave the ups and downs of teenage life in the VHS era.", 
+    "actors": "Jahi Di'Allo Winston, Peyton Kennedy, Patch Darragh, Claudine Mboligikpelani Nako", 
+    "director": "", 
+    "imdb_rating": "7.4/10", 
+    "category": "TV Comedies", 
+    "date_released": "1518739200"
+},
+{
+    "title": "Evil Genius: the True Story of America's Most Diabolical Bank Heist", 
+    "description": "This baffling true crime story starts with the grisly death of a pizza man who robs a bank with a bomb around his neck -- and gets weirder from there.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "7.5/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1525996800"
+},
+{
+    "title": "Ex-Boyfriend", 
+    "description": "Still haunted by the traumatic event that ended her high school romance, a young professional gets a new subordinate: her former sweetheart.", 
+    "actors": "Tony Yang, Nana Lee, Jerry Huang, Liao Yi Chiao", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1483228800"
+},
+{
+    "title": "Exclusive Edition", 
+    "description": "Young journalists working for a magazine juggle careers, romance and other challenges while reporting on social issues and news stories in Malaysia.", 
+    "actors": "Berg Lee, Yise Loo, Alvin Wong, Hady", 
+    "director": "James Lee", 
+    "imdb_rating": "", 
+    "category": "International TV Shows", 
+    "date_released": "1502668800"
+},
+{
+    "title": "Expelled", 
+    "description": "After one of his more outrageous pranks gets him kicked out of high school, Felix resorts to extreme measures to keep his parents from finding out.", 
+    "actors": "Cameron Dallas, Matt Shively, Lia Marie Johnson, Marcus Johns", 
+    "director": "Alex Goyette", 
+    "imdb_rating": "6.1/10", 
+    "category": "Comedies", 
+    "date_released": "1422748800"
+},
+{
+    "title": "Experimenter", 
+    "description": "The true story of Yale researcher Stanley Milgram's controversial psychological experiments that revealed disturbing truths about human behavior.", 
+    "actors": "Peter Sarsgaard, Winona Ryder, Jim Gaffigan, Kellan Lutz", 
+    "director": "Michael Almereyda", 
+    "imdb_rating": "6.6/10", 
+    "category": "Dramas", 
+    "date_released": "1454544000"
+},
+{
+    "title": "Extinction", 
+    "description": "Plagued by dreams of an alien invasion, a family man faces his worst nightmare when an extraterrestrial force begins exterminating Earth's inhabitants.", 
+    "actors": "Michael Pe\u00f1a, Lizzy Caplan, Israel Broussard, Mike Colter", 
+    "director": "Ben Young", 
+    "imdb_rating": "5.9/10", 
+    "category": "Action & Adventure", 
+    "date_released": "1532649600"
+},
+{
+    "title": "Extras", 
+    "description": "Grasping hungrily for stardom, bit actor Andy Millman and his pal Maggie spend their days chasing after work as film and TV extras.", 
+    "actors": "Ricky Gervais, Ashley Jensen, Stephen Merchant, Shaun Williamson", 
+    "director": "", 
+    "imdb_rating": "7.9/10", 
+    "category": "British TV Shows", 
+    "date_released": "1490918400"
+},
+{
+    "title": "Extraterrestrial", 
+    "description": "Leading scientists gather in a custom laboratory and create sophisticated computer models of what life on other planets might actually look like.", 
+    "actors": "Armand Leroi", 
+    "director": "", 
+    "imdb_rating": "", 
+    "category": "British TV Shows", 
+    "date_released": "1470009600"
+},
+{
+    "title": "Extreme Apprentices: Slum Survivors", 
+    "description": "Trainee chefs, plumbers and mechanics travel to the world's poorest neighborhoods, where plying their trade means honing a whole new set of skills.", 
+    "actors": "", 
+    "director": "", 
+    "imdb_rating": "6.0/10", 
+    "category": "British TV Shows", 
+    "date_released": "1475798400"
+},
+{
+    "title": "Ezel", 
+    "description": "A young man framed for a crime escapes a prison sentence by faking his own death and assuming a new identity as he seeks revenge.", 
+    "actors": "Kenan \u0130mirzal\u0131o\u011flu, Cansu Dere, Haluk Bilginer, Yi\u011fit \u00d6z\u015fener", 
+    "director": "", 
+    "imdb_rating": "8.3/10", 
+    "category": "Crime TV Shows", 
+    "date_released": "1482710400"
+}
+]
